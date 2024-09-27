@@ -74,7 +74,7 @@ def daily_task():
     src = '19121220286@163.com'
     tos = ['pxxhl@qq.com']
     subject = '每日 GitHub 趋势项目'
-    contents = ['今日 GitHub 趋势项目如下：', get_contents(path), path]
+    contents = ['这里是邮件正文', get_contents(path), path]
     
     send_emails(src, tos, subject, contents)
 
