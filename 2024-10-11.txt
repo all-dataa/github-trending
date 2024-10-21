@@ -1,0 +1,33 @@
+今日Python项目趋势：
+
+1. [roboflow / supervision]:编写您可重复使用的计算机视觉工具。💜(https://github.com/roboflow/supervision)
+2. [1Panel-dev / MaxKB]:🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。(https://github.com/1Panel-dev/MaxKB)
+3. [open-mmlab / mmsegmentation]:OpenMMLab 语义分割工具箱和基准。(https://github.com/open-mmlab/mmsegmentation)
+4. [hacksider / Deep-Live-Cam]:仅使用一张图片即可实现实时人脸交换和一键式视频深度伪造。(https://github.com/hacksider/Deep-Live-Cam)
+5. [public-apis / public-apis]:免费API的集体列表。(https://github.com/public-apis/public-apis)
+6. [modelscope / FunASR]:一个基础端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。(https://github.com/modelscope/FunASR)
+7. [pre-commit / pre-commit-hooks]:一些预提交钩子的现成钩子。(https://github.com/pre-commit/pre-commit-hooks)
+8. [infiniflow / ragflow]:基于深度文档理解的RAG（检索增强生成）引擎。(https://github.com/infiniflow/ragflow)
+9. [tinygrad / tinygrad]:你喜欢PyTorch？你喜欢micrograd？你爱tinygrad！❤️(https://github.com/tinygrad/tinygrad)
+10. [ManimCommunity / manim]:一个用于创建数学动画的社区维护的Python框架。(https://github.com/ManimCommunity/manim)
+11. [disposable-email-domains / disposable-email-domains]:可丢弃和临时电子邮件地址域列表。(https://github.com/disposable-email-domains/disposable-email-domains)
+12. [psf / black]:无妥协的Python代码格式化器。(https://github.com/psf/black)
+13. [livekit / agents]:构建实时多模态AI应用程序 🤖🎙️📹(https://github.com/livekit/agents)
+14. [LiLittleCat / awesome-free-ChatGPT]:🆓免费的ChatGPT镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated。(https://github.com/LiLittleCat/awesome-free-ChatGPT)
+15. [modelscope / ms-swift]:使用PEFT或全参数微调350+ LLM或100+ MLLM。(https://github.com/modelscope/ms-swift)
+16. [frappe / erpnext]:免费和开源的企业资源规划（ERP）系统。(https://github.com/frappe/erpnext)
+17. [microsoft / unilm]:跨任务、语言和模态的大规模自监督预训练。(https://github.com/microsoft/unilm)
+18. [pytorch / pytorch]:带有强大GPU加速的Python中的张量动态神经网络。(https://github.com/pytorch/pytorch)
+19. [VikParuchuri / surya]:90多种语言的OCR、布局分析、阅读顺序、表格识别。(https://github.com/VikParuchuri/surya)
+20. [THUDM / GLM-4]:GLM-4系列：开源多语言多模态对话模型。(https://github.com/THUDM/GLM-4)
+21. [ultralytics / ultralytics]:Ultralytics YOLO11 🚀(https://github.com/ultralytics/ultralytics)
+
+惊艳项目安利：
+[roboflow / supervision]:这是编写您可重复使用的计算机视觉工具的平台，非常适合需要快速开发和集成视觉解决方案的开发者。
+
+今日趋势项目关注领域和特点：
+- 计算机视觉和深度学习工具：如roboflow/supervision、open-mmlab/mmsegmentation等，展示了对图像和视频处理技术的不断探索。
+- 人工智能应用：包括MaxKB、FunASR等，体现了AI在知识库问答、语音识别等领域的应用扩展。
+- 开源社区和工具：如public-apis、pre-commit/pre-commit-hooks等，凸显了开源社区对开发者工具的支持和贡献。
+- 代码质量和工具：如psf/black，强调了对代码质量管理的重视。
+- 多模态交互：如livekit/agents，显示了多模态AI应用在实时交互中的潜力。

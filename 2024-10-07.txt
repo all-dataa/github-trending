@@ -1,0 +1,27 @@
+2024-10-07
+
+Python项目趋势
+1. [TheAlgorithms / Python]:Python中的所有算法实现（https://github.com/TheAlgorithms/Python）
+2. [livekit / agents]:构建实时多模态AI应用 🤖🎙️📹（https://github.com/livekit/agents）
+3. [Pythagora-io / gpt-pilot]:首个真正的AI开发者（https://github.com/Pythagora-io/gpt-pilot）
+4. [zauberzeug / nicegui]:使用Python创建基于Web的用户界面。优雅的方式。（https://github.com/zauberzeug/nicegui）
+5. [ErikBjare / gptme]:您的终端代理，配备了本地工具：编写代码、使用终端、浏览网页、视觉。（https://github.com/ErikBjare/gptme）
+6. [home-assistant / core]:🏡以本地控制和隐私为首要考虑的开源智能家居自动化系统。（https://github.com/home-assistant/core）
+7. [vnpy / vnpy]:基于Python的开源量化交易平台开发框架（https://github.com/vnpy/vnpy）
+8. [donnemartin / system-design-primer]:学习如何设计大规模系统。为系统设计面试做准备。包括Anki闪卡。（https://github.com/donnemartin/system-design-primer）
+9. [Mikubill / sd-webui-controlnet]:ControlNet的WebUI扩展（https://github.com/Mikubill/sd-webui-controlnet）
+10. [public-apis / public-apis]:免费的API集合列表（https://github.com/public-apis/public-apis）
+11. [ComposioHQ / composio]:Composio通过函数调用为您的AI代理和LLM提供100多个高质量集成（https://github.com/ComposioHQ/composio）
+12. [searxng / searxng]:SearXNG是一个免费的互联网元搜索引擎，从各种搜索服务和数据库中聚合结果。用户既不被追踪也不被创建档案。（https://github.com/searxng/searxng）
+13. [python-telegram-bot / python-telegram-bot]:我们为您提供了一个无法拒绝的包装器（https://github.com/python-telegram-bot/python-telegram-bot）
+14. [opendatalab / MinerU]:一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。（https://github.com/opendatalab/MinerU）
+15. [jianchang512 / pyvideotrans]:将视频从一种语言翻译为另一种语言，并支持API调用（https://github.com/jianchang512/pyvideotrans）
+16. [wilsonfreitas / awesome-quant]:一个精选的库、包和资源列表，非常适合量化交易者（https://github.com/wilsonfreitas/awesome-quant）
+17. [karpathy / build-nanogpt]:从头构建nanoGPT的视频+代码讲座（https://github.com/karpathy/build-nanogpt）
+
+惊艳项目推荐：
+[Pythagora-io / gpt-pilot]: 首个真正的AI开发者，利用AI技术实现高效开发。
+
+今日趋势项目关注领域及特点：
+关注领域：算法、AI应用、智能家居、量化交易、系统设计、数据提取、Web开发、API集成等。
+特点：项目多样性高，涵盖了从基础算法到前沿AI应用等多个领域，展现了Python在各个领域的广泛应用和强大能力。

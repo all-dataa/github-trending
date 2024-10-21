@@ -1,0 +1,25 @@
+2024-10-15
+
+Python
+1. [openai / swarm]:由OpenAI解决方案团队管理的教育框架，探索人体工程学、轻量级多智能体编排。（https://github.com/openai/swarm）
+2. [3b1b / manim]:用于解释性数学视频的动画引擎。（https://github.com/3b1b/manim）
+3. [ManimCommunity / manim]:一个由社区维护的Python框架，用于创建数学动画。（https://github.com/ManimCommunity/manim）
+4. [eloialonso / diamond]:DIAMOND（扩散作为环境梦境模型）是一个在扩散世界模型中训练的强化学习智能体。NeurIPS 2024 Spotlight。（https://github.com/eloialonso/diamond）
+5. [3b1b / videos]:用于3blue1brown视频中由manim生成的场景的代码。（https://github.com/3b1b/videos）
+6. [LibraHp / GetQzonehistory]:获取QQ空间发布的历史说说。（https://github.com/LibraHp/GetQzonehistory）
+7. [yt-dlp / yt-dlp]:一个功能丰富的命令行音频/视频下载器。（https://github.com/yt-dlp/yt-dlp）
+8. [lllyasviel / Fooocus]:专注于提示和生成。（https://github.com/lllyasviel/Fooocus）
+9. [d2l-ai / d2l-zh]：《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。（https://github.com/d2l-ai/d2l-zh）
+10. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI。（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
+11. [public-apis / public-apis]:免费API的集体列表。（https://github.com/public-apis/public-apis）
+12. [ArchiveBox / ArchiveBox]:🗃 开源自托管网络存档。从URL/浏览器历史/书签/Pocket/Pinboard等获取，保存HTML、JS、PDFs、媒体等。（https://github.com/ArchiveBox/ArchiveBox）
+13. [home-assistant / core]:🏡 开源智能家居，将本地控制和隐私放在首位。（https://github.com/home-assistant/core）
+14. [lllyasviel / stable-diffusion-webui-forge]:（https://github.com/lllyasviel/stable-diffusion-webui-forge）
+15. [PaddlePaddle / PaddleOCR]:基于PaddlePaddle的出色多语言OCR工具包（实用的超轻量级OCR系统，支持80+语言识别，提供数据标注和合成工具，支持在服务器、移动、嵌入式和物联网设备上的训练和部署）（https://github.com/PaddlePaddle/PaddleOCR）
+16. [assafelovic / gpt-researcher]:基于LLM的自主智能体，可以针对任何给定主题进行深入研究。（https://github.com/assafelovic/gpt-researcher）
+17. [kyegomez / swarms]:企业级生产就绪的多智能体编排框架。加入我们的社区：https://discord.com/servers/agora-999382051935506503（https://github.com/kyegomez/swarms）
+18. [Cinnamon / kotaemon]:一个基于RAG的开源工具，用于与您的文档聊天。（https://github.com/Cinnamon/kotaemon）
+
+惊艳项目推荐：[d2l-ai / d2l-zh] 《动手学深度学习》——面向中文读者的深度学习教程，内容丰富，实践性强。
+
+今日趋势项目关注的领域和特点：今日趋势项目主要集中在人工智能、数学教育、开源工具和框架、智能家居等领域。特点是项目涉及的技术领域广泛，从数学教育到人工智能，从开源工具到智能家居，体现了Python在各个领域的广泛应用和强大生命力。

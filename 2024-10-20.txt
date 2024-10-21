@@ -1,0 +1,22 @@
+2024-10-20
+
+python
+1. [phidatahq / phidata]:构建具有记忆、知识、工具和推理能力的AI代理（https://github.com/phidatahq/phidata）
+2. [serengil / deepface]:一个轻量级的Python人脸识别和面部属性分析（年龄、性别、情绪和种族）库（https://github.com/serengil/deepface）
+3. [TheAlgorithms / Python]:所有算法在Python中的实现（https://github.com/TheAlgorithms/Python）
+4. [rany2 / edge-tts]:从Python中使用微软Edge的在线文本到语音服务，无需微软Edge、Windows或API密钥（https://github.com/rany2/edge-tts）
+5. [spesmilo / electrum]:Electrum比特币钱包（https://github.com/spesmilo/electrum）
+6. [mahdibland / V2RayAggregator]:从公共来源收集大量的Shadowsocks、ShadowsocksR、Trojan、Vmess，并通过速度筛选最佳节点（https://github.com/mahdibland/V2RayAggregator）
+7. [commaai / openpilot]:openpilot是一个用于机器人的操作系统。目前，它升级了275多款支持的车辆的驾驶辅助系统。（https://github.com/commaai/openpilot）
+8. [ArchiveBox / ArchiveBox]:🗃 开源自托管网页存档。保存URL/浏览器历史/书签/Pocket/Pinboard等，保存HTML、JS、PDF、媒体等。（https://github.com/ArchiveBox/ArchiveBox）
+9. [yt-dlp / yt-dlp]:功能丰富的命令行音频/视频下载器（https://github.com/yt-dlp/yt-dlp）
+10. [Acly / krita-ai-diffusion]:在Krita中使用AI生成图像的简化界面。可选文本提示进行修复和扩展，无需调整。（https://github.com/Acly/krita-ai-diffusion）
+11. [donnemartin / system-design-primer]:学习如何设计大规模系统。为系统设计面试做准备。包括Anki闪卡。（https://github.com/donnemartin/system-design-primer）
+12. [wandb / wandb]:AI开发者平台。使用Weights & Biases训练和微调模型，并从实验到生产管理模型。（https://github.com/wandb/wandb）
+13. [xtekky / gpt4free]:官方gpt4free仓库 | 强大语言模型的多种集合（https://github.com/xtekky/gpt4free）
+14. [qxresearch / qxresearch-event-1]:Python实战教程，包含50多个Python应用程序（10行代码）由xiaowuc2提供（https://github.com/qxresearch/qxresearch-event-1）
+15. [frdel / agent-zero]:Agent Zero AI框架（https://github.com/frdel/agent-zero）
+
+安利项目：[commaai / openpilot](https://github.com/commaai/openpilot) - 一个开源的机器人操作系统，用于升级多种车辆的驾驶辅助系统。
+
+今日趋势项目关注的领域和特点：今日趋势项目涵盖了人工智能、数据分析、编程语言、系统设计、网络安全等多个领域。项目特点包括开源、实用性强、功能丰富、跨平台等。

@@ -1,0 +1,27 @@
+2024-10-13
+
+Python
+1. [public-apis / public-apis]: 一个免费API的集合列表（https://github.com/public-apis/public-apis）
+2. [hacksider / Deep-Live-Cam]: 仅使用一张图片即可实现实时面部交换和一键视频深度伪造（https://github.com/hacksider/Deep-Live-Cam）
+3. [gradio-app / gradio]: 使用Python构建和分享令人愉悦的机器学习应用。🌟 点赞以支持我们的工作！（https://github.com/gradio-app/gradio）
+4. [cupy / cupy]: 用于GPU的NumPy和SciPy（https://github.com/cupy/cupy）
+5. [stanfordnlp / dspy]: DSPy：用于编程基础模型的框架（而非提示）（https://github.com/stanfordnlp/dspy）
+6. [zhayujie / ChatGPT-on-wechat]: 基于大模型搭建的聊天机器人，支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。（https://github.com/zhayujie/ChatGPT-on-wechat）
+7. [comfyanonymous / ComfyUI]: 最强大且模块化的扩散模型GUI、API和后端，具有图形/节点界面。（https://github.com/comfyanonymous/ComfyUI）
+8. [Zeyi-Lin / HivisionIDPhotos]: ⚡️HivisionIDPhotos：一个轻量级的AI证件照制作工具。（https://github.com/Zeyi-Lin/HivisionIDPhotos）
+9. [Avaiga / taipy]: 快速将数据和AI算法转化为生产就绪的Web应用程序。（https://github.com/Avaiga/taipy）
+10. [thuml / Time-Series-Library]: 用于高级深度时间序列模型的库。（https://github.com/thuml/Time-Series-Library）
+11. [mlc-ai / mlc-llm]: 带有ML编译的通用LLM部署引擎。（https://github.com/mlc-ai/mlc-llm）
+12. [google-deepmind / alphafold]: AlphaFold的开源代码。（https://github.com/google-deepmind/alphafold）
+13. [PaddlePaddle / PaddleOCR]: 基于PaddlePaddle的出色多语言OCR工具包（实用超轻量OCR系统，支持80+语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和IoT设备上的训练和部署）（https://github.com/PaddlePaddle/PaddleOCR）
+14. [unclecode / crawl4ai]: 🔥🕷️ Crawl4AI：开源的LLM友好型Web爬虫和抓取工具。（https://github.com/unclecode/crawl4ai）
+15. [vllm-project / vllm]: LLM的高吞吐量和内存高效推理和托管引擎。（https://github.com/vllm-project/vllm）
+
+惊艳项目推荐：
+[hacksider / Deep-Live-Cam]: 仅使用一张图片即可实现实时面部交换和一键视频深度伪造，非常惊艳。
+
+今日趋势项目关注领域和特点：
+- AI应用开发：包括聊天机器人、深度伪造、图像处理等。
+- 数据科学和机器学习：如时间序列分析、机器学习库、OCR工具等。
+- 深度学习框架：如Cupy、PaddlePaddle等。
+- 开发工具和平台：如Gradio、taipy等，旨在简化机器学习应用的开发过程。

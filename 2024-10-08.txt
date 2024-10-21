@@ -1,0 +1,23 @@
+2024-10-08
+
+Python
+1. [TheAlgorithms / Python]:所有算法在Python中的实现（https://github.com/TheAlgorithms/Python）
+2. [livekit / agents]:构建实时多模态AI应用 🤖🎙️📹（https://github.com/livekit/agents）
+3. [ErikBjare / gptme]:你的终端代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。（https://github.com/ErikBjare/gptme）
+4. [Avaiga / taipy]:迅速将数据和AI算法转换为生产就绪的Web应用程序。（https://github.com/Avaiga/taipy）
+5. [lllyasviel / Fooocus]:专注于提示和生成。（https://github.com/lllyasviel/Fooocus）
+6. [vnpy / vnpy]:基于Python的开源量化交易平台开发框架。（https://github.com/vnpy/vnpy）
+7. [ComposioHQ / composio]:Composio通过函数调用为AI代理和LLMs提供100多个高质量集成。（https://github.com/ComposioHQ/composio）
+8. [alandtse / alexa_media_player]:这是一个自定义组件，允许在Home Assistant中使用非官方Alexa API控制Amazon Alexa设备。（https://github.com/alandtse/alexa_media_player）
+9. [gradio-app / gradio]:使用Python构建和共享令人愉悦的机器学习应用程序。🌟 Star以支持我们的工作！（https://github.com/gradio-app/gradio）
+10. [donnemartin / system-design-primer]:学习如何设计大规模系统。为系统设计面试做准备。包括Anki闪卡。（https://github.com/donnemartin/system-design-primer）
+11. [KruxAI / ragbuilder]:创建针对您的数据的最优生产就绪RAG设置的工具包。（https://github.com/KruxAI/ragbuilder）
+12. [Open-Wine-Components / umu-launcher]：（https://github.com/Open-Wine-Components/umu-launcher）
+13. [danswer-ai / danswer]:团队通用AI聊天 - 如果ChatGPT能访问您团队的独特知识，它将如何思考。（https://github.com/danswer-ai/danswer）
+14. [zauberzeug / nicegui]:使用Python创建基于Web的用户界面。简单直接。（https://github.com/zauberzeug/nicegui）
+
+惊艳项目推荐：
+[ErikBjare / gptme]: 你的终端代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。（https://github.com/ErikBjare/gptme）
+
+今日趋势项目关注领域和特点：
+今日趋势项目主要集中在AI应用开发、数据科学、量化交易、系统设计、Web应用程序开发等领域。特点包括：广泛的应用场景、强大的集成能力、创新的技术应用、开源共享和社区支持。

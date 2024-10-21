@@ -1,0 +1,25 @@
+2024-10-04
+
+Python项目趋势
+
+1. [Pythagora-io / gpt-pilot]:首个真正的AI开发者（https://github.com/Pythagora-io/gpt-pilot）
+2. [mandiant / capa]:FLARE团队开源的工具，用于识别可执行文件中的功能。（https://github.com/mandiant/capa）
+3. [OpenBB-finance / OpenBB]:面向每个人的投资研究，无处不在。（https://github.com/OpenBB-finance/OpenBB）
+4. [Avaiga / taipy]:将数据和AI算法转化为生产就绪的Web应用，无需等待。（https://github.com/Avaiga/taipy）
+5. [pytorch / ao]:PyTorch原生量化与稀疏性，用于训练和推理。（https://github.com/pytorch/ao）
+6. [Asabeneh / 30-Days-Of-Python]:30天Python编程挑战，一步步学习Python编程语言的指南。这个挑战可能需要超过100天，跟随自己的节奏。这些视频也可能有帮助：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw（https://github.com/Asabeneh/30-Days-Of-Python）
+7. [myshell-ai / OpenVoice]:MIT和MyShell的即时声音克隆。（https://github.com/myshell-ai/OpenVoice）
+8. [dbt-labs / dbt-core]:dbt使数据分析师和工程师能够使用与软件开发人员构建应用程序相同的实践来转换他们的数据。（https://github.com/dbt-labs/dbt-core）
+9. [lucidrains / vit-pytorch]:在Pytorch中实现视觉Transformer，一种仅使用单个Transformer编码器实现视觉分类SOTA的简单方法。（https://github.com/lucidrains/vit-pytorch）
+10. [mem0ai / mem0]:为您的AI应用提供记忆层。（https://github.com/mem0ai/mem0）
+11. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：LLM友好的开源Web爬虫和Scrapper。（https://github.com/unclecode/crawl4ai）
+12. [fedirz / faster-whisper-server]：（https://github.com/fedirz/faster-whisper-server）
+13. [searxng / searxng]:SearXNG是一个免费的互联网元搜索引擎，它从各种搜索服务和数据库中聚合结果。用户既不被追踪也不被建立档案。（https://github.com/searxng/searxng）
+14. [TheAlgorithms / Python]:在Python中实现的所有算法。（https://github.com/TheAlgorithms/Python）
+15. [ultralytics / ultralytics]:Ultralytics YOLO11 🚀（https://github.com/ultralytics/ultralytics）
+16. [lightly-ai / lightly]:一个用于图像自监督学习的Python库。（https://github.com/lightly-ai/lightly）
+17. [mindsdb / mindsdb]:构建AI的企业数据平台。（https://github.com/mindsdb/mindsdb）
+
+惊艳项目推荐：[Pythagora-io / gpt-pilot] - 首个真正的AI开发者，为AI开发领域带来了新的可能性。
+
+今天趋势项目关注的领域和特点：趋势项目主要集中在AI开发、数据分析、机器学习、自然语言处理和投资研究等领域，特点包括开源、跨平台、高效能、社区活跃等。

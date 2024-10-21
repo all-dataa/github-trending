@@ -1,0 +1,28 @@
+2024-10-18
+
+Python项目趋势分析：
+
+1. [serengil / deepface]:轻量级的人脸识别和面部属性分析库，支持年龄、性别、情绪和种族分析。
+2. [TheAlgorithms / Python]:Python实现的所有算法。
+3. [vllm-project / vllm]:为LLMs提供高效和内存优化的推理和部署引擎。
+4. [ArchiveBox / ArchiveBox]:开源自托管网络存档，支持保存网页、JS、PDF、媒体等多格式。
+5. [frdel / agent-zero]:Agent Zero AI框架。
+6. [explodinggradients / ragas]:增强LLM应用评估的工具。
+7. [dbt-labs / dbt-core]:dbt使数据分析师和工程师能够使用与软件工程师构建应用程序相同的实践来转换数据。
+8. [phidatahq / phidata]:构建具有记忆、知识、工具和推理能力的AI代理。
+9. [Guovin / TV]:IPTV电视直播源更新工具，支持自定义频道、组播源、订阅源等。
+10. [ComposioHQ / composio]:通过函数调用为AI代理和LLMs提供100多个高质量集成。
+11. [PKU-YuanGroup / Open-Sora-Plan]:复现Sora（Open AI T2V模型）的项目。
+12. [mlfoundations / open_clip]:CLIP的开源实现。
+13. [mandiant / capa]:用于识别可执行文件中功能的FLARE团队开源工具。
+14. [LmeSzinc / AzurLaneAutoScript]:碧蓝航线脚本，支持无缝委托科研和全自动大世界。
+15. [openai / whisper]:通过大规模弱监督实现鲁棒的语音识别。
+
+惊艳项目推荐：
+[vllm-project / vllm]:为LLMs提供高效和内存优化的推理和部署引擎，非常适合需要高性能LLM服务的开发者。
+
+今日趋势项目关注领域和特点：
+- 人工智能与机器学习：包括人脸识别、算法实现、LLM推理和部署。
+- 数据处理与分析：如数据转换、存档和集成。
+- 娱乐与游戏：如游戏脚本、直播源更新。
+- 工具与框架：如AI框架、数据分析工具等。

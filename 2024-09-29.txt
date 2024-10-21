@@ -1,0 +1,22 @@
+2024-09-29
+
+python
+1. [meta-llama / llama-stack]:Llama Stack API模型组件（https://github.com/meta-llama/llama-stack）
+2. [exo-explore / exo]:使用日常设备在家运行自己的AI集群 📱💻 🖥️⌚（https://github.com/exo-explore/exo）
+3. [LibreTranslate / LibreTranslate]:免费开源的机器翻译API。可自托管，离线支持，易于设置。（https://github.com/LibreTranslate/LibreTranslate）
+4. [huggingface / trl]:使用强化学习训练transformer语言模型。（https://github.com/huggingface/trl）
+5. [microsoft / RD-Agent]:研发（R&D）对于提高工业生产力至关重要，尤其是在AI时代，研发的核心方面主要集中于数据和模型。我们致力于通过我们的开源研发自动化工具RD-Agent自动化这些高价值通用研发流程，让AI驱动数据驱动的AI。（https://github.com/microsoft/RD-Agent）
+6. [521xueweihan / HelloGitHub]:分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣、入门级的开源项目。（https://github.com/521xueweihan/HelloGitHub）
+7. [Cinnamon / kotaemon]:基于RAG的开源工具，用于与文档进行聊天。（https://github.com/Cinnamon/kotaemon）
+8. [hyperknot / openfreemap]:免费开源的地图托管解决方案，为网站和应用提供自定义样式，使用OpenStreetMap数据。（https://github.com/hyperknot/openfreemap）
+9. [meta-llama / llama-stack-apps]:Llama Stack API的代理组件（https://github.com/meta-llama/llama-stack-apps）
+10. [mingrammer / diagrams]:🎨 代码化绘图，用于原型设计云系统架构。（https://github.com/mingrammer/diagrams）
+11. [instructlab / instructlab]:InstructLab命令行接口。使用它与模型进行聊天并执行InstructLab工作流以使用自定义分类数据训练模型。（https://github.com/instructlab/instructlab）
+12. [pytorch / ao]:PyTorch原生的训练和推理量化与稀疏化。（https://github.com/pytorch/ao）
+13. [google-research / circuit_training]:（https://github.com/google-research/circuit_training）
+14. [make-all / tuya-local]:Home Assistant中对Tuya设备的本地支持（https://github.com/make-all/tuya-local）
+15. [airtai / faststream]:FastStream是一个强大且易于使用的Python框架，用于构建与事件流（如Apache Kafka、RabbitMQ、NATS和Redis）交互的异步服务。（https://github.com/airtai/faststream）
+
+最惊艳的项目推荐：[microsoft / RD-Agent]（https://github.com/microsoft/RD-Agent）
+
+今日趋势项目关注的领域和特点：今日的趋势项目主要集中在AI模型、开源工具、数据驱动研发和云系统架构等领域，特点包括易用性、高性能和开源共享。

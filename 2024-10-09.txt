@@ -1,0 +1,23 @@
+2024-10-09
+
+Python
+1. [livekit/agents]:构建实时多模态AI应用 🤖🎙️📹(https://github.com/livekit/agents)
+2. [ErikBjare/gptme]:您的终端中的智能代理，配备本地工具：编写代码，使用终端，浏览网页，视觉。(https://github.com/ErikBjare/gptme)
+3. [TheAlgorithms/Python]:Python实现的所有算法(https://github.com/TheAlgorithms/Python)
+4. [keras-team/keras]:面向人类的深度学习(https://github.com/keras-team/keras)
+5. [zauberzeug/nicegui]:使用Python创建基于Web的用户界面。简单直观的方式。(https://github.com/zauberzeug/nicegui)
+6. [julep-ai/julep]:构建多步骤代理工作流程的API。（AI代理和工作流程的编排器。)(https://github.com/julep-ai/julep)
+7. [roboflow/supervision]:我们为您编写可重用的计算机视觉工具。💜(https://github.com/roboflow/supervision)
+8. [openedx/edx-platform]:Open edX LMS & Studio，为全球的教育网站提供动力！(https://github.com/openedx/edx-platform)
+9. [swisskyrepo/PayloadsAllTheThings]:Web应用程序安全和渗透测试/CTF的有用有效载荷和绕过列表(https://github.com/swisskyrepo/PayloadsAllTheThings)
+10. [cleanlab/cleanlab]:用于数据质量和机器学习的标准数据驱动AI软件包，适用于混乱的真实世界数据和标签。(https://github.com/cleanlab/cleanlab)
+11. [KruxAI/ragbuilder]:为您的数据创建最佳生产就绪的RAG设置的工具包(https://github.com/KruxAI/ragbuilder)
+12. [huggingface/lerobot]:🤗 LeRobot：通过端到端学习使机器人AI更易于访问(https://github.com/huggingface/lerobot)
+13. [Lightning-AI/litgpt]:20+高性能LLMs，包含预训练、微调和大规模部署的配方。(https://github.com/Lightning-AI/litgpt)
+14. [pre-commit/pre-commit-hooks]:为pre-commit提供一些现成的钩子(https://github.com/pre-commit/pre-commit-hooks)
+15. [ccxt/ccxt]:支持超过100个比特币/替代币交易所的JavaScript / TypeScript / Python / C# / PHP加密货币交易API(https://github.com/ccxt/ccxt)
+16. [cvat-ai/cvat]:使用CVAT进行更好的注释，CVAT是机器学习领先的数据引擎。被任何规模、任何规模的数据的任何规模的团队使用和信任。(https://github.com/cvat-ai/cvat)
+
+最惊艳项目：[livekit/agents] 构建实时多模态AI应用，功能强大且应用前景广阔。
+
+今天趋势项目关注的领域和特点：AI应用开发、深度学习、机器学习工具、Web界面开发、教育和数据科学。项目特点包括多模态交互、端到端学习、数据驱动、高效性和广泛的应用场景。

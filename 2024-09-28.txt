@@ -1,0 +1,25 @@
+2024-09-28
+
+python
+1. [meta-llama / llama-stack]:Llama Stack API 的模型组件（https://github.com/meta-llama/llama-stack）
+2. [meta-llama / llama-stack-apps]:Llama Stack API 的代理组件（https://github.com/meta-llama/llama-stack-apps）
+3. [meta-llama / llama-models]:用于 Llama 模型的实用工具（https://github.com/meta-llama/llama-models）
+4. [hacksider / Deep-Live-Cam]:仅使用单张图片实现实时人脸交换和一键式视频深度伪造（https://github.com/hacksider/Deep-Live-Cam）
+5. [microsoft / RD-Agent]:研究和开发（R&D）对于提高工业生产力至关重要，特别是在 AI 时代，R&D 的核心方面主要集中于数据和模型。我们致力于通过我们开源的 R&D 自动化工具 RD-Agent 自动化这些高价值通用 R&D 流程，让 AI 驱动数据驱动 AI。（https://github.com/microsoft/RD-Agent）
+6. [stanfordnlp / dspy]:DSPy：用于编程（而非提示）基础模型的框架（https://github.com/stanfordnlp/dspy）
+7. [explodinggradients / ragas]:用于评估您的检索增强生成（RAG）管道的评估框架（https://github.com/explodinggradients/ragas）
+8. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的 LLM 友好型网络爬虫和抓取工具（https://github.com/unclecode/crawl4ai）
+9. [huggingface / trl]:使用强化学习训练 Transformer 语言模型（https://github.com/huggingface/trl）
+10. [hyperknot / openfreemap]:免费开源的地图托管解决方案，为网站和应用提供自定义样式，使用 OpenStreetMap 数据（https://github.com/hyperknot/openfreemap）
+11. [odoo / odoo]:Odoo。开源应用，助力您的企业成长。（https://github.com/odoo/odoo）
+12. [simonw / llm]:从命令行访问大型语言模型（https://github.com/simonw/llm）
+13. [Sinaptik-AI / pandas-ai]:与您的数据库（SQL、CSV、pandas、polars、mongodb、noSQL 等）聊天。PandasAI 使用 LLM（GPT 3.5 / 4、Anthropic、VertexAI）和 RAG 使数据分析对话化。（https://github.com/Sinaptik-AI/pandas-ai）
+14. [openai / tiktoken]:tiktoken 是用于与 OpenAI 模型一起使用的快速 BPE 分词器（https://github.com/openai/tiktoken）
+15. [cpacker / MemGPT]:Letta（原名 MemGPT）是一个用于创建状态化 LLM 服务的框架。（https://github.com/cpacker/MemGPT）
+16. [TheAlgorithms / Python]:所有算法在 Python 中实现（https://github.com/TheAlgorithms/Python）
+17. [meta-llama / llama]:Llama 模型的推理代码（https://github.com/meta-llama/llama）
+18. [meta-llama / llama3]:Meta Llama 3 的官方 GitHub 网站（https://github.com/meta-llama/llama3）
+
+最惊艳的项目推荐：[hacksider / Deep-Live-Cam] - 仅使用单张图片实现实时人脸交换和一键式视频深度伪造。
+
+今日趋势项目关注的领域和特点：主要集中在人工智能和机器学习领域，尤其是深度学习和自然语言处理。项目特点包括创新性技术、开源和跨平台应用，以及对于现有技术的优化和扩展。

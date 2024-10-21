@@ -1,0 +1,26 @@
+2024-10-21
+
+python
+1. [phidatahq / phidata]:构建具有记忆、知识、工具和推理功能的AI代理（https://github.com/phidatahq/phidata）
+2. [yt-dlp / yt-dlp]:功能丰富的命令行音频/视频下载器（https://github.com/yt-dlp/yt-dlp）
+3. [TheAlgorithms / Python]:Python实现的所有算法（https://github.com/TheAlgorithms/Python）
+4. [ranaroussi / yfinance]:从Yahoo! Finance的API下载市场数据（https://github.com/ranaroussi/yfinance）
+5. [PrefectHQ / prefect]:Prefect是一个用于构建弹性数据管道的Python工作流编排框架（https://github.com/PrefectHQ/prefect）
+6. [geekan / MetaGPT]:🌟 多智能体框架：首个AI软件公司，迈向自然语言编程（https://github.com/geekan/MetaGPT）
+7. [serengil / deepface]:Python的一个轻量级人脸识别和面部属性分析（年龄、性别、情绪和种族）库（https://github.com/serengil/deepface）
+8. [searxng / searxng]:SearXNG是一个免费的网络元搜索引擎，它从各种搜索服务和数据库中聚合结果。用户既不被跟踪也不被建立档案。（https://github.com/searxng/searxng）
+9. [dortania / OpenCore-Legacy-Patcher]:体验macOS就像以前一样（https://github.com/dortania/OpenCore-Legacy-Patcher）
+10. [RVC-Project / Retrieval-based-Voice-Conversion-WebUI]:使用≤10分钟的语音数据轻松训练良好的VC模型！（https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI）
+11. [BerriAI / litellm]:Python SDK、代理服务器（LLM网关）以调用100+ LLM API，格式为OpenAI - [Bedrock、Azure、OpenAI、VertexAI、Cohere、Anthropic、Sagemaker、HuggingFace、Replicate、Groq](https://github.com/BerriAI/litellm)
+12. [comfyanonymous / ComfyUI]:功能最强大且模块化的扩散模型GUI、API和后端，具有图/节点界面。（https://github.com/comfyanonymous/ComfyUI）
+13. [xtekky / gpt4free]:官方gpt4free仓库 | 强大语言模型的各种集合（https://github.com/xtekky/gpt4free）
+14. [bmaltais / kohya_ss]:(https://github.com/bmaltais/kohya_ss)
+
+惊艳项目推荐：
+[phidatahq / phidata]:构建具有记忆、知识、工具和推理功能的AI代理，为AI开发提供了强大的工具。
+
+今天趋势项目的关注领域和特点：
+- AI与机器学习：多个项目专注于AI代理、自然语言编程、人脸识别等。
+- 数据分析与处理：如市场数据下载、数据管道构建等。
+- 工具与库：丰富的Python工具和库，如视频下载器、算法实现等。
+- 开源社区：强调开源和社区协作，如SearXNG等。

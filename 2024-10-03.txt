@@ -1,0 +1,31 @@
+2024-10-03
+
+python
+1. [exo-explore / exo]:在家用普通设备运行自己的AI集群 📱💻 🖥️⌚(https://github.com/exo-explore/exo)
+2. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的LLM友好型网页爬虫和抓取工具(https://github.com/unclecode/crawl4ai)
+3. [All-Hands-AI / OpenHands]:🙌 OpenHands：少写代码，多出成果(https://github.com/All-Hands-AI/OpenHands)
+4. [openai / whisper]:通过大规模弱监督实现稳健的语音识别(https://github.com/openai/whisper)
+5. [pytorch / ao]:PyTorch原生训练和推理的量化和稀疏化(https://github.com/pytorch/ao)
+6. [OpenBB-finance / OpenBB]:为每个人、每个地方的投资者研究。(https://github.com/OpenBB-finance/OpenBB)
+7. [zulip / zulip]:Zulip服务器和Web应用程序。开源团队聊天工具，帮助团队保持高效和专注。(https://github.com/zulip/zulip)
+8. [Pythagora-io / gpt-pilot]:首个真正的AI开发者(https://github.com/Pythagora-io/gpt-pilot)
+9. [myshell-ai / OpenVoice]:MIT和MyShell的即时声音克隆(https://github.com/myshell-ai/OpenVoice)
+10. [Avaiga / taipy]:快速将数据和AI算法转换为生产就绪的Web应用程序。(https://github.com/Avaiga/taipy)
+11. [s0md3v / roop]:一键面部交换(https://github.com/s0md3v/roop)
+12. [ultralytics / ultralytics]:Ultralytics YOLO11 🚀(https://github.com/ultralytics/ultralytics)
+13. [TheAlgorithms / Python]:所有算法都在Python中实现(https://github.com/TheAlgorithms/Python)
+14. [dagster-io / dagster]:用于开发、生产、观察数据资产的编排平台。(https://github.com/dagster-io/dagster)
+15. [Cinnamon / kotaemon]:基于RAG的开源聊天工具，用于与您的文档进行交流。(https://github.com/Cinnamon/kotaemon)
+16. [mlflow / mlflow]:机器学习生命周期的开源平台(https://github.com/mlflow/mlflow)
+17. [boto / boto3]:AWS Python SDK(https://github.com/boto/boto3)
+
+惊艳项目推荐：
+[Pythagora-io / gpt-pilot]: 首个真正的AI开发者，使用户能够轻松创建和部署AI应用程序。
+
+今日趋势项目关注领域和特点：
+- AI集群和边缘计算：如[exo-explore / exo]，使用日常设备构建个人AI集群。
+- 机器学习和AI工具：如[unclecode / crawl4ai]和[All-Hands-AI / OpenHands]，提供高效的数据抓取和代码生成工具。
+- 语音识别和自然语言处理：如[openai / whisper]，提供强大的语音识别解决方案。
+- 数据科学和数据分析：如[OpenBB-finance / OpenBB]，提供投资研究工具。
+- 开源和社区项目：如[zulip / zulip]和[TheAlgorithms / Python]，强调开源和社区协作。
+- 算法和算法实现：如[ultralytics / ultralytics]，提供高性能的机器学习算法实现。

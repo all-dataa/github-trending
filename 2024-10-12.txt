@@ -1,0 +1,34 @@
+2024-10-12
+
+Python
+1. [gradio-app / gradio]:用Python构建和分享令人愉悦的机器学习应用程序。🌟 星标以支持我们的工作！(https://github.com/gradio-app/gradio)
+2. [public-apis / public-apis]:免费的API集体列表(https://github.com/public-apis/public-apis)
+3. [ultralytics / ultralytics]:Ultralytics YOLO11 🚀(https://github.com/ultralytics/ultralytics)
+4. [d2l-ai / d2l-zh]：《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。(https://github.com/d2l-ai/d2l-zh)
+5. [Avaiga / taipy]:快速将数据和AI算法转换为生产就绪的Web应用程序。(https://github.com/Avaiga/taipy)
+6. [modelscope / FunASR]:一个基础的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。(https://github.com/modelscope/FunASR)
+7. [infiniflow / ragflow]:基于深度文档理解的RAG (Retrieval-Augmented Generation) 引擎RAGFlow。(https://github.com/infiniflow/ragflow)
+8. [Zeyi-Lin / HivisionIDPhotos]:⚡️HivisionIDPhotos：一个轻量级的AI证件照制作算法。(https://github.com/Zeyi-Lin/HivisionIDPhotos)
+9. [hiyouga / LLaMA-Factory]:100+ LLMs的统一高效微调（ACL 2024）(https://github.com/hiyouga/LLaMA-Factory)
+10. [pandas-dev / pandas]:Python的灵活且强大的数据分析/操作库，提供类似于R数据.frame对象的标签数据结构、统计函数等。(https://github.com/pandas-dev/pandas)
+11. [1Panel-dev / MaxKB]:🚀 基于大语言模型和RAG的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。(https://github.com/1Panel-dev/MaxKB)
+12. [eosphoros-ai / DB-GPT]:基于AWEL（Agentic Workflow Expression Language）和代理的AI原生数据应用开发框架。(https://github.com/eosphoros-ai/DB-GPT)
+13. [pallets / flask]:用于构建Web应用程序的Python微框架。(https://github.com/pallets/flask)
+14. [VikParuchuri / surya]:90多种语言的OCR、布局分析、阅读顺序、表格识别(https://github.com/VikParuchuri/surya)
+15. [google-deepmind / alphafold]:AlphaFold的开源代码。(https://github.com/google-deepmind/alphafold)
+16. [donnemartin / data-science-ipython-notebooks]:数据科学Python笔记本：深度学习（TensorFlow、Theano、Caffe、Keras）、scikit-learn、Kaggle、大数据（Spark、Hadoop MapReduce、HDFS）、matplotlib、pandas、NumPy、SciPy、Python基础知识、AWS以及各种命令行。(https://github.com/donnemartin/data-science-ipython-notebooks)
+17. [graphdeco-inria / gaussian-splatting]："3D Gaussian Splatting for Real-Time Radiance Field Rendering"的原版实现。(https://github.com/graphdeco-inria/gaussian-splatting)
+18. [traceloop / openllmetry]:基于OpenTelemetry的开源LLM应用程序可观察性。(https://github.com/traceloop/openllmetry)
+19. [PaddlePaddle / PaddleOCR]:基于PaddlePaddle的出色多语言OCR工具包（实用的超轻量OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备上的训练和部署）(https://github.com/PaddlePaddle/PaddleOCR)
+
+惊艳项目推荐：
+[gradio-app / gradio] - 用于构建和分享机器学习应用程序的Python库，界面友好，易于使用。
+
+今天趋势项目关注的领域和特点：
+- 机器学习应用程序开发
+- API集成和数据操作
+- 深度学习和AI算法
+- Web应用程序开发
+- 数据科学和数据分析
+- 自然语言处理和语音识别
+- 可视化和数据可视化

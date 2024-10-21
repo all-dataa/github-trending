@@ -1,0 +1,22 @@
+2024-10-10
+
+Python
+1. [roboflow / supervision]:编写你的可重用计算机视觉工具。💜(https://github.com/roboflow/supervision)
+2. [Cinnamon / kotaemon]:基于RAG的开源工具，用于与你的文档进行聊天。(https://github.com/Cinnamon/kotaemon)
+3. [ultralytics / ultralytics]:Ultralytics YOLO11 🚀(https://github.com/ultralytics/ultralytics)
+4. [livekit / agents]:构建实时多模态AI应用 🤖🎙️📹(https://github.com/livekit/agents)
+5. [pre-commit / pre-commit-hooks]:一些预提交的通用钩子(https://github.com/pre-commit/pre-commit-hooks)
+6. [hiyouga / LLaMA-Factory]:100+ LLMs的统一高效微调（ACL 2024）(https://github.com/hiyouga/LLaMA-Factory)
+7. [vnpy / vnpy]:基于Python的开源量化交易平台开发框架(https://github.com/vnpy/vnpy)
+8. [pytorch / vision]:计算机视觉特定的数据集、转换和模型(https://github.com/pytorch/vision)
+9. [open-mmlab / mmsegmentation]:OpenMMLab语义分割工具箱和基准。(https://github.com/open-mmlab/mmsegmentation)
+10. [hpcaitech / Open-Sora]:Open-Sora：为所有人降低高效视频制作的门槛(https://github.com/hpcaitech/Open-Sora)
+11. [chatanywhere / GPT_API_free]:免费ChatGPT API密钥，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可配合ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。(https://github.com/chatanywhere/GPT_API_free)
+12. [pytorch / pytorch]:Python中具有强大GPU加速的张量和动态神经网络(https://github.com/pytorch/pytorch)
+13. [ErikBjare / gptme]:你的终端代理，配备本地工具：编写代码、使用终端、浏览网页、视觉。(https://github.com/ErikBjare/gptme)
+14. [triton-inference-server / server]:Triton推理服务器提供优化的云和边缘推理解决方案。(https://github.com/triton-inference-server/server)
+15. [ansible / ansible]:Ansible是一个革命性的简单IT自动化平台，它使你的应用程序和系统更容易部署和维护。使用接近纯英文的语言、SSH、无需在远程系统上安装代理，自动化从代码部署到网络配置再到云管理的一切。https://docs.ansible.com。(https://github.com/ansible/ansible)
+
+安利项目：[roboflow / supervision] - 一个用于编写可重用计算机视觉工具的平台。
+
+今日趋势项目关注的领域和特点：计算机视觉、AI应用、量化交易、自然语言处理、云服务和IT自动化。特点包括开源、高性能、跨平台以及新技术的应用。

@@ -1,0 +1,25 @@
+今日GitHub Python项目趋势：
+
+1. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: 开源LLM友好的网络爬虫和抓取器(https://github.com/unclecode/crawl4ai)
+2. [meta-llama / llama-stack]:Llama Stack API的模型组件(https://github.com/meta-llama/llama-stack)
+3. [exo-explore / exo]:使用日常设备在家中运行自己的AI集群 📱💻 🖥️⌚(https://github.com/exo-explore/exo)
+4. [coqui-ai / TTS]:🐸💬 - 一个用于语音合成的深度学习工具包，在研究和生产中经过实战检验(https://github.com/coqui-ai/TTS)
+5. [RVC-Project / Retrieval-based-Voice-Conversion-WebUI]:使用10分钟或更少的语音数据轻松训练良好的VC模型！(https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+6. [LibreTranslate / LibreTranslate]:免费且开源的机器翻译API。可自托管，支持离线操作，易于设置。(https://github.com/LibreTranslate/LibreTranslate)
+7. [Lightning-AI / litgpt]:20+ 高性能LLM及其预训练、微调和大规模部署的配方。(https://github.com/Lightning-AI/litgpt)
+8. [pytorch / ao]:PyTorch原生训练和推理的量化和稀疏化(https://github.com/pytorch/ao)
+9. [home-assistant / core]:🏡 以本地控制和隐私为先的开源智能家居系统。(https://github.com/home-assistant/core)
+10. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion的Web用户界面(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+11. [LibraHp / GetQzonehistory]:获取QQ空间发布的历史说说(https://github.com/LibraHp/GetQzonehistory)
+12. [mingrammer / diagrams]:🎨 代码即图，用于原型设计云系统架构(https://github.com/mingrammer/diagrams)
+13. [Yuukiy / JavSP]:汇总多站点数据的AV元数据抓取器(https://github.com/Yuukiy/JavSP)
+14. [alexta69 / metube]:自托管YouTube下载器（youtube-dl / yt-dlp的Web UI）(https://github.com/alexta69/metube)
+15. [google-research / circuit_training]:（https://github.com/google-research/circuit_training）
+16. [521xueweihan / HelloGitHub]:分享GitHub上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.(https://github.com/521xueweihan/HelloGitHub)
+17. [ManimCommunity / manim]:一个由社区维护的用于创建数学动画的Python框架。(https://github.com/ManimCommunity/manim)
+18. [firmai / financial-machine-learning]:实用的金融机器学习工具和应用的精选列表。(https://github.com/firmai/financial-machine-learning)
+19. [make-all / tuya-local]:Home Assistant中Tuya设备的本地支持(https://github.com/make-all/tuya-local)
+
+惊艳项目安利：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion的Web用户界面，使用户能够轻松地运行和交互Stable Diffusion模型，实现高质量的图像生成。
+
+今日趋势项目关注领域和特点：主要集中在AI和机器学习领域，包括开源的AI工具、深度学习模型、智能家居解决方案和代码即图工具。特点为实用性强、易于上手和开源免费。

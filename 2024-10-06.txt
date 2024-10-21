@@ -1,0 +1,27 @@
+2024-10-06
+
+python
+1. [TheAlgorithms / Python]:使用Python实现的所有算法（https://github.com/TheAlgorithms/Python）
+2. [Pythagora-io / gpt-pilot]:首个真正的AI开发者（https://github.com/Pythagora-io/gpt-pilot）
+3. [Avaiga / taipy]:快速将数据和AI算法转化为生产就绪的Web应用（https://github.com/Avaiga/taipy）
+4. [mandiant / capa]:FLARE团队的开源工具，用于识别可执行文件中的功能。（https://github.com/mandiant/capa）
+5. [python-poetry / poetry]:简化Python打包和依赖管理的工具（https://github.com/python-poetry/poetry）
+6. [donnemartin / system-design-primer]:学习如何设计大规模系统，为系统设计面试做准备。包含Anki闪卡。（https://github.com/donnemartin/system-design-primer）
+7. [searxng / searxng]:SearXNG是一个免费的互联网元搜索引擎，从各种搜索服务和数据库中聚合结果。用户既不被追踪也不被分析。（https://github.com/searxng/searxng）
+8. [opendatalab / MinerU]:一站式、开源、高质量的数据提取工具，支持PDF/网页/多格式电子书提取。（https://github.com/opendatalab/MinerU）
+9. [home-assistant / core]:🏡以本地控制和隐私为首要任务的开源家庭自动化系统。（https://github.com/home-assistant/core）
+10. [getsentry / sentry]:面向开发者的错误跟踪和性能监控。（https://github.com/getsentry/sentry）
+11. [vnpy / vnpy]:基于Python的开源量化交易平台开发框架（https://github.com/vnpy/vnpy）
+12. [ComposioHQ / composio]:Composio通过函数调用为AI代理和LLM提供100+高质量集成（https://github.com/ComposioHQ/composio）
+13. [alandtse / alexa_media_player]:这是一个自定义组件，允许在Home Assistant中使用非官方的Alexa API控制Amazon Alexa设备。（https://github.com/alandtse/alexa_media_player）
+14. [megadose / holehe]:holehe允许您检查电子邮件是否在不同网站（如twitter、instagram）上使用，并将从带有忘记密码功能的网站上检索信息。（https://github.com/megadose/holehe）
+15. [mxrch / GHunt]:🕵️‍♂️进攻性Google框架。（https://github.com/mxrch/GHunt）
+16. [fedirz / faster-whisper-server]:(https://github.com/fedirz/faster-whisper-server)
+17. [Azure / PyRIT]:Python风险识别工具PyRIT是一个开放获取的自动化框架，旨在让安全专家和机器学习工程师能够积极地在他们的生成式AI系统中发现风险。（https://github.com/Azure/PyRIT）
+18. [infobyte / faraday]:开源漏洞管理平台（https://github.com/infobyte/faraday）
+
+**惊艳项目推荐**：
+[Pythagora-io / gpt-pilot]: 首个真正的AI开发者，可能预示着AI开发新纪元的到来。
+
+**今日趋势项目关注领域及特点**：
+关注领域包括算法、AI开发、数据分析、家庭自动化、错误跟踪和性能监控等。特点为实用性强、覆盖面广，且包含多个开源项目，便于社区参与和协作。
