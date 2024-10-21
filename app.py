@@ -123,7 +123,7 @@ if __name__ == '__main__':
         now = datetime.datetime.now(beijing_tz)
 
         # 每天定时执行任务
-        schedule.every().day.at("00:20", beijing_tz).do(daily_task)
+        schedule.every().day.at("18:00", beijing_tz).do(daily_task)
 
         while True:
             schedule.run_pending()
