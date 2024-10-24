@@ -1,0 +1,16 @@
+2024-10-23
+1. [phidatahq / phidata]:构建具有记忆、知识、工具和推理能力的AI代理，通过精美的代理UI与他们聊天。（https://github.com/phidatahq/phidata）
+2. [serengil / deepface]:一个轻量级的Python人脸识别和面部属性分析（年龄、性别、情绪和种族）库。（https://github.com/serengil/deepface）
+3. [ranaroussi / yfinance]:从Yahoo! Finance的API下载市场数据。（https://github.com/ranaroussi/yfinance）
+4. [comfyanonymous / ComfyUI]:最强大且模块化的扩散模型GUI、API和后端，具有图/节点界面。（https://github.com/comfyanonymous/ComfyUI）
+5. [rany2 / edge-tts]:无需Microsoft Edge、Windows或API密钥，即可从Python使用Microsoft Edge的在线文本到语音服务。（https://github.com/rany2/edge-tts）
+6. [getomni-ai / zerox]:使用gpt-4o-mini的零样本PDF OCR。（https://github.com/getomni-ai/zerox）
+7. [electricitymaps / electricitymaps-contrib]:实时可视化电力消费的CO2排放。（https://github.com/electricitymaps/electricitymaps-contrib）
+8. [hpcaitech / Open-Sora]:Open-Sora：为所有人民主化高效视频制作。（https://github.com/hpcaitech/Open-Sora）
+9. [microsoft / graphrag]:一个基于图式的检索增强生成（RAG）系统。（https://github.com/microsoft/graphrag）
+10. [Guovin / TV]:📺IPTV电视直播源更新工具🚀：包含央视（付费）、卫视、广东、港·澳·台、电影、咪咕、体育、动画、游戏、音乐、经典剧场；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool（https://github.com/Guovin/TV）
+11. [traceloop / openllmetry]:基于OpenTelemetry的开源LLM应用可观察性。（https://github.com/traceloop/openllmetry）
+
+安利项目：[phidatahq / phidata] 构建具有记忆、知识、工具和推理能力的AI代理，界面美观。
+
+今天趋势项目关注的领域和特点：今日趋势项目主要关注AI、数据分析和可视化、开源工具和技术。特点包括多领域应用、高效性和用户体验优化。
