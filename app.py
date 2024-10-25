@@ -75,7 +75,7 @@ def job():
     createtext(strdate, filename)
     attempts = 0
 
-    while attempts < 12:
+    while attempts < 6:
         try:
             scrape('python', filename)
             ans = get_ai_analysis(filename)

@@ -1,0 +1,22 @@
+2024-10-25
+1. [Skyvern-AI / skyvern]:使用LLM和计算机视觉自动化基于浏览器的流程（https://github.com/Skyvern-AI/skyvern）
+2. [OpenInterpreter / open-interpreter]:计算机的自然语言界面（https://github.com/OpenInterpreter/open-interpreter）
+3. [Guovin / TV]:📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI部署/运行方式 | IPTV live TV source update tool(https://github.com/Guovin/TV)
+4. [infiniflow / ragflow]:基于深度文档理解的开放源代码RAG (检索增强生成) 引擎（https://github.com/infiniflow/ragflow）
+5. [huggingface / diffusers]:🤗 Diffusers：在PyTorch和FLAX中用于图像和音频生成的最先进的扩散模型。（https://github.com/huggingface/diffusers）
+6. [python / mypy]:Python的可选静态类型（https://github.com/python/mypy）
+7. [sgl-project / sglang]:SGLang是一个用于大型语言模型和视觉语言模型的高速服务框架。（https://github.com/sgl-project/sglang）
+8. [zulip / zulip]:Zulip服务器和Web应用。开源团队聊天工具，帮助团队保持高效和专注。（https://github.com/zulip/zulip）
+9. [xtekky / gpt4free]:官方gpt4free仓库 | 强大的语言模型集合（https://github.com/xtekky/gpt4free）
+10. [Azure / azure-sdk-for-python]:此存储库用于Python Azure SDK的积极开发。对于SDK的消费者，我们建议访问我们的公共开发者文档https://learn.microsoft.com/python/azure/或我们的版本化开发者文档https://azure.github.io/azure-sdk-for-python。（https://github.com/Azure/azure-sdk-for-python）
+11. [comfyanonymous / ComfyUI]:功能最强大、模块化最强的扩散模型GUI、API和后端，具有图形/节点界面。（https://github.com/comfyanonymous/ComfyUI）
+12. [sergree / matchering]:🎚️开源音频匹配和母带制作（https://github.com/sergree/matchering）
+13. [soimort / you-get]:⏬ 简单的下载器，从网络抓取（https://github.com/soimort/you-get）
+14. [ray-project / ray]:Ray是一个AI计算引擎。Ray由核心分布式运行时和一组用于加速ML工作负载的AI库组成。（https://github.com/ray-project/ray）
+15. [cumulo-autumn / StreamDiffusion]:StreamDiffusion：实时交互式生成的管道级解决方案（https://github.com/cumulo-autumn/StreamDiffusion）
+16. [BerriAI / litellm]:Python SDK、代理服务器（LLM网关），用于调用100+ LLM API - [Bedrock、Azure、OpenAI、VertexAI、Cohere、Anthropic、Sagemaker、HuggingFace、Replicate、Groq](https://github.com/BerriAI/litellm)
+17. [pyvista / pyvista]:通过简化接口使用可视化工具包（VTK）进行3D绘图和网格分析。（https://github.com/pyvista/pyvista）
+
+最惊艳的项目推荐：[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) —— 使用LLM和计算机视觉自动化基于浏览器的流程，具有创新性。
+
+今日趋势项目关注的领域和特点：主要集中在AI技术，尤其是自然语言处理、图像和音频生成、大型语言模型等。此外，也有工具和框架的开发，如Python静态类型工具、3D绘图和网格分析工具等。
