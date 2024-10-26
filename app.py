@@ -5,7 +5,6 @@ import codecs
 import requests
 import schedule
 import time
-import pytz
 from pyquery import PyQuery as pq
 from zhipuai import ZhipuAI
 
@@ -77,6 +76,7 @@ def job():
 
     while attempts < 6:
         try:
+            print(attempts)
             scrape('python', filename)
             ans = get_ai_analysis(filename)
             with open(filename, 'w', encoding='utf-8') as f:
@@ -85,7 +85,7 @@ def job():
         except Exception as e:
             attempts += 1
             print(f"Attempt {attempts} failed with error: {e}")
-            time.sleep(600)  # Wait 10min before retrying
+            time.sleep(300)  # Wait 5min before retrying
     raise Exception("All attempts to scrape data have failed.")
 
 def get_contents(path):
@@ -118,16 +118,11 @@ def daily_task():
 
 if __name__ == '__main__':
     try:
-        # 设置时区为北京时间
-        beijing_tz = pytz.timezone('Asia/Shanghai')
-        now = datetime.datetime.now(beijing_tz)
-
-        # 每天定时执行任务
-        schedule.every().day.at("18:00", beijing_tz).do(daily_task)
+        schedule.every().day.at('18:00').do(daily_task)
 
         while True:
             schedule.run_pending()
             time.sleep(1)
-        # daily_task()
+
     except Exception as e:
         print(f"{e} occured~")
