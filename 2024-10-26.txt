@@ -1,23 +1,22 @@
-2024-10-26
-1. [Skyvern-AI / skyvern]:使用LLMs和计算机视觉自动化基于浏览器的流程(https://github.com/Skyvern-AI/skyvern)
-2. [OpenInterpreter / open-interpreter]:计算机的自然语言界面(https://github.com/OpenInterpreter/open-interpreter)
-3. [Guovin / TV]:📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool(https://github.com/Guovin/TV)
-4. [xtekky / gpt4free]:官方gpt4free仓库 | 强大语言模型的多种集合(https://github.com/xtekky/gpt4free)
-5. [speechbrain / speechbrain]:基于PyTorch的语音工具包(https://github.com/speechbrain/speechbrain)
-6. [1Panel-dev / MaxKB]:🚀 基于大语言模型和RAG的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。(https://github.com/1Panel-dev/MaxKB)
-7. [Qiskit / qiskit]:Qiskit是一个开源SDK，用于在扩展量子电路、算子和原语级别处理量子计算机。(https://github.com/Qiskit/qiskit)
-8. [infiniflow / ragflow]:基于深度文档理解的RAG（检索增强生成）引擎RAGFlow(https://github.com/infiniflow/ragflow)
-9. [Netflix / metaflow]:开源平台，用于开发、扩展和部署重要的ML、AI和数据科学系统(https://github.com/Netflix/metaflow)
-10. [princeton-nlp / SWE-agent]:[NeurIPS 2024] SWE-agent通过GPT-4或您选择的LM自动修复GitHub问题。它也可用于网络防御或编程挑战。(https://github.com/princeton-nlp/SWE-agent)
-11. [open-mmlab / Amphion]:Amphion是一个音频、音乐和语音生成工具包，旨在支持可重复性研究，并帮助初学者研究人员和工程师开始音频、音乐和语音生成研究和发展领域。(https://github.com/open-mmlab/Amphion)
-12. [hyperknot / openfreemap]:使用OpenStreetMap数据的免费和开源地图托管解决方案，具有为网站和应用程序定制的样式(https://github.com/hyperknot/openfreemap)
-13. [SYSTRAN / faster-whisper]:使用CTranslate2的更快Whisper转录(https://github.com/SYSTRAN/faster-whisper)
-14. [Marker-Inc-Korea / AutoRAG]:RAG的AutoML工具(https://github.com/Marker-Inc-Korea/AutoRAG)
-15. [autogluon / autogluon]:三行代码即可实现快速且准确的ML(https://github.com/autogluon/autogluon)
-16. [fishaudio / fish-speech]:全新的TTS解决方案(https://github.com/fishaudio/fish-speech)
-17. [odoo / odoo]:Odoo. 开源应用程序，助力您的业务成长。(https://github.com/odoo/odoo)
-18. [sergree / matchering]:🎚️ 开源音频匹配和母带处理(https://github.com/sergree/matchering)
+1. [Skyvern-AI / skyvern]:使用LLM和计算机视觉自动化基于浏览器的流程（https://github.com/Skyvern-AI/skyvern）
+2. [OpenInterpreter / open-interpreter]:计算机的自然语言界面（https://github.com/OpenInterpreter/open-interpreter）
+3. [Guovin / TV]:📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool（https://github.com/Guovin/TV）
+4. [xtekky / gpt4free]:官方gpt4free仓库 | 强力语言模型的多种集合（https://github.com/xtekky/gpt4free）
+5. [speechbrain / speechbrain]:基于PyTorch的语音工具包（https://github.com/speechbrain/speechbrain）
+6. [1Panel-dev / MaxKB]:🚀 基于大语言模型和RAG的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。（https://github.com/1Panel-dev/MaxKB）
+7. [Qiskit / qiskit]:Qiskit是一个开源SDK，用于在扩展量子电路、算子和原语级别上与量子计算机交互。（https://github.com/Qiskit/qiskit）
+8. [infiniflow / ragflow]:基于深度文档理解的RAG（检索增强生成）引擎（https://github.com/infiniflow/ragflow）
+9. [Netflix / metaflow]:开发、扩展和部署严肃的ML、AI和数据科学系统的开源平台（https://github.com/Netflix/metaflow）
+10. [princeton-nlp / SWE-agent]:[NeurIPS 2024] SWE-agent通过GPT-4或您选择的LM自动修复GitHub问题。它也可用于进攻性网络安全或编程竞赛挑战。（https://github.com/princeton-nlp/SWE-agent）
+11. [open-mmlab / Amphion]:Amphion是一个音频、音乐和语音生成的工具包。其目的是支持可重复的研究并帮助初级研究人员和工程师开始音频、音乐和语音生成研究和发展领域。（https://github.com/open-mmlab/Amphion）
+12. [hyperknot / openfreemap]:基于OpenStreetMap数据的免费和开源的地图托管解决方案，具有为网站和应用定制的样式（https://github.com/hyperknot/openfreemap）
+13. [SYSTRAN / faster-whisper]:使用CTranslate2的Faster Whisper转录（https://github.com/SYSTRAN/faster-whisper）
+14. [Marker-Inc-Korea / AutoRAG]:RAG的AutoML工具（https://github.com/Marker-Inc-Korea/AutoRAG）
+15. [autogluon / autogluon]:三行代码即可实现快速准确的ML（https://github.com/autogluon/autogluon）
+16. [fishaudio / fish-speech]:全新的TTS解决方案（https://github.com/fishaudio/fish-speech）
+17. [odoo / odoo]:Odoo. 增长您业务的开源应用。（https://github.com/odoo/odoo）
+18. [sergree / matchering]:🎚️ 开源音频匹配和母带处理（https://github.com/sergree/matchering）
 
-惊艳项目推荐：[speechbrain / speechbrain]:基于PyTorch的语音工具包，提供丰富的语音处理功能。
+惊艳项目推荐：[Skyvern-AI / skyvern] 使用LLM和计算机视觉自动化基于浏览器的流程。
 
-今日趋势项目关注领域和特点：今日趋势项目主要关注人工智能、语音处理、自然语言处理、量子计算、机器学习、音频音乐生成等领域，特点包括开源、跨平台、功能丰富、社区活跃等。
+今天趋势项目的关注领域和特点：主要集中在人工智能、机器学习、自然语言处理、语音识别、量子计算、数据处理和开源工具等方面，展现了技术发展的多元化和深度。

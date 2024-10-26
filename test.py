@@ -85,7 +85,7 @@ def job():
         except Exception as e:
             attempts += 1
             print(f"Attempt {attempts} failed with error: {e}")
-            time.sleep(300)  # Wait 5min before retrying
+            time.sleep(30)  # Wait 30s before retrying
     raise Exception("All attempts to scrape data have failed.")
 
 def get_contents(path):
@@ -118,7 +118,7 @@ def daily_task():
 
 if __name__ == '__main__':
     try:
-        schedule.every().day.at('23:06').do(daily_task)
+        schedule.every().day.at('00:00').do(daily_task)
 
         while True:
             schedule.run_pending()
