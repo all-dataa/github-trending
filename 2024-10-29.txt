@@ -1,0 +1,27 @@
+1. [open-mmlab / Amphion]:Amphion是一个用于音频、音乐和语音生成的工具包。其目的是支持可重复的研究，并帮助初级研究人员和工程师在音频、音乐和语音生成研究领域和开发中入门。(https://github.com/open-mmlab/Amphion)
+2. [Skyvern-AI / skyvern]:使用LLM和计算机视觉自动化基于浏览器的流程。(https://github.com/Skyvern-AI/skyvern)
+3. [soimort / you-get]:⏬一个简单的爬虫下载器，用于从网页上抓取内容。(https://github.com/soimort/you-get)
+4. [huggingface / lerobot]:🤗 LeRobot：通过端到端学习使机器人AI更易于使用。(https://github.com/huggingface/lerobot)
+5. [stanford-oval / storm]:一个由LLM驱动的知识整理系统，研究一个主题并生成带引用的完整报告。(https://github.com/stanford-oval/storm)
+6. [airtai / faststream]:FastStream是一个强大且易于使用的Python框架，用于构建与Apache Kafka、RabbitMQ、NATS和Redis等事件流交互的异步服务。(https://github.com/airtai/faststream)
+7. [xtekky / gpt4free]:官方gpt4free仓库 | 强大语言模型的各种集合。(https://github.com/xtekky/gpt4free)
+8. [mikf / gallery-dl]:用于从多个图像托管站点下载图像画廊和集合的命令行程序。(https://github.com/mikf/gallery-dl)
+9. [OpenInterpreter / open-interpreter]:计算机的自然语言界面。(https://github.com/OpenInterpreter/open-interpreter)
+10. [bramstroker / homeassistant-powercalc]:一个自定义组件，用于计算灯光和其他设备的预估功耗。(https://github.com/bramstroker/homeassistant-powercalc)
+11. [paperless-ngx / paperless-ngx]:paperless的社区支持超级版本：扫描、索引和存档所有您的物理文档。(https://github.com/paperless-ngx/paperless-ngx)
+12. [521xueweihan / GitHub520]:😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）(https://github.com/521xueweihan/GitHub520)
+13. [KurtBestor / Hitomi-Downloader]:🍰 从各种网站下载图片/视频/音乐/文本的桌面工具。(https://github.com/KurtBestor/Hitomi-Downloader)
+14. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion的Web用户界面。(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+15. [ucbepic / docetl]:一个用于代理LLM驱动的数据处理和ETL的系统。(https://github.com/ucbepic/docetl)
+
+惊艳项目推荐：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI，这是一个基于文本提示生成图像的Web用户界面。
+
+今日趋势项目关注的领域和特点：
+- 音频、音乐和语音生成工具包，如Amphion。
+- 基于LLM和计算机视觉的自动化工具，如Skyvern。
+- 数据处理和ETL系统，如docetl。
+- 异步服务框架，如FastStream。
+- 图像和视频下载工具，如gallery-dl和Hitomi-Downloader。
+- 知识整理和报告生成工具，如storm。
+- 自然语言界面和机器人AI，如OpenInterpreter和LeRobot。
+- GitHub访问增强工具，如GitHub520。

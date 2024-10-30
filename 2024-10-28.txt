@@ -1,0 +1,18 @@
+1. [Skyvern-AI / skyvern]: 使用LLM和计算机视觉自动化基于浏览器的流程（https://github.com/Skyvern-AI/skyvern）
+2. [OpenInterpreter / open-interpreter]: 电脑的自然语言界面（https://github.com/OpenInterpreter/open-interpreter）
+3. [Guovin / TV]: 📺 IPTV电视直播源更新工具🚀：包含央视（付费）、卫视、广东、港澳台、电影、咪咕、体育、动画、游戏、音乐、经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool（https://github.com/Guovin/TV）
+4. [huggingface / diffusers]: 🤗 Diffusers：在PyTorch和FLAX中使用最先进的图像和音频生成扩散模型。（https://github.com/huggingface/diffusers）
+5. [open-mmlab / Amphion]: Amphion是一个音频、音乐和语音生成的工具包。其目的是支持可重复的研究，并帮助初学者和工程师在音频、音乐和语音生成研究和发展领域入门。（https://github.com/open-mmlab/Amphion）
+6. [R3gm / SoniTranslate]: 视频同步翻译。视频配音（https://github.com/R3gm/SoniTranslate）
+7. [Marker-Inc-Korea / AutoRAG]: RAG的AutoML工具（https://github.com/Marker-Inc-Korea/AutoRAG）
+8. [permitio / opal]: 在策略代理（OPA、Cedar等）之上进行策略和数据管理、分发和实时更新（https://github.com/permitio/opal）
+9. [THUDM / AutoWebGLM]: 基于LLM的Web导航代理（KDD'24）（https://github.com/THUDM/AutoWebGLM）
+10. [xtekky / gpt4free]: 官方gpt4free仓库 | 强大语言模型的多种集合（https://github.com/xtekky/gpt4free）
+11. [AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
+12. [commaai / openpilot]: openpilot是一个机器人操作系统。目前，它在275多款支持的车辆中升级了驾驶辅助系统。（https://github.com/commaai/openpilot）
+13. [home-assistant / core]: 🏡 开源智能家居，优先考虑本地控制和隐私。（https://github.com/home-assistant/core）
+14. [sergree / matchering]: 🎚️ 开源音频匹配和母带制作（https://github.com/sergree/matchering）
+
+惊艳项目安利：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI，一个用于生成图像和音频的扩散模型的前端界面。
+
+今日趋势项目关注的领域和特点：今日趋势项目集中在自然语言处理、音频和音乐生成、智能家居、自动驾驶辅助系统以及图像和音频处理等领域，特点是融合了最新的AI技术和应用场景，展现了技术在实际生活中的广泛应用潜力。

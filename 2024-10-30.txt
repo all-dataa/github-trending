@@ -1,0 +1,5 @@
+[open-mmlab / Amphion]:Amphion是一个音频、音乐和语音生成的工具包。其目的是支持可重复的研究，并帮助初学者和工程师开始音频、音乐和语音生成研究与发展。（https://github.com/open-mmlab/Amphion）
+
+惊艳项目安利：[ultralytics / ultralytics]:Ultralytics YOLO11 🚀（https://github.com/ultralytics/ultralytics）
+
+今天趋势项目关注的领域和特点：涉及音频、音乐、语音处理，自动化下载，知识库构建，异步服务框架，图像匹配，AutoML工具，TensorFlow模型，机器人AI学习，GitHub资源分享，错误跟踪与性能监控，文档扫描与归档等多个领域，项目特点包括创新性、实用性、社区支持性强。

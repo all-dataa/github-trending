@@ -85,7 +85,7 @@ def job():
         except Exception as e:
             attempts += 1
             print(f"Attempt {attempts} failed with error: {e}")
-            time.sleep(300)  # Wait 5min before retrying
+            time.sleep(60)  # Wait 5min before retrying
     raise Exception("All attempts to scrape data have failed.")
 
 def get_contents(path):

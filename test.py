@@ -9,88 +9,98 @@ from pyquery import PyQuery as pq
 from zhipuai import ZhipuAI
 
 
+def get_contents(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        return f.read()
+
 def get_emails(path):
     with open(path, 'r') as f:
         return f.read().splitlines()
 
 def get_ai_analysis(path):
-    client = ZhipuAI(api_key=os.environ.get("ZHIPUAI_API_KEY"))
-    def get_trends(path):
-        with open(path, 'r', encoding='utf-8') as f:
-            return f.read()
-    
-    trends = get_trends(path)
-    # print(trends)
+    try:
+        client = ZhipuAI(api_key=os.environ.get("ZHIPUAI_API_KEY"))    
+        trends = get_contents(path)
+        print(f'ai is reading, the info is:\n{trends}')
 
-    response = client.chat.completions.create(
-        model="glm-4-flash",  # 填写需要调用的模型编码
-        messages=[
-            {"role": "system", "content": "你是一个 github trends 分析专家。负责分析 github 每日 python 项目的趋势。将英文介绍翻译成中文。输出整齐精致。接着在下一行，安利一个最惊艳的项目。再换一行，最后总结今天的趋势项目关注的领域和特点。语言保持简洁。"},
-            {"role": "user", "content":f'{trends}' }
-        ],
-    )
+        response = client.chat.completions.create(
+            model="glm-4-flash",  # 填写需要调用的模型编码
+            messages=[
+                {"role": "system", "content": "你是一个 github trends 分析专家。负责分析 github 每日 python 项目的趋势。将英文介绍翻译成中文。输出整齐精致。接着在下一行，安利一个最惊艳的项目。再换一行，最后总结今天的趋势项目关注的领域和特点。语言保持简洁。"},
+                {"role": "user", "content":f'{trends}' }
+            ],
+        )
 
-    ans = response.choices[0].message.content
-    # print(ans)
-    return ans
+        ans = response.choices[0].message.content
+        return ans
+    except Exception as e:
+        print(f'when ai analyze, {e} occurs...')
 
-def createtext(date, filename):
+
+def createtext(filename):
     with open(filename, 'w') as f:
-        f.write(date + "\n")
+        f.write('')
+
 
 def scrape(language, filename):
-    HEADERS = {
-        'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
-        'Accept'			: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Encoding'	: 'gzip,deflate,sdch',
-        'Accept-Language'	: 'zh-CN,zh;q=0.8'
-    }
+    try:
+        HEADERS = {
+            'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
+            'Accept'			: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Encoding'	: 'gzip,deflate,sdch',
+            'Accept-Language'	: 'zh-CN,zh;q=0.8'
+        }
 
-    url = 'https://github.com/trending/{language}'.format(language=language)
-    r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200
-    
-    d = pq(r.content)
-    items = d('div.Box article.Box-row')
+        url = f'https://github.com/trending/{language}'
+        r = requests.get(url, headers=HEADERS, timeout=10)
 
-    # codecs to solve the problem utf-8 codec like chinese
-    with codecs.open(filename, "a", "utf-8") as f:
-        #f.write('\n{language}\n'.format(language=language))
+        print(f'scrape() status_code: {r.status_code}')
+        assert r.status_code == 200
 
-        for index, item in enumerate(items, start=1):
-            i = pq(item)
-            title = i(".lh-condensed a").text()
-            owner = i(".lh-condensed span.text-normal").text()
-            description = i("p.col-9").text()
-            url = i(".lh-condensed a").attr("href")
-            url = "https://github.com" + url
-            # ownerImg = i("p.repo-list-meta a img").attr("src")
-            # print(ownerImg)
-            f.write(u"{index}. [{title}]:{description}({url})\n".format(index=index, title=title, description=description, url=url))
+        # print(f'scrape() content:\n {r.content}')        
+        d = pq(r.content)
+        items = d('div.Box article.Box-row')
+
+
+        with codecs.open(filename, "a", "utf-8") as f:
+            for index, item in enumerate(items, start=1):
+                i = pq(item)
+                title = i(".lh-condensed a").text()
+                description = i("p.col-9").text()
+                url = i(".lh-condensed a").attr("href")
+                url = "https://github.com" + url
+                print(url)
+                f.write(u"{index}. [{title}]:{description}({url})\n".format(index=index, title=title, description=description, url=url))
+    except Exception as e:
+        print(f'when scrape {e} occurs')
 
 def job():
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
     filename = f'{strdate}.txt'
-    createtext(strdate, filename)
+    print(f'{strdate} start the job...')
+    createtext(filename)
+
     attempts = 0
 
     while attempts < 6:
         try:
-            print(attempts)
-            scrape('python', filename)
+            print(f'try at {attempts} to get trends~')
+            scrape('python', filename)   # weak point
+            print('scape ends\n')
+
             ans = get_ai_analysis(filename)
+            print(f'ai ans is:\n {ans}')
+            
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write(ans)
             return filename
         except Exception as e:
             attempts += 1
             print(f"Attempt {attempts} failed with error: {e}")
-            time.sleep(30)  # Wait 30s before retrying
+            time.sleep(300)  # Wait 300s before retrying
     raise Exception("All attempts to scrape data have failed.")
 
-def get_contents(path):
-    with open(path, 'r', encoding='utf-8') as f:
-        return f.read()
+
 
 def send_email(src, dst, subject, contents, attachments):
     pwd = os.environ.get('wangyi_emai_auth')
@@ -118,7 +128,7 @@ def daily_task():
 
 if __name__ == '__main__':
     try:
-        schedule.every().day.at('00:00').do(daily_task)
+        schedule.every().day.at('15:50').do(daily_task)
 
         while True:
             schedule.run_pending()
