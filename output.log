@@ -179,3 +179,80 @@ ai ans is:
 惊艳项目安利：[ultralytics / ultralytics]:Ultralytics YOLO11 🚀（https://github.com/ultralytics/ultralytics）
 
 今天趋势项目关注的领域和特点：涉及音频、音乐、语音处理，自动化下载，知识库构建，异步服务框架，图像匹配，AutoML工具，TensorFlow模型，机器人AI学习，GitHub资源分享，错误跟踪与性能监控，文档扫描与归档等多个领域，项目特点包括创新性、实用性、社区支持性强。
+2024-10-31 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+scrape() status_code: 200
+https://github.com/open-mmlab/Amphion
+https://github.com/paperless-ngx/paperless-ngx
+https://github.com/dgtlmoon/changedetection.io
+https://github.com/jackfrued/Python-100-Days
+https://github.com/stanford-oval/storm
+https://github.com/python-poetry/poetry
+https://github.com/graphdeco-inria/gaussian-splatting
+https://github.com/Marker-Inc-Korea/AutoRAG
+https://github.com/vnpy/vnpy
+https://github.com/abi/screenshot-to-code
+https://github.com/speechbrain/speechbrain
+https://github.com/deepset-ai/haystack
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/soimort/you-get
+scape ends
+
+ai is reading, the info is:
+1. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
+2. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
+3. [dgtlmoon / changedetection.io]:The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification(https://github.com/dgtlmoon/changedetection.io)
+4. [jackfrued / Python-100-Days]:Python - 100天从新手到大师(https://github.com/jackfrued/Python-100-Days)
+5. [stanford-oval / storm]:An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.(https://github.com/stanford-oval/storm)
+6. [python-poetry / poetry]:Python packaging and dependency management made easy(https://github.com/python-poetry/poetry)
+7. [graphdeco-inria / gaussian-splatting]:Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"(https://github.com/graphdeco-inria/gaussian-splatting)
+8. [Marker-Inc-Korea / AutoRAG]:AutoML tool for RAG(https://github.com/Marker-Inc-Korea/AutoRAG)
+9. [vnpy / vnpy]:基于Python的开源量化交易平台开发框架(https://github.com/vnpy/vnpy)
+10. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
+11. [speechbrain / speechbrain]:A PyTorch-based Speech Toolkit(https://github.com/speechbrain/speechbrain)
+12. [deepset-ai / haystack]:🔍 AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.(https://github.com/deepset-ai/haystack)
+13. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+14. [soimort / you-get]:⏬ Dumb downloader that scrapes the web(https://github.com/soimort/you-get)
+
+ai ans is:
+ 1. [open-mmlab / Amphion]：Amphion是一个音频、音乐和语音生成工具包。它的目的是支持可重复的研究，并帮助初级研究人员和工程师进入音频、音乐和语音生成研究领域和开发。（https://github.com/open-mmlab/Amphion）
+
+2. [paperless-ngx / paperless-ngx]：社区支持的paperless超级版本：扫描、索引和存档所有您的物理文档。（https://github.com/paperless-ngx/paperless-ngx）
+
+3. [dgtlmoon / changedetection.io]：最好的免费开源网页变更检测、网站监视、库存监控和通知服务。库存监控、变更检测。设计用于简单性——免费简单地监视哪些网站发生了文本变化。免费开源网页变更检测、网站篡改监控、价格变化通知。（https://github.com/dgtlmoon/changedetection.io）
+
+4. [jackfrued / Python-100-Days]：Python - 100天从新手到大师。（https://github.com/jackfrued/Python-100-Days）
+
+5. [stanford-oval / storm]：一个由LLM驱动的知识整理系统，研究一个主题并生成带有引用的全长报告。（https://github.com/stanford-oval/storm）
+
+6. [python-poetry / poetry]：使Python打包和依赖管理变得简单的工具。（https://github.com/python-poetry/poetry）
+
+7. [graphdeco-inria / gaussian-splatting]："3D高斯分层实时辐射场渲染"的原始参考实现。（https://github.com/graphdeco-inria/gaussian-splatting）
+
+8. [Marker-Inc-Korea / AutoRAG]：RAG的AutoML工具。（https://github.com/Marker-Inc-Korea/AutoRAG）
+
+9. [vnpy / vnpy]：基于Python的开源量化交易平台开发框架。（https://github.com/vnpy/vnpy）
+
+10. [abi / screenshot-to-code]：上传截图并转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
+
+11. [speechbrain / speechbrain]：基于PyTorch的语音工具包。（https://github.com/speechbrain/speechbrain）
+
+12. [deepset-ai / haystack]：🔍 AI编排框架，用于构建可自定义、生产就绪的LLM应用程序。将组件（模型、向量数据库、文件转换器）连接到管道或代理，它们可以与您的数据交互。具有先进的检索方法，非常适合构建RAG、问答、语义搜索或对话机器人聊天机器人。（https://github.com/deepset-ai/haystack）
+
+13. [AUTOMATIC1111 / stable-diffusion-webui]：稳定扩散web UI。（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
+
+14. [soimort / you-get]：⏬ 一个简单的下载器，它爬取网络。（https://github.com/soimort/you-get）
+
+最惊艳的项目：[AUTOMATIC1111 / stable-diffusion-webui] - 一个基于稳定扩散模型的web用户界面，可以生成逼真的图像。
+
+今日趋势项目关注的领域和特点：主要集中在AI应用、数据处理、开发工具、语音和音频处理、量化交易和文档管理等领域，特点为创新性、实用性和社区支持。

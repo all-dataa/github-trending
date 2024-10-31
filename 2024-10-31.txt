@@ -1,0 +1,31 @@
+1. [open-mmlab / Amphion]：Amphion是一个音频、音乐和语音生成工具包。它的目的是支持可重复的研究，并帮助初级研究人员和工程师进入音频、音乐和语音生成研究领域和开发。（https://github.com/open-mmlab/Amphion）
+
+2. [paperless-ngx / paperless-ngx]：社区支持的paperless超级版本：扫描、索引和存档所有您的物理文档。（https://github.com/paperless-ngx/paperless-ngx）
+
+3. [dgtlmoon / changedetection.io]：最好的免费开源网页变更检测、网站监视、库存监控和通知服务。库存监控、变更检测。设计用于简单性——免费简单地监视哪些网站发生了文本变化。免费开源网页变更检测、网站篡改监控、价格变化通知。（https://github.com/dgtlmoon/changedetection.io）
+
+4. [jackfrued / Python-100-Days]：Python - 100天从新手到大师。（https://github.com/jackfrued/Python-100-Days）
+
+5. [stanford-oval / storm]：一个由LLM驱动的知识整理系统，研究一个主题并生成带有引用的全长报告。（https://github.com/stanford-oval/storm）
+
+6. [python-poetry / poetry]：使Python打包和依赖管理变得简单的工具。（https://github.com/python-poetry/poetry）
+
+7. [graphdeco-inria / gaussian-splatting]："3D高斯分层实时辐射场渲染"的原始参考实现。（https://github.com/graphdeco-inria/gaussian-splatting）
+
+8. [Marker-Inc-Korea / AutoRAG]：RAG的AutoML工具。（https://github.com/Marker-Inc-Korea/AutoRAG）
+
+9. [vnpy / vnpy]：基于Python的开源量化交易平台开发框架。（https://github.com/vnpy/vnpy）
+
+10. [abi / screenshot-to-code]：上传截图并转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
+
+11. [speechbrain / speechbrain]：基于PyTorch的语音工具包。（https://github.com/speechbrain/speechbrain）
+
+12. [deepset-ai / haystack]：🔍 AI编排框架，用于构建可自定义、生产就绪的LLM应用程序。将组件（模型、向量数据库、文件转换器）连接到管道或代理，它们可以与您的数据交互。具有先进的检索方法，非常适合构建RAG、问答、语义搜索或对话机器人聊天机器人。（https://github.com/deepset-ai/haystack）
+
+13. [AUTOMATIC1111 / stable-diffusion-webui]：稳定扩散web UI。（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
+
+14. [soimort / you-get]：⏬ 一个简单的下载器，它爬取网络。（https://github.com/soimort/you-get）
+
+最惊艳的项目：[AUTOMATIC1111 / stable-diffusion-webui] - 一个基于稳定扩散模型的web用户界面，可以生成逼真的图像。
+
+今日趋势项目关注的领域和特点：主要集中在AI应用、数据处理、开发工具、语音和音频处理、量化交易和文档管理等领域，特点为创新性、实用性和社区支持。
