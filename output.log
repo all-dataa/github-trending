@@ -256,3 +256,90 @@ ai ans is:
 最惊艳的项目：[AUTOMATIC1111 / stable-diffusion-webui] - 一个基于稳定扩散模型的web用户界面，可以生成逼真的图像。
 
 今日趋势项目关注的领域和特点：主要集中在AI应用、数据处理、开发工具、语音和音频处理、量化交易和文档管理等领域，特点为创新性、实用性和社区支持。
+2024-11-01 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/open-mmlab/Amphion
+https://github.com/soimort/you-get
+https://github.com/stanford-oval/storm
+https://github.com/Azure-Samples/azure-search-openai-demo
+https://github.com/timescale/pgai
+https://github.com/Marker-Inc-Korea/AutoRAG
+https://github.com/abi/screenshot-to-code
+https://github.com/unclecode/crawl4ai
+https://github.com/paperless-ngx/paperless-ngx
+https://github.com/frappe/erpnext
+https://github.com/openai/simple-evals
+https://github.com/homebrewltd/ichigo
+https://github.com/jackfrued/Python-100-Days
+https://github.com/dgtlmoon/changedetection.io
+https://github.com/naver/mast3r
+https://github.com/tensorflow/models
+https://github.com/hiyouga/LLaMA-Factory
+https://github.com/InternLM/lmdeploy
+https://github.com/getomni-ai/zerox
+scape ends
+
+ai is reading, the info is:
+1. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
+2. [soimort / you-get]:⏬ Dumb downloader that scrapes the web(https://github.com/soimort/you-get)
+3. [stanford-oval / storm]:An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.(https://github.com/stanford-oval/storm)
+4. [Azure-Samples / azure-search-openai-demo]:A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.(https://github.com/Azure-Samples/azure-search-openai-demo)
+5. [timescale / pgai]:A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL(https://github.com/timescale/pgai)
+6. [Marker-Inc-Korea / AutoRAG]:AutoML tool for RAG(https://github.com/Marker-Inc-Korea/AutoRAG)
+7. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
+8. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper(https://github.com/unclecode/crawl4ai)
+9. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
+10. [frappe / erpnext]:Free and Open Source Enterprise Resource Planning (ERP)(https://github.com/frappe/erpnext)
+11. [openai / simple-evals]:(https://github.com/openai/simple-evals)
+12. [homebrewltd / ichigo]:Llama3.1 learns to Listen(https://github.com/homebrewltd/ichigo)
+13. [jackfrued / Python-100-Days]:Python - 100天从新手到大师(https://github.com/jackfrued/Python-100-Days)
+14. [dgtlmoon / changedetection.io]:The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification(https://github.com/dgtlmoon/changedetection.io)
+15. [naver / mast3r]:Grounding Image Matching in 3D with MASt3R(https://github.com/naver/mast3r)
+16. [tensorflow / models]:Models and examples built with TensorFlow(https://github.com/tensorflow/models)
+17. [hiyouga / LLaMA-Factory]:Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)(https://github.com/hiyouga/LLaMA-Factory)
+18. [InternLM / lmdeploy]:LMDeploy is a toolkit for compressing, deploying, and serving LLMs.(https://github.com/InternLM/lmdeploy)
+19. [getomni-ai / zerox]:Zero shot pdf OCR with gpt-4o-mini(https://github.com/getomni-ai/zerox)
+
+ai ans is:
+ 1. [open-mmlab / Amphion]:Amphion是一个音频、音乐和语音生成工具包。它的目的是支持可重复研究，并帮助年轻的研究人员和工程师在音频、音乐和语音生成研究领域开始工作。（https://github.com/open-mmlab/Amphion）
+
+2. [soimort / you-get]:⏬一个简单的下载器，用于从网络上抓取内容。（https://github.com/soimort/you-get）
+
+3. [stanford-oval / storm]:一个由大型语言模型（LLM）驱动的知识编纂系统，它研究一个主题并生成带引用的完整报告。（https://github.com/stanford-oval/storm）
+
+4. [Azure-Samples / azure-search-openai-demo]:一个运行在Azure上的检索增强生成模式示例应用程序，使用Azure AI搜索进行检索，并使用Azure OpenAI的大语言模型来提供ChatGPT风格和问答体验。（https://github.com/Azure-Samples/azure-search-openai-demo）
+
+5. [timescale / pgai]:一套工具，使您能够更容易地使用PostgreSQL开发RAG、语义搜索和其他AI应用程序。（https://github.com/timescale/pgai）
+
+6. [Marker-Inc-Korea / AutoRAG]:RAG的AutoML工具。（https://github.com/Marker-Inc-Korea/AutoRAG）
+
+7. [abi / screenshot-to-code]:将截图放入其中，将其转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
+
+8. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的LLM友好型Web爬虫和抓取工具。（https://github.com/unclecode/crawl4ai）
+
+9. [paperless-ngx / paperless-ngx]:paperless的社区支持加强版：扫描、索引和存档所有您的物理文档。（https://github.com/paperless-ngx/paperless-ngx）
+
+10. [frappe / erpnext]:免费和开源的企业资源计划（ERP）（https://github.com/frappe/erpnext）
+
+11. [openai / simple-evals]:（https://github.com/openai/simple-evals）
+
+12. [homebrewltd / ichigo]:Llama3.1学会倾听。（https://github.com/homebrewltd/ichigo）
+
+13. [jackfrued / Python-100-Days]:Python - 100天从新手到大师。（https://github.com/jackfrued/Python-100-Days）
+
+14. [dgtlmoon / changedetection.io]:最佳和最简单的免费开源网页变更检测、网站监控、库存监控和通知服务。库存监控、变更检测。设计用于简洁 - 简单监控哪些网站有文本变更，免费。免费开源网页变更检测、网站篡改监控、价格变更通知。（https://github.com/dgtlmoon/changedetection.io）
+
+15. [naver / mast3r]:使用MASt3R在3D中对图像匹配进行归一化。（https://github.com/naver/mast3r）
+
+16. [tensorflow / models]:使用TensorFlow构建的模型和示例。（https://github.com/tensorflow/models）
+
+17. [hiyouga / LLaMA-Factory]:100+ LLM的统一高效微调（ACL 2024）（https://github.com/hiyouga/LLaMA-Factory）
+
+18. [InternLM / lmdeploy]:LMDeploy是一个用于压缩、部署和服务的LLM工具包。（https://github.com/InternLM/lmdeploy）
+
+19. [getomni-ai / zerox]:使用gpt-4o-mini的零样本PDF OCR。（https://github.com/getomni-ai/zerox）
+
+最惊艳项目推荐：[homebrewltd / ichigo] Llama3.1学会倾听。
+
+今日趋势项目关注领域和特点：主要集中在AI工具和平台开发，包括音频、音乐、语音生成工具包，开源下载工具，知识编纂系统，AI搜索和问答应用，语义搜索工具，AutoML工具，图像处理，以及Python编程学习资源。特点为实用性、创新性和开源性。

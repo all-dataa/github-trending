@@ -1,0 +1,27 @@
+1. [electric-capital / crypto-ecosystems]:开源加密货币、区块链和去中心化生态系统的分类法（https://github.com/electric-capital/crypto-ecosystems）
+2. [rerun-io / rerun]:可视化多模态数据的流，免费、快速、易于使用，简单集成。使用 Rust 构建。（https://github.com/rerun-io/rerun）
+3. [jtroo / kanata]:通过高级自定义提高键盘舒适性和可用性（https://github.com/jtroo/kanata）
+4. [Snowiiii / Pumpkin]:让每个人都能快速高效地托管 Minecraft 服务器。（https://github.com/Snowiiii/Pumpkin）
+5. [rustdesk / rustdesk]:一个开源的远程桌面应用程序，旨在自托管，作为 TeamViewer 的替代品。（https://github.com/rustdesk/rustdesk）
+6. [kitao / pyxel]:一个用于 Python 的复古游戏引擎（https://github.com/kitao/pyxel）
+7. [zed-industries / zed]:以思维速度编码 – Zed 是由 Atom 和 Tree-sitter 的创造者开发的高性能、多人代码编辑器。（https://github.com/zed-industries/zed）
+8. [ReFirmLabs / binwalk]:固件分析工具（https://github.com/ReFirmLabs/binwalk）
+9. [chroma-core / chroma]:AI 原生的开源嵌入数据库（https://github.com/chroma-core/chroma）
+10. [seanmonstar / reqwest]:简单且强大的 Rust HTTP 客户端（https://github.com/seanmonstar/reqwest）
+11. [spaceandtimelabs / sxt-proof-of-sql]:空间和时间 | SQL 证明（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+12. [tikv / tikv]:分布式的事务性键值数据库，最初创建用于补充 TiDB（https://github.com/tikv/tikv）
+13. [meilisearch / meilisearch]:一个闪电般快速且无缝集成到您的应用程序、网站和工作流程中的搜索 API（https://github.com/meilisearch/meilisearch）
+14. [solana-labs / solana-program-library]:由 Solana Labs 维护的 Solana 程序集合（https://github.com/solana-labs/solana-program-library）
+15. [bevyengine / bevy]:一个简洁的数据驱动游戏引擎，使用 Rust 构建（https://github.com/bevyengine/bevy）
+16. [sxyazi / yazi]:💥 用 Rust 编写的闪电般快速的终端文件管理器，基于异步 I/O。（https://github.com/sxyazi/yazi）
+17. [GyulyVGC / sniffnet]:舒适地监控您的互联网流量 🕵️‍♂️（https://github.com/GyulyVGC/sniffnet）
+18. [paradigmxyz / reth]:模块化、对贡献者友好且速度惊人的以太坊协议实现，使用 Rust 编写（https://github.com/paradigmxyz/reth）
+19. [cloudflare / quiche]:🥧 QUIC 传输协议和 HTTP/3 的美味实现（https://github.com/cloudflare/quiche）
+20. [extrawurst / gitui]:使用 rust 编写的 git 的闪电般快速的终端-ui 💥（https://github.com/extrawurst/gitui）
+21. [rust-lang / miri]:Rust 中间表示的解析器（https://github.com/rust-lang/miri）
+22. [benfred / py-spy]:Python 程序的采样分析器（https://github.com/benfred/py-spy）
+23. [influxdata / influxdb]:可扩展的数据存储，用于指标、事件和实时分析（https://github.com/influxdata/influxdb）
+
+惊艳项目推荐：[zed-industries / zed] – 以思维速度编码的高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创造者开发。
+
+今日趋势项目关注领域和特点：今日趋势项目涵盖了从游戏引擎到分析工具，再到区块链和数据库等多个领域。特点是使用 Rust 语言构建的高性能、开源项目，强调易用性和创新性。
