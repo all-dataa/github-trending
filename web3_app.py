@@ -76,7 +76,7 @@ def scrape(language, filename):
 
 def job():
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-    filename = f'{strdate}.txt'
+    filename = f'{strdate}-web3.txt'
     print(f'{strdate} start the job...')
     createtext(filename)
 
