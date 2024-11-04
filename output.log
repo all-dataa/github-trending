@@ -512,3 +512,72 @@ ai ans is:
 
 今日趋势项目关注的领域和特点：
 今日趋势项目主要集中在AI、数据分析和软件开发领域，特点包括：利用AI技术提高生产效率和用户体验，如Cinnamon/kotaemon和Azure-Samples/azure-search-openai-demo；注重数据处理的便捷性和效率，如timescale/pgai和dagster-io/dagster；以及跨平台和开源的软件开发，如marimo-team/marimo和paperless-ngx/paperless-ngx。
+2024-11-04 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/DS4SD/docling
+https://github.com/abi/screenshot-to-code
+https://github.com/All-Hands-AI/OpenHands
+https://github.com/Cinnamon/kotaemon
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/mingrammer/diagrams
+https://github.com/3b1b/videos
+https://github.com/meta-llama/llama-stack
+https://github.com/unclecode/crawl4ai
+https://github.com/fishaudio/fish-speech
+https://github.com/mealie-recipes/mealie
+https://github.com/MetaCubeX/mihomo
+https://github.com/freqtrade/freqtrade
+https://github.com/public-apis/public-apis
+https://github.com/timescale/pgai
+https://github.com/marimo-team/marimo
+https://github.com/cuifengcn/TAICHI-flet
+https://github.com/paperless-ngx/paperless-ngx
+https://github.com/yt-dlp/yt-dlp
+scape ends
+
+ai is reading, the info is:
+1. [DS4SD / docling]:Get your docs ready for gen AI(https://github.com/DS4SD/docling)
+2. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
+3. [All-Hands-AI / OpenHands]:🙌 OpenHands: Code Less, Make More(https://github.com/All-Hands-AI/OpenHands)
+4. [Cinnamon / kotaemon]:An open-source RAG-based tool for chatting with your documents.(https://github.com/Cinnamon/kotaemon)
+5. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+6. [mingrammer / diagrams]:🎨 Diagram as Code for prototyping cloud system architectures(https://github.com/mingrammer/diagrams)
+7. [3b1b / videos]:Code for the manim-generated scenes used in 3blue1brown videos(https://github.com/3b1b/videos)
+8. [meta-llama / llama-stack]:Model components of the Llama Stack APIs(https://github.com/meta-llama/llama-stack)
+9. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper(https://github.com/unclecode/crawl4ai)
+10. [fishaudio / fish-speech]:Brand new TTS solution(https://github.com/fishaudio/fish-speech)
+11. [mealie-recipes / mealie]:Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor(https://github.com/mealie-recipes/mealie)
+12. [MetaCubeX / mihomo]:A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.(https://github.com/MetaCubeX/mihomo)
+13. [freqtrade / freqtrade]:Free, open source crypto trading bot(https://github.com/freqtrade/freqtrade)
+14. [public-apis / public-apis]:A collective list of free APIs(https://github.com/public-apis/public-apis)
+15. [timescale / pgai]:A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL(https://github.com/timescale/pgai)
+16. [marimo-team / marimo]:A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.(https://github.com/marimo-team/marimo)
+17. [cuifengcn / TAICHI-flet]:基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。(https://github.com/cuifengcn/TAICHI-flet)
+18. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
+19. [yt-dlp / yt-dlp]:A feature-rich command-line audio/video downloader(https://github.com/yt-dlp/yt-dlp)
+
+ai ans is:
+ 1. [DS4SD / docling]:为您的文档做好准备，迎接通用人工智能（https://github.com/DS4SD/docling）
+2. [abi / screenshot-to-code]:拖入截图，将其转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
+3. [All-Hands-AI / OpenHands]:🙌 OpenHands：少写代码，多做成果（https://github.com/All-Hands-AI/OpenHands）
+4. [Cinnamon / kotaemon]:基于RAG的开源工具，用于与文档聊天。（https://github.com/Cinnamon/kotaemon）
+5. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
+6. [mingrammer / diagrams]:🎨 Diagram as Code 用于原型设计云系统架构（https://github.com/mingrammer/diagrams）
+7. [3b1b / videos]:3blue1brown视频中使用的manim生成场景的代码（https://github.com/3b1b/videos）
+8. [meta-llama / llama-stack]:Llama Stack API的模型组件（https://github.com/meta-llama/llama-stack）
+9. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的LLM友好型Web爬虫和抓取器（https://github.com/unclecode/crawl4ai）
+10. [fishaudio / fish-speech]:全新的TTS解决方案（https://github.com/fishaudio/fish-speech）
+11. [mealie-recipes / mealie]:Mealie是一个自托管的食谱管理和餐食计划器，具有RESTAPI后端和用Vue构建的响应式前端应用程序，为全家提供愉悦的用户体验。通过提供URL轻松将食谱添加到数据库中，Mealie会自动导入相关数据或使用UI编辑器添加家庭食谱。（https://github.com/mealie-recipes/mealie）
+12. [MetaCubeX / mihomo]:简单的Python Pydantic模型，用于解析Mihomo API的《崩坏：星穹铁道》数据。（https://github.com/MetaCubeX/mihomo）
+13. [freqtrade / freqtrade]:免费、开源的加密货币交易机器人（https://github.com/freqtrade/freqtrade）
+14. [public-apis / public-apis]:免费API的集合（https://github.com/public-apis/public-apis）
+15. [timescale / pgai]:一套工具，可使用PostgreSQL轻松开发RAG、语义搜索和其他AI应用程序（https://github.com/timescale/pgai）
+16. [marimo-team / marimo]:Python的响应式笔记本——运行可重复实验、作为脚本执行、作为应用程序部署，并使用git进行版本控制。（https://github.com/marimo-team/marimo）
+17. [cuifengcn / TAICHI-flet]:基于flet的Windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。（https://github.com/cuifengcn/TAICHI-flet）
+18. [paperless-ngx / paperless-ngx]:纸页社区支持的超强版本，用于扫描、索引和存档所有物理文档（https://github.com/paperless-ngx/paperless-ngx）
+19. [yt-dlp / yt-dlp]:功能丰富的命令行音频/视频下载器（https://github.com/yt-dlp/yt-dlp）
+
+安利项目：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI，一个强大的AI图像生成工具。
+
+今日趋势项目关注的领域和特点：今日趋势项目集中在AI应用开发、代码生成、数据爬取、文档管理等多个领域，特点为开源、创新性强、实用性高。
