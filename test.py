@@ -117,7 +117,7 @@ def daily_task():
     try:
         path = job()
         src = '19121220286@163.com'
-        tos = get_emails('emails_test.txt') #['pxxhl@qq.com']
+        tos = get_emails('emails_test.txt') 
         subject = '今日AI+头条项目'
         contents = get_contents(path)
         attachments = path
@@ -128,7 +128,7 @@ def daily_task():
 
 if __name__ == '__main__':
     try:
-        schedule.every().day.at('15:50').do(daily_task)
+        schedule.every().day.at('14:23').do(daily_task)
 
         while True:
             schedule.run_pending()
