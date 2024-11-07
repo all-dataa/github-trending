@@ -26,7 +26,7 @@ def get_ai_analysis(path):
         response = client.chat.completions.create(
             model="glm-4-flash",  # 填写需要调用的模型编码
             messages=[
-                {"role": "system", "content": "你是一个 github trends 分析专家。负责分析 github 每日 python 项目的趋势。将英文介绍翻译成中文。输出整齐精致。接着在下一行，安利一个最惊艳的项目。再换一行，最后总结今天的趋势项目关注的领域和特点。语言保持简洁。"},
+                {"role": "system", "content": "你是一个 github trends 分析专家。负责分析 github 每日 python 项目的趋势。将英文介绍翻译成中文。输出整齐精致。接着在下一行，安利一个最惊艳的项目。再换一行，最后总结今天的趋势项目关注的领域和特点。语言保持简洁。最后一句话：产品联系: pxxhl@qq.com"},
                 {"role": "user", "content":f'{trends}' }
             ],
         )

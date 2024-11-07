@@ -1,583 +1,128 @@
 nohup: ignoring input
-2024-10-28 start the job...
-try at 0 to get trends~
-when scrape ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) occurs
-scape ends
-
-ai is reading, the info is:
-
-when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
-ai ans is:
- None
-Attempt 1 failed with error: write() argument must be str, not None
-try at 1 to get trends~
-when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/python (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x73704f6f4f20>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
-scape ends
-
-ai is reading, the info is:
-
-when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
-ai ans is:
- None
-Attempt 2 failed with error: write() argument must be str, not None
-try at 2 to get trends~
-scrape() status_code: 200
-https://github.com/Skyvern-AI/skyvern
-https://github.com/OpenInterpreter/open-interpreter
-https://github.com/Guovin/TV
-https://github.com/huggingface/diffusers
-https://github.com/open-mmlab/Amphion
-https://github.com/R3gm/SoniTranslate
-https://github.com/Marker-Inc-Korea/AutoRAG
-https://github.com/permitio/opal
-https://github.com/THUDM/AutoWebGLM
-https://github.com/xtekky/gpt4free
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
-https://github.com/commaai/openpilot
-https://github.com/home-assistant/core
-https://github.com/sergree/matchering
-scape ends
-
-ai is reading, the info is:
-1. [Skyvern-AI / skyvern]:Automate browser-based workflows with LLMs and Computer Vision(https://github.com/Skyvern-AI/skyvern)
-2. [OpenInterpreter / open-interpreter]:A natural language interface for computers(https://github.com/OpenInterpreter/open-interpreter)
-3. [Guovin / TV]:📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool(https://github.com/Guovin/TV)
-4. [huggingface / diffusers]:🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.(https://github.com/huggingface/diffusers)
-5. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
-6. [R3gm / SoniTranslate]:Synchronized Translation for Videos. Video dubbing(https://github.com/R3gm/SoniTranslate)
-7. [Marker-Inc-Korea / AutoRAG]:AutoML tool for RAG(https://github.com/Marker-Inc-Korea/AutoRAG)
-8. [permitio / opal]:Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)(https://github.com/permitio/opal)
-9. [THUDM / AutoWebGLM]:An LLM-based Web Navigating Agent (KDD'24)(https://github.com/THUDM/AutoWebGLM)
-10. [xtekky / gpt4free]:The official gpt4free repository | various collection of powerful language models(https://github.com/xtekky/gpt4free)
-11. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-12. [commaai / openpilot]:openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.(https://github.com/commaai/openpilot)
-13. [home-assistant / core]:🏡 Open source home automation that puts local control and privacy first.(https://github.com/home-assistant/core)
-14. [sergree / matchering]:🎚️ Open Source Audio Matching and Mastering(https://github.com/sergree/matchering)
-
-ai ans is:
- 1. [Skyvern-AI / skyvern]: 使用LLM和计算机视觉自动化基于浏览器的流程（https://github.com/Skyvern-AI/skyvern）
-2. [OpenInterpreter / open-interpreter]: 电脑的自然语言界面（https://github.com/OpenInterpreter/open-interpreter）
-3. [Guovin / TV]: 📺 IPTV电视直播源更新工具🚀：包含央视（付费）、卫视、广东、港澳台、电影、咪咕、体育、动画、游戏、音乐、经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool（https://github.com/Guovin/TV）
-4. [huggingface / diffusers]: 🤗 Diffusers：在PyTorch和FLAX中使用最先进的图像和音频生成扩散模型。（https://github.com/huggingface/diffusers）
-5. [open-mmlab / Amphion]: Amphion是一个音频、音乐和语音生成的工具包。其目的是支持可重复的研究，并帮助初学者和工程师在音频、音乐和语音生成研究和发展领域入门。（https://github.com/open-mmlab/Amphion）
-6. [R3gm / SoniTranslate]: 视频同步翻译。视频配音（https://github.com/R3gm/SoniTranslate）
-7. [Marker-Inc-Korea / AutoRAG]: RAG的AutoML工具（https://github.com/Marker-Inc-Korea/AutoRAG）
-8. [permitio / opal]: 在策略代理（OPA、Cedar等）之上进行策略和数据管理、分发和实时更新（https://github.com/permitio/opal）
-9. [THUDM / AutoWebGLM]: 基于LLM的Web导航代理（KDD'24）（https://github.com/THUDM/AutoWebGLM）
-10. [xtekky / gpt4free]: 官方gpt4free仓库 | 强大语言模型的多种集合（https://github.com/xtekky/gpt4free）
-11. [AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
-12. [commaai / openpilot]: openpilot是一个机器人操作系统。目前，它在275多款支持的车辆中升级了驾驶辅助系统。（https://github.com/commaai/openpilot）
-13. [home-assistant / core]: 🏡 开源智能家居，优先考虑本地控制和隐私。（https://github.com/home-assistant/core）
-14. [sergree / matchering]: 🎚️ 开源音频匹配和母带制作（https://github.com/sergree/matchering）
-
-惊艳项目安利：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI，一个用于生成图像和音频的扩散模型的前端界面。
-
-今日趋势项目关注的领域和特点：今日趋势项目集中在自然语言处理、音频和音乐生成、智能家居、自动驾驶辅助系统以及图像和音频处理等领域，特点是融合了最新的AI技术和应用场景，展现了技术在实际生活中的广泛应用潜力。
-2024-10-29 start the job...
-try at 0 to get trends~
-scrape() status_code: 200
-https://github.com/open-mmlab/Amphion
-https://github.com/Skyvern-AI/skyvern
-https://github.com/soimort/you-get
-https://github.com/huggingface/lerobot
-https://github.com/stanford-oval/storm
-https://github.com/airtai/faststream
-https://github.com/xtekky/gpt4free
-https://github.com/mikf/gallery-dl
-https://github.com/OpenInterpreter/open-interpreter
-https://github.com/bramstroker/homeassistant-powercalc
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/521xueweihan/GitHub520
-https://github.com/KurtBestor/Hitomi-Downloader
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
-https://github.com/ucbepic/docetl
-scape ends
-
-ai is reading, the info is:
-1. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
-2. [Skyvern-AI / skyvern]:Automate browser-based workflows with LLMs and Computer Vision(https://github.com/Skyvern-AI/skyvern)
-3. [soimort / you-get]:⏬ Dumb downloader that scrapes the web(https://github.com/soimort/you-get)
-4. [huggingface / lerobot]:🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning(https://github.com/huggingface/lerobot)
-5. [stanford-oval / storm]:An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.(https://github.com/stanford-oval/storm)
-6. [airtai / faststream]:FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.(https://github.com/airtai/faststream)
-7. [xtekky / gpt4free]:The official gpt4free repository | various collection of powerful language models(https://github.com/xtekky/gpt4free)
-8. [mikf / gallery-dl]:Command-line program to download image galleries and collections from several image hosting sites(https://github.com/mikf/gallery-dl)
-9. [OpenInterpreter / open-interpreter]:A natural language interface for computers(https://github.com/OpenInterpreter/open-interpreter)
-10. [bramstroker / homeassistant-powercalc]:Custom component to calculate estimated power consumption of lights and other appliances(https://github.com/bramstroker/homeassistant-powercalc)
-11. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-12. [521xueweihan / GitHub520]:😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）(https://github.com/521xueweihan/GitHub520)
-13. [KurtBestor / Hitomi-Downloader]:🍰 Desktop utility to download images/videos/music/text from various websites, and more.(https://github.com/KurtBestor/Hitomi-Downloader)
-14. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-15. [ucbepic / docetl]:A system for agentic LLM-powered data processing and ETL(https://github.com/ucbepic/docetl)
-
-ai ans is:
- 1. [open-mmlab / Amphion]:Amphion是一个用于音频、音乐和语音生成的工具包。其目的是支持可重复的研究，并帮助初级研究人员和工程师在音频、音乐和语音生成研究领域和开发中入门。(https://github.com/open-mmlab/Amphion)
-2. [Skyvern-AI / skyvern]:使用LLM和计算机视觉自动化基于浏览器的流程。(https://github.com/Skyvern-AI/skyvern)
-3. [soimort / you-get]:⏬一个简单的爬虫下载器，用于从网页上抓取内容。(https://github.com/soimort/you-get)
-4. [huggingface / lerobot]:🤗 LeRobot：通过端到端学习使机器人AI更易于使用。(https://github.com/huggingface/lerobot)
-5. [stanford-oval / storm]:一个由LLM驱动的知识整理系统，研究一个主题并生成带引用的完整报告。(https://github.com/stanford-oval/storm)
-6. [airtai / faststream]:FastStream是一个强大且易于使用的Python框架，用于构建与Apache Kafka、RabbitMQ、NATS和Redis等事件流交互的异步服务。(https://github.com/airtai/faststream)
-7. [xtekky / gpt4free]:官方gpt4free仓库 | 强大语言模型的各种集合。(https://github.com/xtekky/gpt4free)
-8. [mikf / gallery-dl]:用于从多个图像托管站点下载图像画廊和集合的命令行程序。(https://github.com/mikf/gallery-dl)
-9. [OpenInterpreter / open-interpreter]:计算机的自然语言界面。(https://github.com/OpenInterpreter/open-interpreter)
-10. [bramstroker / homeassistant-powercalc]:一个自定义组件，用于计算灯光和其他设备的预估功耗。(https://github.com/bramstroker/homeassistant-powercalc)
-11. [paperless-ngx / paperless-ngx]:paperless的社区支持超级版本：扫描、索引和存档所有您的物理文档。(https://github.com/paperless-ngx/paperless-ngx)
-12. [521xueweihan / GitHub520]:😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）(https://github.com/521xueweihan/GitHub520)
-13. [KurtBestor / Hitomi-Downloader]:🍰 从各种网站下载图片/视频/音乐/文本的桌面工具。(https://github.com/KurtBestor/Hitomi-Downloader)
-14. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion的Web用户界面。(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-15. [ucbepic / docetl]:一个用于代理LLM驱动的数据处理和ETL的系统。(https://github.com/ucbepic/docetl)
-
-惊艳项目推荐：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI，这是一个基于文本提示生成图像的Web用户界面。
-
-今日趋势项目关注的领域和特点：
-- 音频、音乐和语音生成工具包，如Amphion。
-- 基于LLM和计算机视觉的自动化工具，如Skyvern。
-- 数据处理和ETL系统，如docetl。
-- 异步服务框架，如FastStream。
-- 图像和视频下载工具，如gallery-dl和Hitomi-Downloader。
-- 知识整理和报告生成工具，如storm。
-- 自然语言界面和机器人AI，如OpenInterpreter和LeRobot。
-- GitHub访问增强工具，如GitHub520。
-2024-10-30 start the job...
-try at 0 to get trends~
-scrape() status_code: 200
-https://github.com/open-mmlab/Amphion
-https://github.com/soimort/you-get
-https://github.com/stanford-oval/storm
-https://github.com/airtai/faststream
-https://github.com/naver/mast3r
-https://github.com/Marker-Inc-Korea/AutoRAG
-https://github.com/tensorflow/models
-https://github.com/huggingface/lerobot
-https://github.com/521xueweihan/HelloGitHub
-https://github.com/521xueweihan/GitHub520
-https://github.com/ultralytics/ultralytics
-https://github.com/PokeAPI/pokeapi
-https://github.com/getsentry/sentry
-https://github.com/paperless-ngx/paperless-ngx
-scape ends
-
-ai is reading, the info is:
-1. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
-2. [soimort / you-get]:⏬ Dumb downloader that scrapes the web(https://github.com/soimort/you-get)
-3. [stanford-oval / storm]:An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.(https://github.com/stanford-oval/storm)
-4. [airtai / faststream]:FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.(https://github.com/airtai/faststream)
-5. [naver / mast3r]:Grounding Image Matching in 3D with MASt3R(https://github.com/naver/mast3r)
-6. [Marker-Inc-Korea / AutoRAG]:AutoML tool for RAG(https://github.com/Marker-Inc-Korea/AutoRAG)
-7. [tensorflow / models]:Models and examples built with TensorFlow(https://github.com/tensorflow/models)
-8. [huggingface / lerobot]:🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning(https://github.com/huggingface/lerobot)
-9. [521xueweihan / HelloGitHub]:分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.(https://github.com/521xueweihan/HelloGitHub)
-10. [521xueweihan / GitHub520]:😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）(https://github.com/521xueweihan/GitHub520)
-11. [ultralytics / ultralytics]:Ultralytics YOLO11 🚀(https://github.com/ultralytics/ultralytics)
-12. [PokeAPI / pokeapi]:The Pokémon API(https://github.com/PokeAPI/pokeapi)
-13. [getsentry / sentry]:Developer-first error tracking and performance monitoring(https://github.com/getsentry/sentry)
-14. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-
-ai ans is:
- [open-mmlab / Amphion]:Amphion是一个音频、音乐和语音生成的工具包。其目的是支持可重复的研究，并帮助初学者和工程师开始音频、音乐和语音生成研究与发展。（https://github.com/open-mmlab/Amphion）
-
-惊艳项目安利：[ultralytics / ultralytics]:Ultralytics YOLO11 🚀（https://github.com/ultralytics/ultralytics）
-
-今天趋势项目关注的领域和特点：涉及音频、音乐、语音处理，自动化下载，知识库构建，异步服务框架，图像匹配，AutoML工具，TensorFlow模型，机器人AI学习，GitHub资源分享，错误跟踪与性能监控，文档扫描与归档等多个领域，项目特点包括创新性、实用性、社区支持性强。
-2024-10-31 start the job...
-try at 0 to get trends~
-when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. occurs
-scape ends
-
-ai is reading, the info is:
-
-when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
-ai ans is:
- None
-Attempt 1 failed with error: write() argument must be str, not None
-try at 1 to get trends~
-scrape() status_code: 200
-https://github.com/open-mmlab/Amphion
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/dgtlmoon/changedetection.io
-https://github.com/jackfrued/Python-100-Days
-https://github.com/stanford-oval/storm
-https://github.com/python-poetry/poetry
-https://github.com/graphdeco-inria/gaussian-splatting
-https://github.com/Marker-Inc-Korea/AutoRAG
-https://github.com/vnpy/vnpy
-https://github.com/abi/screenshot-to-code
-https://github.com/speechbrain/speechbrain
-https://github.com/deepset-ai/haystack
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
-https://github.com/soimort/you-get
-scape ends
-
-ai is reading, the info is:
-1. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
-2. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-3. [dgtlmoon / changedetection.io]:The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification(https://github.com/dgtlmoon/changedetection.io)
-4. [jackfrued / Python-100-Days]:Python - 100天从新手到大师(https://github.com/jackfrued/Python-100-Days)
-5. [stanford-oval / storm]:An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.(https://github.com/stanford-oval/storm)
-6. [python-poetry / poetry]:Python packaging and dependency management made easy(https://github.com/python-poetry/poetry)
-7. [graphdeco-inria / gaussian-splatting]:Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"(https://github.com/graphdeco-inria/gaussian-splatting)
-8. [Marker-Inc-Korea / AutoRAG]:AutoML tool for RAG(https://github.com/Marker-Inc-Korea/AutoRAG)
-9. [vnpy / vnpy]:基于Python的开源量化交易平台开发框架(https://github.com/vnpy/vnpy)
-10. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
-11. [speechbrain / speechbrain]:A PyTorch-based Speech Toolkit(https://github.com/speechbrain/speechbrain)
-12. [deepset-ai / haystack]:🔍 AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.(https://github.com/deepset-ai/haystack)
-13. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-14. [soimort / you-get]:⏬ Dumb downloader that scrapes the web(https://github.com/soimort/you-get)
-
-ai ans is:
- 1. [open-mmlab / Amphion]：Amphion是一个音频、音乐和语音生成工具包。它的目的是支持可重复的研究，并帮助初级研究人员和工程师进入音频、音乐和语音生成研究领域和开发。（https://github.com/open-mmlab/Amphion）
-
-2. [paperless-ngx / paperless-ngx]：社区支持的paperless超级版本：扫描、索引和存档所有您的物理文档。（https://github.com/paperless-ngx/paperless-ngx）
-
-3. [dgtlmoon / changedetection.io]：最好的免费开源网页变更检测、网站监视、库存监控和通知服务。库存监控、变更检测。设计用于简单性——免费简单地监视哪些网站发生了文本变化。免费开源网页变更检测、网站篡改监控、价格变化通知。（https://github.com/dgtlmoon/changedetection.io）
-
-4. [jackfrued / Python-100-Days]：Python - 100天从新手到大师。（https://github.com/jackfrued/Python-100-Days）
-
-5. [stanford-oval / storm]：一个由LLM驱动的知识整理系统，研究一个主题并生成带有引用的全长报告。（https://github.com/stanford-oval/storm）
-
-6. [python-poetry / poetry]：使Python打包和依赖管理变得简单的工具。（https://github.com/python-poetry/poetry）
-
-7. [graphdeco-inria / gaussian-splatting]："3D高斯分层实时辐射场渲染"的原始参考实现。（https://github.com/graphdeco-inria/gaussian-splatting）
-
-8. [Marker-Inc-Korea / AutoRAG]：RAG的AutoML工具。（https://github.com/Marker-Inc-Korea/AutoRAG）
-
-9. [vnpy / vnpy]：基于Python的开源量化交易平台开发框架。（https://github.com/vnpy/vnpy）
-
-10. [abi / screenshot-to-code]：上传截图并转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
-
-11. [speechbrain / speechbrain]：基于PyTorch的语音工具包。（https://github.com/speechbrain/speechbrain）
-
-12. [deepset-ai / haystack]：🔍 AI编排框架，用于构建可自定义、生产就绪的LLM应用程序。将组件（模型、向量数据库、文件转换器）连接到管道或代理，它们可以与您的数据交互。具有先进的检索方法，非常适合构建RAG、问答、语义搜索或对话机器人聊天机器人。（https://github.com/deepset-ai/haystack）
-
-13. [AUTOMATIC1111 / stable-diffusion-webui]：稳定扩散web UI。（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
-
-14. [soimort / you-get]：⏬ 一个简单的下载器，它爬取网络。（https://github.com/soimort/you-get）
-
-最惊艳的项目：[AUTOMATIC1111 / stable-diffusion-webui] - 一个基于稳定扩散模型的web用户界面，可以生成逼真的图像。
-
-今日趋势项目关注的领域和特点：主要集中在AI应用、数据处理、开发工具、语音和音频处理、量化交易和文档管理等领域，特点为创新性、实用性和社区支持。
-2024-11-01 start the job...
-try at 0 to get trends~
-scrape() status_code: 200
-https://github.com/open-mmlab/Amphion
-https://github.com/soimort/you-get
-https://github.com/stanford-oval/storm
-https://github.com/Azure-Samples/azure-search-openai-demo
-https://github.com/timescale/pgai
-https://github.com/Marker-Inc-Korea/AutoRAG
-https://github.com/abi/screenshot-to-code
-https://github.com/unclecode/crawl4ai
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/frappe/erpnext
-https://github.com/openai/simple-evals
-https://github.com/homebrewltd/ichigo
-https://github.com/jackfrued/Python-100-Days
-https://github.com/dgtlmoon/changedetection.io
-https://github.com/naver/mast3r
-https://github.com/tensorflow/models
-https://github.com/hiyouga/LLaMA-Factory
-https://github.com/InternLM/lmdeploy
-https://github.com/getomni-ai/zerox
-scape ends
-
-ai is reading, the info is:
-1. [open-mmlab / Amphion]:Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.(https://github.com/open-mmlab/Amphion)
-2. [soimort / you-get]:⏬ Dumb downloader that scrapes the web(https://github.com/soimort/you-get)
-3. [stanford-oval / storm]:An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.(https://github.com/stanford-oval/storm)
-4. [Azure-Samples / azure-search-openai-demo]:A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.(https://github.com/Azure-Samples/azure-search-openai-demo)
-5. [timescale / pgai]:A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL(https://github.com/timescale/pgai)
-6. [Marker-Inc-Korea / AutoRAG]:AutoML tool for RAG(https://github.com/Marker-Inc-Korea/AutoRAG)
-7. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
-8. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper(https://github.com/unclecode/crawl4ai)
-9. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-10. [frappe / erpnext]:Free and Open Source Enterprise Resource Planning (ERP)(https://github.com/frappe/erpnext)
-11. [openai / simple-evals]:(https://github.com/openai/simple-evals)
-12. [homebrewltd / ichigo]:Llama3.1 learns to Listen(https://github.com/homebrewltd/ichigo)
-13. [jackfrued / Python-100-Days]:Python - 100天从新手到大师(https://github.com/jackfrued/Python-100-Days)
-14. [dgtlmoon / changedetection.io]:The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification(https://github.com/dgtlmoon/changedetection.io)
-15. [naver / mast3r]:Grounding Image Matching in 3D with MASt3R(https://github.com/naver/mast3r)
-16. [tensorflow / models]:Models and examples built with TensorFlow(https://github.com/tensorflow/models)
-17. [hiyouga / LLaMA-Factory]:Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)(https://github.com/hiyouga/LLaMA-Factory)
-18. [InternLM / lmdeploy]:LMDeploy is a toolkit for compressing, deploying, and serving LLMs.(https://github.com/InternLM/lmdeploy)
-19. [getomni-ai / zerox]:Zero shot pdf OCR with gpt-4o-mini(https://github.com/getomni-ai/zerox)
-
-ai ans is:
- 1. [open-mmlab / Amphion]:Amphion是一个音频、音乐和语音生成工具包。它的目的是支持可重复研究，并帮助年轻的研究人员和工程师在音频、音乐和语音生成研究领域开始工作。（https://github.com/open-mmlab/Amphion）
-
-2. [soimort / you-get]:⏬一个简单的下载器，用于从网络上抓取内容。（https://github.com/soimort/you-get）
-
-3. [stanford-oval / storm]:一个由大型语言模型（LLM）驱动的知识编纂系统，它研究一个主题并生成带引用的完整报告。（https://github.com/stanford-oval/storm）
-
-4. [Azure-Samples / azure-search-openai-demo]:一个运行在Azure上的检索增强生成模式示例应用程序，使用Azure AI搜索进行检索，并使用Azure OpenAI的大语言模型来提供ChatGPT风格和问答体验。（https://github.com/Azure-Samples/azure-search-openai-demo）
-
-5. [timescale / pgai]:一套工具，使您能够更容易地使用PostgreSQL开发RAG、语义搜索和其他AI应用程序。（https://github.com/timescale/pgai）
-
-6. [Marker-Inc-Korea / AutoRAG]:RAG的AutoML工具。（https://github.com/Marker-Inc-Korea/AutoRAG）
-
-7. [abi / screenshot-to-code]:将截图放入其中，将其转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
-
-8. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的LLM友好型Web爬虫和抓取工具。（https://github.com/unclecode/crawl4ai）
-
-9. [paperless-ngx / paperless-ngx]:paperless的社区支持加强版：扫描、索引和存档所有您的物理文档。（https://github.com/paperless-ngx/paperless-ngx）
-
-10. [frappe / erpnext]:免费和开源的企业资源计划（ERP）（https://github.com/frappe/erpnext）
-
-11. [openai / simple-evals]:（https://github.com/openai/simple-evals）
-
-12. [homebrewltd / ichigo]:Llama3.1学会倾听。（https://github.com/homebrewltd/ichigo）
-
-13. [jackfrued / Python-100-Days]:Python - 100天从新手到大师。（https://github.com/jackfrued/Python-100-Days）
-
-14. [dgtlmoon / changedetection.io]:最佳和最简单的免费开源网页变更检测、网站监控、库存监控和通知服务。库存监控、变更检测。设计用于简洁 - 简单监控哪些网站有文本变更，免费。免费开源网页变更检测、网站篡改监控、价格变更通知。（https://github.com/dgtlmoon/changedetection.io）
-
-15. [naver / mast3r]:使用MASt3R在3D中对图像匹配进行归一化。（https://github.com/naver/mast3r）
-
-16. [tensorflow / models]:使用TensorFlow构建的模型和示例。（https://github.com/tensorflow/models）
-
-17. [hiyouga / LLaMA-Factory]:100+ LLM的统一高效微调（ACL 2024）（https://github.com/hiyouga/LLaMA-Factory）
-
-18. [InternLM / lmdeploy]:LMDeploy是一个用于压缩、部署和服务的LLM工具包。（https://github.com/InternLM/lmdeploy）
-
-19. [getomni-ai / zerox]:使用gpt-4o-mini的零样本PDF OCR。（https://github.com/getomni-ai/zerox）
-
-最惊艳项目推荐：[homebrewltd / ichigo] Llama3.1学会倾听。
-
-今日趋势项目关注领域和特点：主要集中在AI工具和平台开发，包括音频、音乐、语音生成工具包，开源下载工具，知识编纂系统，AI搜索和问答应用，语义搜索工具，AutoML工具，图像处理，以及Python编程学习资源。特点为实用性、创新性和开源性。
-2024-11-02 start the job...
-try at 0 to get trends~
-when scrape ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) occurs
-scape ends
-
-ai is reading, the info is:
-
-when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
-ai ans is:
- None
-Attempt 1 failed with error: write() argument must be str, not None
-try at 1 to get trends~
-when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/python (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x73704f40bef0>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
-scape ends
-
-ai is reading, the info is:
-
-when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
-ai ans is:
- None
-Attempt 2 failed with error: write() argument must be str, not None
-try at 2 to get trends~
-scrape() status_code: 200
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/ansible/ansible
-https://github.com/timescale/pgai
-https://github.com/dgtlmoon/changedetection.io
-https://github.com/hiyouga/LLaMA-Factory
-https://github.com/Cinnamon/kotaemon
-https://github.com/unclecode/crawl4ai
-https://github.com/Codium-ai/pr-agent
-https://github.com/dbt-labs/dbt-core
-https://github.com/SigmaHQ/sigma
-https://github.com/run-llama/llama_index
-https://github.com/pytorch/pytorch
-https://github.com/microsoft/graphrag
-https://github.com/openai/simple-evals
-https://github.com/ErikBjare/gptme
-https://github.com/open-mmlab/mmpose
-https://github.com/khoj-ai/khoj
-https://github.com/MsLolita/grass
-https://github.com/abi/screenshot-to-code
-scape ends
-
-ai is reading, the info is:
-1. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-2. [ansible / ansible]:Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.(https://github.com/ansible/ansible)
-3. [timescale / pgai]:A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL(https://github.com/timescale/pgai)
-4. [dgtlmoon / changedetection.io]:The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification(https://github.com/dgtlmoon/changedetection.io)
-5. [hiyouga / LLaMA-Factory]:Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)(https://github.com/hiyouga/LLaMA-Factory)
-6. [Cinnamon / kotaemon]:An open-source RAG-based tool for chatting with your documents.(https://github.com/Cinnamon/kotaemon)
-7. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper(https://github.com/unclecode/crawl4ai)
-8. [Codium-ai / pr-agent]:🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍(https://github.com/Codium-ai/pr-agent)
-9. [dbt-labs / dbt-core]:dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.(https://github.com/dbt-labs/dbt-core)
-10. [SigmaHQ / sigma]:Main Sigma Rule Repository(https://github.com/SigmaHQ/sigma)
-11. [run-llama / llama_index]:LlamaIndex is a data framework for your LLM applications(https://github.com/run-llama/llama_index)
-12. [pytorch / pytorch]:Tensors and Dynamic neural networks in Python with strong GPU acceleration(https://github.com/pytorch/pytorch)
-13. [microsoft / graphrag]:A modular graph-based Retrieval-Augmented Generation (RAG) system(https://github.com/microsoft/graphrag)
-14. [openai / simple-evals]:(https://github.com/openai/simple-evals)
-15. [ErikBjare / gptme]:Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.(https://github.com/ErikBjare/gptme)
-16. [open-mmlab / mmpose]:OpenMMLab Pose Estimation Toolbox and Benchmark.(https://github.com/open-mmlab/mmpose)
-17. [khoj-ai / khoj]:Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automations.(https://github.com/khoj-ai/khoj)
-18. [MsLolita / grass]:grass-mining(https://github.com/MsLolita/grass)
-19. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
-
-ai ans is:
- 1. [paperless-ngx / paperless-ngx]：一个由社区支持的、强大的 paperless 版本，可扫描、索引和存档所有您的物理文档（https://github.com/paperless-ngx/paperless-ngx）
-
-2. [ansible / ansible]：Ansible 是一个革命性的简单 IT 自动化平台，使您的应用程序和系统更容易部署和维护。使用接近纯英语的语言、SSH、无代理安装在远程系统上，自动化从代码部署到网络配置再到云管理的一切（https://docs.ansible.com）（https://github.com/ansible/ansible）
-
-3. [timescale / pgai]：一套工具，可使用 PostgreSQL 更容易地开发 RAG、语义搜索和其他 AI 应用程序（https://github.com/timescale/pgai）
-
-4. [dgtlmoon / changedetection.io]：最佳且最简单的免费开源网页变更检测、网站监控、库存监控和通知服务。库存监控、变更检测。设计用于简单性 - 简单监控哪些网站发生了文本变更（免费）。免费开源网页变更检测、网站篡改监控、价格变更通知（https://github.com/dgtlmoon/changedetection.io）
-
-5. [hiyouga / LLaMA-Factory]：统一高效的 100+ LLM 微调（ACL 2024）（https://github.com/hiyouga/LLaMA-Factory）
-
-6. [Cinnamon / kotaemon]：一个基于 RAG 的开源工具，用于与您的文档进行聊天。（https://github.com/Cinnamon/kotaemon）
-
-7. [unclecode / crawl4ai]：🔥🕷️ Crawl4AI：开源的 LLM 友好的网络爬虫和抓取器（https://github.com/unclecode/crawl4ai）
-
-8. [Codium-ai / pr-agent]：🚀 CodiumAI PR-Agent：一个 AI 驱动的 🤖 工具，用于自动拉取请求分析、反馈、建议等！💻🔍（https://github.com/Codium-ai/pr-agent）
-
-9. [dbt-labs / dbt-core]：dbt 使数据分析师和工程师能够使用与软件开发工程师构建应用程序相同的实践来转换他们的数据。（https://github.com/dbt-labs/dbt-core）
-
-10. [SigmaHQ / sigma]：Sigma 规则主仓库（https://github.com/SigmaHQ/sigma）
-
-11. [run-llama / llama_index]：LlamaIndex 是您的 LLM 应用程序的数据框架（https://github.com/run-llama/llama_index）
-
-12. [pytorch / pytorch]：具有强大 GPU 加速的 Python 紧张和动态神经网络（https://github.com/pytorch/pytorch）
-
-13. [microsoft / graphrag]：一个模块化基于图的检索增强生成（RAG）系统（https://github.com/microsoft/graphrag）
-
-14. [openai / simple-evals]：（https://github.com/openai/simple-evals）
-
-15. [ErikBjare / gptme]：您的终端中的代理，配备了本地工具：编写代码、使用终端、浏览网页、视觉。（https://github.com/ErikBjare/gptme）
-
-16. [open-mmlab / mmpose]：OpenMMLab 姿态估计工具箱和基准。（https://github.com/open-mmlab/mmpose）
-
-17. [khoj-ai / khoj]：您的 AI 第二大脑。可自托管。从互联网或您的文档中获取答案。使用任何在线或本地 LLM（例如 gpt、claude、gemini、llama、qwen、mistral）。构建自定义代理、个性化自动化。（https://github.com/khoj-ai/khoj）
-
-18. [MsLolita / grass]：grass-mining（https://github.com/MsLolita/grass）
-
-19. [abi / screenshot-to-code]：拖入截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
-
-惊艳项目安利：[hiyouga / LLaMA-Factory]，统一高效的 100+ LLM 微调，ACL 2024。
-
-今日趋势项目关注的领域和特点：主要集中在自动化工具、AI 应用开发、数据分析和处理、代码生成和优化等方面，表现出技术创新和应用场景的不断拓展。
-2024-11-03 start the job...
-try at 0 to get trends~
-scrape() status_code: 200
-https://github.com/Cinnamon/kotaemon
-https://github.com/timescale/pgai
-https://github.com/marimo-team/marimo
-https://github.com/Azure-Samples/azure-search-openai-demo
-https://github.com/fishaudio/fish-speech
-https://github.com/All-Hands-AI/OpenHands
-https://github.com/recommenders-team/recommenders
-https://github.com/openai/simple-evals
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/3b1b/videos
-https://github.com/mingrammer/diagrams
-https://github.com/unclecode/crawl4ai
-https://github.com/cuifengcn/TAICHI-flet
-https://github.com/LC044/WeChatMsg
-https://github.com/dagster-io/dagster
-https://github.com/dgtlmoon/changedetection.io
-scape ends
-
-ai is reading, the info is:
-1. [Cinnamon / kotaemon]:An open-source RAG-based tool for chatting with your documents.(https://github.com/Cinnamon/kotaemon)
-2. [timescale / pgai]:A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL(https://github.com/timescale/pgai)
-3. [marimo-team / marimo]:A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.(https://github.com/marimo-team/marimo)
-4. [Azure-Samples / azure-search-openai-demo]:A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.(https://github.com/Azure-Samples/azure-search-openai-demo)
-5. [fishaudio / fish-speech]:Brand new TTS solution(https://github.com/fishaudio/fish-speech)
-6. [All-Hands-AI / OpenHands]:🙌 OpenHands: Code Less, Make More(https://github.com/All-Hands-AI/OpenHands)
-7. [recommenders-team / recommenders]:Best Practices on Recommendation Systems(https://github.com/recommenders-team/recommenders)
-8. [openai / simple-evals]:(https://github.com/openai/simple-evals)
-9. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-10. [3b1b / videos]:Code for the manim-generated scenes used in 3blue1brown videos(https://github.com/3b1b/videos)
-11. [mingrammer / diagrams]:🎨 Diagram as Code for prototyping cloud system architectures(https://github.com/mingrammer/diagrams)
-12. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper(https://github.com/unclecode/crawl4ai)
-13. [cuifengcn / TAICHI-flet]:基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。(https://github.com/cuifengcn/TAICHI-flet)
-14. [LC044 / WeChatMsg]:提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手(https://github.com/LC044/WeChatMsg)
-15. [dagster-io / dagster]:An orchestration platform for the development, production, and observation of data assets.(https://github.com/dagster-io/dagster)
-16. [dgtlmoon / changedetection.io]:The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification(https://github.com/dgtlmoon/changedetection.io)
-
-ai ans is:
- 1. [Cinnamon / kotaemon]:一个基于RAG的开源工具，可用于与文档聊天。（https://github.com/Cinnamon/kotaemon）
-2. [timescale / pgai]:一套工具，可轻松使用PostgreSQL开发RAG、语义搜索和其他AI应用。（https://github.com/timescale/pgai）
-3. [marimo-team / marimo]:一个用于Python的响应式笔记本——运行可重复实验、作为脚本执行、作为应用部署，并使用git进行版本控制。（https://github.com/marimo-team/marimo）
-4. [Azure-Samples / azure-search-openai-demo]:一个运行在Azure上的检索增强生成模式示例应用，使用Azure AI Search进行检索，Azure OpenAI大型语言模型为ChatGPT式和问答体验提供动力。（https://github.com/Azure-Samples/azure-search-openai-demo）
-5. [fishaudio / fish-speech]:全新的TTS解决方案。（https://github.com/fishaudio/fish-speech）
-6. [All-Hands-AI / OpenHands]:🙌 OpenHands：少写代码，多出成果。（https://github.com/All-Hands-AI/OpenHands）
-7. [recommenders-team / recommenders]:推荐系统最佳实践。（https://github.com/recommenders-team/recommenders）
-8. [openai / simple-evals]:（https://github.com/openai/simple-evals）
-9. [paperless-ngx / paperless-ngx]:paperless的社区支持的超级版本：扫描、索引和归档所有您的物理文档。（https://github.com/paperless-ngx/paperless-ngx）
-10. [3b1b / videos]:用于3blue1brown视频中由manim生成的场景的代码。（https://github.com/3b1b/videos）
-11. [mingrammer / diagrams]:🎨 原型设计云系统架构的代码化图表。（https://github.com/mingrammer/diagrams）
-12. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的、友好的LLM Web爬虫和抓取器。（https://github.com/unclecode/crawl4ai）
-13. [cuifengcn / TAICHI-flet]:基于flet的Windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。（https://github.com/cuifengcn/TAICHI-flet）
-14. [LC044 / WeChatMsg]:提取微信聊天记录，将其导出为HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手。（https://github.com/LC044/WeChatMsg）
-15. [dagster-io / dagster]:用于开发、生产和观察数据资产的工作流程平台。（https://github.com/dagster-io/dagster）
-16. [dgtlmoon / changedetection.io]:最好的、最简单的免费开源网页变更检测、网站监视器、补货监控和通知服务。补货监控、变更检测。设计用于简单——简单地监控哪些网站有文本变更，免费。免费开源网页变更检测、网站篡改监控、价格变更通知。（https://github.com/dgtlmoon/changedetection.io）
-
-惊艳项目安利：
-[Cinnamon / kotaemon]:一个基于RAG的开源工具，可用于与文档聊天，为信息检索和知识获取提供了新颖的交互方式。
-
-今日趋势项目关注的领域和特点：
-今日趋势项目主要集中在AI、数据分析和软件开发领域，特点包括：利用AI技术提高生产效率和用户体验，如Cinnamon/kotaemon和Azure-Samples/azure-search-openai-demo；注重数据处理的便捷性和效率，如timescale/pgai和dagster-io/dagster；以及跨平台和开源的软件开发，如marimo-team/marimo和paperless-ngx/paperless-ngx。
-2024-11-04 start the job...
+2024-11-06 start the job...
 try at 0 to get trends~
 scrape() status_code: 200
 https://github.com/DS4SD/docling
-https://github.com/abi/screenshot-to-code
-https://github.com/All-Hands-AI/OpenHands
-https://github.com/Cinnamon/kotaemon
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
 https://github.com/mingrammer/diagrams
-https://github.com/3b1b/videos
-https://github.com/meta-llama/llama-stack
-https://github.com/unclecode/crawl4ai
-https://github.com/fishaudio/fish-speech
-https://github.com/mealie-recipes/mealie
-https://github.com/MetaCubeX/mihomo
-https://github.com/freqtrade/freqtrade
-https://github.com/public-apis/public-apis
-https://github.com/timescale/pgai
-https://github.com/marimo-team/marimo
-https://github.com/cuifengcn/TAICHI-flet
-https://github.com/paperless-ngx/paperless-ngx
-https://github.com/yt-dlp/yt-dlp
+https://github.com/All-Hands-AI/OpenHands
+https://github.com/frappe/erpnext
+https://github.com/abi/screenshot-to-code
+https://github.com/donnemartin/system-design-primer
+https://github.com/Cinnamon/kotaemon
+https://github.com/vanna-ai/vanna
+https://github.com/roboflow/supervision
+https://github.com/instructlab/instructlab
+https://github.com/VikParuchuri/marker
+https://github.com/geekcomputers/Python
+https://github.com/Azure/azure-sdk-for-python
+https://github.com/BerriAI/litellm
+https://github.com/homebrewltd/ichigo
+https://github.com/d2l-ai/d2l-en
+https://github.com/psf/black
 scape ends
 
 ai is reading, the info is:
-1. [DS4SD / docling]:Get your docs ready for gen AI(https://github.com/DS4SD/docling)
-2. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
+1. [DS4SD / docling]:Get your documents ready for gen AI(https://github.com/DS4SD/docling)
+2. [mingrammer / diagrams]:🎨 Diagram as Code for prototyping cloud system architectures(https://github.com/mingrammer/diagrams)
 3. [All-Hands-AI / OpenHands]:🙌 OpenHands: Code Less, Make More(https://github.com/All-Hands-AI/OpenHands)
-4. [Cinnamon / kotaemon]:An open-source RAG-based tool for chatting with your documents.(https://github.com/Cinnamon/kotaemon)
-5. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI(https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-6. [mingrammer / diagrams]:🎨 Diagram as Code for prototyping cloud system architectures(https://github.com/mingrammer/diagrams)
-7. [3b1b / videos]:Code for the manim-generated scenes used in 3blue1brown videos(https://github.com/3b1b/videos)
-8. [meta-llama / llama-stack]:Model components of the Llama Stack APIs(https://github.com/meta-llama/llama-stack)
-9. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper(https://github.com/unclecode/crawl4ai)
-10. [fishaudio / fish-speech]:Brand new TTS solution(https://github.com/fishaudio/fish-speech)
-11. [mealie-recipes / mealie]:Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor(https://github.com/mealie-recipes/mealie)
-12. [MetaCubeX / mihomo]:A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.(https://github.com/MetaCubeX/mihomo)
-13. [freqtrade / freqtrade]:Free, open source crypto trading bot(https://github.com/freqtrade/freqtrade)
-14. [public-apis / public-apis]:A collective list of free APIs(https://github.com/public-apis/public-apis)
-15. [timescale / pgai]:A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL(https://github.com/timescale/pgai)
-16. [marimo-team / marimo]:A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.(https://github.com/marimo-team/marimo)
-17. [cuifengcn / TAICHI-flet]:基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。(https://github.com/cuifengcn/TAICHI-flet)
-18. [paperless-ngx / paperless-ngx]:A community-supported supercharged version of paperless: scan, index and archive all your physical documents(https://github.com/paperless-ngx/paperless-ngx)
-19. [yt-dlp / yt-dlp]:A feature-rich command-line audio/video downloader(https://github.com/yt-dlp/yt-dlp)
+4. [frappe / erpnext]:Free and Open Source Enterprise Resource Planning (ERP)(https://github.com/frappe/erpnext)
+5. [abi / screenshot-to-code]:Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)(https://github.com/abi/screenshot-to-code)
+6. [donnemartin / system-design-primer]:Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.(https://github.com/donnemartin/system-design-primer)
+7. [Cinnamon / kotaemon]:An open-source RAG-based tool for chatting with your documents.(https://github.com/Cinnamon/kotaemon)
+8. [vanna-ai / vanna]:🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.(https://github.com/vanna-ai/vanna)
+9. [roboflow / supervision]:We write your reusable computer vision tools. 💜(https://github.com/roboflow/supervision)
+10. [instructlab / instructlab]:InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.(https://github.com/instructlab/instructlab)
+11. [VikParuchuri / marker]:Convert PDF to markdown quickly with high accuracy(https://github.com/VikParuchuri/marker)
+12. [geekcomputers / Python]:My Python Examples(https://github.com/geekcomputers/Python)
+13. [Azure / azure-sdk-for-python]:This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.(https://github.com/Azure/azure-sdk-for-python)
+14. [BerriAI / litellm]:Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq](https://github.com/BerriAI/litellm)
+15. [homebrewltd / ichigo]:Llama3.1 learns to Listen(https://github.com/homebrewltd/ichigo)
+16. [d2l-ai / d2l-en]:Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.(https://github.com/d2l-ai/d2l-en)
+17. [psf / black]:The uncompromising Python code formatter(https://github.com/psf/black)
 
 ai ans is:
- 1. [DS4SD / docling]:为您的文档做好准备，迎接通用人工智能（https://github.com/DS4SD/docling）
-2. [abi / screenshot-to-code]:拖入截图，将其转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
-3. [All-Hands-AI / OpenHands]:🙌 OpenHands：少写代码，多做成果（https://github.com/All-Hands-AI/OpenHands）
-4. [Cinnamon / kotaemon]:基于RAG的开源工具，用于与文档聊天。（https://github.com/Cinnamon/kotaemon）
-5. [AUTOMATIC1111 / stable-diffusion-webui]:Stable Diffusion web UI（https://github.com/AUTOMATIC1111/stable-diffusion-webui）
-6. [mingrammer / diagrams]:🎨 Diagram as Code 用于原型设计云系统架构（https://github.com/mingrammer/diagrams）
-7. [3b1b / videos]:3blue1brown视频中使用的manim生成场景的代码（https://github.com/3b1b/videos）
-8. [meta-llama / llama-stack]:Llama Stack API的模型组件（https://github.com/meta-llama/llama-stack）
-9. [unclecode / crawl4ai]:🔥🕷️ Crawl4AI：开源的LLM友好型Web爬虫和抓取器（https://github.com/unclecode/crawl4ai）
-10. [fishaudio / fish-speech]:全新的TTS解决方案（https://github.com/fishaudio/fish-speech）
-11. [mealie-recipes / mealie]:Mealie是一个自托管的食谱管理和餐食计划器，具有RESTAPI后端和用Vue构建的响应式前端应用程序，为全家提供愉悦的用户体验。通过提供URL轻松将食谱添加到数据库中，Mealie会自动导入相关数据或使用UI编辑器添加家庭食谱。（https://github.com/mealie-recipes/mealie）
-12. [MetaCubeX / mihomo]:简单的Python Pydantic模型，用于解析Mihomo API的《崩坏：星穹铁道》数据。（https://github.com/MetaCubeX/mihomo）
-13. [freqtrade / freqtrade]:免费、开源的加密货币交易机器人（https://github.com/freqtrade/freqtrade）
-14. [public-apis / public-apis]:免费API的集合（https://github.com/public-apis/public-apis）
-15. [timescale / pgai]:一套工具，可使用PostgreSQL轻松开发RAG、语义搜索和其他AI应用程序（https://github.com/timescale/pgai）
-16. [marimo-team / marimo]:Python的响应式笔记本——运行可重复实验、作为脚本执行、作为应用程序部署，并使用git进行版本控制。（https://github.com/marimo-team/marimo）
-17. [cuifengcn / TAICHI-flet]:基于flet的Windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。（https://github.com/cuifengcn/TAICHI-flet）
-18. [paperless-ngx / paperless-ngx]:纸页社区支持的超强版本，用于扫描、索引和存档所有物理文档（https://github.com/paperless-ngx/paperless-ngx）
-19. [yt-dlp / yt-dlp]:功能丰富的命令行音频/视频下载器（https://github.com/yt-dlp/yt-dlp）
+ 1. [DS4SD / docling]: 为生成式人工智能准备您的文档（https://github.com/DS4SD/docling）
+2. [mingrammer / diagrams]: 🎨 代码化原型设计云系统架构（https://github.com/mingrammer/diagrams）
+3. [All-Hands-AI / OpenHands]: 🙌 OpenHands：代码更少，创造更多（https://github.com/All-Hands-AI/OpenHands）
+4. [frappe / erpnext]: 免费开源的企业资源计划（ERP）（https://github.com/frappe/erpnext）
+5. [abi / screenshot-to-code]: 添加截图并转换为干净的代码（HTML/Tailwind/React/Vue）（https://github.com/abi/screenshot-to-code）
+6. [donnemartin / system-design-primer]: 学习如何设计大规模系统。为系统设计面试做准备。包含Anki闪卡。（https://github.com/donnemartin/system-design-primer）
+7. [Cinnamon / kotaemon]: 基于RAG的开源工具，用于与您的文档聊天。（https://github.com/Cinnamon/kotaemon）
+8. [vanna-ai / vanna]: 🤖 与您的SQL数据库聊天。通过RAG使用LLM生成准确的文本文本到SQL生成。（https://github.com/vanna-ai/vanna）
+9. [roboflow / supervision]: 我们为您编写可重用的计算机视觉工具。💜（https://github.com/roboflow/supervision）
+10. [instructlab / instructlab]: InstructLab命令行界面。使用此界面与模型聊天并执行InstructLab工作流程以使用自定义分类数据训练模型。（https://github.com/instructlab/instructlab）
+11. [VikParuchuri / marker]: 快速且高精度地将PDF转换为markdown（https://github.com/VikParuchuri/marker）
+12. [geekcomputers / Python]: 我的Python示例（https://github.com/geekcomputers/Python）
+13. [Azure / azure-sdk-for-python]: 此存储库用于Python Azure SDK的积极开发。对于SDK的消费者，我们建议访问我们的公共开发者文档https://learn.microsoft.com/python/azure/或我们的版本化开发者文档https://azure.github.io/azure-sdk-for-python。（https://github.com/Azure/azure-sdk-for-python）
+14. [BerriAI / litellm]: Python SDK，代理服务器（LLM网关）以OpenAI格式调用100+ LLM API - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]（https://github.com/BerriAI/litellm）
+15. [homebrewltd / ichigo]: Llama3.1学习倾听（https://github.com/homebrewltd/ichigo）
+16. [d2l-ai / d2l-en]: 带有多框架代码、数学和讨论的交互式深度学习书籍。被70个国家的500所大学采用，包括斯坦福、麻省理工、哈佛和剑桥。（https://github.com/d2l-ai/d2l-en）
+17. [psf / black]: 无妥协的Python代码格式化器（https://github.com/psf/black）
 
-安利项目：[AUTOMATIC1111 / stable-diffusion-webui]: Stable Diffusion web UI，一个强大的AI图像生成工具。
+惊艳项目推荐：[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - OpenHands项目通过减少代码编写，帮助用户更高效地完成工作。
 
-今日趋势项目关注的领域和特点：今日趋势项目集中在AI应用开发、代码生成、数据爬取、文档管理等多个领域，特点为开源、创新性强、实用性高。
+今日趋势项目关注的领域和特点：今日趋势项目集中在人工智能、代码生成、企业资源规划和系统设计等领域，特点包括跨平台兼容性、高效性、以及与现有技术的集成能力。
+
+产品联系: pxxhl@qq.com
+2024-11-07 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/All-Hands-AI/OpenHands
+https://github.com/Shpota/github-activity-generator
+https://github.com/iterative/datachain
+https://github.com/django/django
+https://github.com/DS4SD/docling
+https://github.com/psf/black
+https://github.com/mingrammer/diagrams
+https://github.com/fishaudio/fish-speech
+https://github.com/matplotlib/matplotlib
+https://github.com/Significant-Gravitas/AutoGPT
+https://github.com/python/mypy
+https://github.com/OpenBB-finance/OpenBB
+https://github.com/geekan/MetaGPT
+https://github.com/geekcomputers/Python
+https://github.com/frappe/frappe
+https://github.com/serengil/deepface
+scape ends
+
+ai is reading, the info is:
+1. [All-Hands-AI / OpenHands]:🙌 OpenHands: Code Less, Make More(https://github.com/All-Hands-AI/OpenHands)
+2. [Shpota / github-activity-generator]:A script that helps generate a rich GitHub Contribution Graph for your account 🤖(https://github.com/Shpota/github-activity-generator)
+3. [iterative / datachain]:AI-data warehouse to enrich, transform and analyze unstructured data(https://github.com/iterative/datachain)
+4. [django / django]:The Web framework for perfectionists with deadlines.(https://github.com/django/django)
+5. [DS4SD / docling]:Get your documents ready for gen AI(https://github.com/DS4SD/docling)
+6. [psf / black]:The uncompromising Python code formatter(https://github.com/psf/black)
+7. [mingrammer / diagrams]:🎨 Diagram as Code for prototyping cloud system architectures(https://github.com/mingrammer/diagrams)
+8. [fishaudio / fish-speech]:Brand new TTS solution(https://github.com/fishaudio/fish-speech)
+9. [matplotlib / matplotlib]:matplotlib: plotting with Python(https://github.com/matplotlib/matplotlib)
+10. [Significant-Gravitas / AutoGPT]:AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.(https://github.com/Significant-Gravitas/AutoGPT)
+11. [python / mypy]:Optional static typing for Python(https://github.com/python/mypy)
+12. [OpenBB-finance / OpenBB]:Investment Research for Everyone, Everywhere.(https://github.com/OpenBB-finance/OpenBB)
+13. [geekan / MetaGPT]:🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming(https://github.com/geekan/MetaGPT)
+14. [geekcomputers / Python]:My Python Examples(https://github.com/geekcomputers/Python)
+15. [frappe / frappe]:Low code web framework for real world applications, in Python and Javascript(https://github.com/frappe/frappe)
+16. [serengil / deepface]:A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python(https://github.com/serengil/deepface)
+
+ai ans is:
+ 1. [All-Hands-AI / OpenHands]:🙌 OpenHands: 编程更少，创造更多（https://github.com/All-Hands-AI/OpenHands）
+2. [Shpota / github-activity-generator]:一个帮助你为GitHub账户生成丰富贡献图的脚本 🤖（https://github.com/Shpota/github-activity-generator）
+3. [iterative / datachain]:AI数据仓库，用于丰富、转换和分析非结构化数据（https://github.com/iterative/datachain）
+4. [django / django]:针对完美主义者且注重截止日期的Web框架。（https://github.com/django/django）
+5. [DS4SD / docling]:让你的文档准备好迎接生成式AI（https://github.com/DS4SD/docling）
+6. [psf / black]:无妥协的Python代码格式化工具（https://github.com/psf/black）
+7. [mingrammer / diagrams]:🎨 作为代码的图表，用于原型设计云系统架构（https://github.com/mingrammer/diagrams）
+8. [fishaudio / fish-speech]:全新的TTS解决方案（https://github.com/fishaudio/fish-speech）
+9. [matplotlib / matplotlib]:matplotlib：用Python进行绘图（https://github.com/matplotlib/matplotlib）
+10. [Significant-Gravitas / AutoGPT]:AutoGPT是让AI触手可及的愿景，旨在让每个人都能使用和构建。我们的使命是提供工具，让你能专注于重要的事情。（https://github.com/Significant-Gravitas/AutoGPT）
+11. [python / mypy]:Python的可选静态类型（https://github.com/python/mypy）
+12. [OpenBB-finance / OpenBB]:面向每个人的投资研究。（https://github.com/OpenBB-finance/OpenBB）
+13. [geekan / MetaGPT]:🌟 多智能体框架：首个AI软件公司，迈向自然语言编程（https://github.com/geekan/MetaGPT）
+14. [geekcomputers / Python]:我的Python示例（https://github.com/geekcomputers/Python）
+15. [frappe / frappe]:用于现实世界应用的低代码Web框架，支持Python和JavaScript（https://github.com/frappe/frappe）
+16. [serengil / deepface]:Python的一个轻量级人脸识别和面部属性分析（年龄、性别、情绪和种族）库（https://github.com/serengil/deepface）
+
+惊艳项目推荐：[Significant-Gravitas / AutoGPT] AutoGPT：让AI触手可及的愿景，提供使用和构建AI的工具。
+
+今天趋势项目关注的领域和特点：主要集中在AI应用、数据处理、Web开发、Python工具和库等方面，展现出了技术发展的多样性和创新性。
+
+产品联系: pxxhl@qq.com
