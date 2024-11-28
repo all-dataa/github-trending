@@ -171,3 +171,1983 @@ ai ans is:
 惊艳项目安利：[zed-industries / zed] - 以思想的速度编写代码，由 Atom 和 Tree-sitter 的创作者开发的性能出色、多人协作的代码编辑器。
 
 今日趋势项目关注的领域和特点：今天的项目主要集中在性能优化、安全性和用户体验上，涉及了从构建系统到数据库，再到区块链和人工智能应用等多个领域。产品联系: pxxhl@qq.com
+2024-11-08 start the job...
+try at 0 to get trends~
+when scrape ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+scrape() status_code: 200
+https://github.com/pola-rs/polars
+https://github.com/rolldown/rolldown
+https://github.com/rust-lang/rust
+https://github.com/awslabs/mountpoint-s3
+https://github.com/rustdesk/rustdesk
+https://github.com/casey/just
+https://github.com/flxzt/rnote
+https://github.com/glzr-io/zebar
+https://github.com/GyulyVGC/sniffnet
+https://github.com/libp2p/rust-libp2p
+https://github.com/dani-garcia/vaultwarden
+https://github.com/lancedb/lancedb
+https://github.com/vectordotdev/vector
+https://github.com/katanemo/arch
+https://github.com/tauri-apps/tauri
+https://github.com/astral-sh/uv
+https://github.com/ClementTsang/bottom
+https://github.com/neondatabase/neon
+https://github.com/GreptimeTeam/greptimedb
+https://github.com/prefix-dev/pixi
+https://github.com/delta-io/delta-rs
+https://github.com/dandavison/delta
+https://github.com/rust-lang/rustlings
+scape ends
+
+ai is reading, the info is:
+1. [pola-rs / polars]:Dataframes powered by a multithreaded, vectorized query engine, written in Rust(https://github.com/pola-rs/polars)
+2. [rolldown / rolldown]:Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.(https://github.com/rolldown/rolldown)
+3. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+4. [awslabs / mountpoint-s3]:A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.(https://github.com/awslabs/mountpoint-s3)
+5. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+6. [casey / just]:🤖 Just a command runner(https://github.com/casey/just)
+7. [flxzt / rnote]:Sketch and take handwritten notes.(https://github.com/flxzt/rnote)
+8. [glzr-io / zebar]:Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.(https://github.com/glzr-io/zebar)
+9. [GyulyVGC / sniffnet]:Comfortably monitor your Internet traffic 🕵️‍♂️(https://github.com/GyulyVGC/sniffnet)
+10. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+11. [dani-garcia / vaultwarden]:Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs(https://github.com/dani-garcia/vaultwarden)
+12. [lancedb / lancedb]:Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!(https://github.com/lancedb/lancedb)
+13. [vectordotdev / vector]:A high-performance observability data pipeline.(https://github.com/vectordotdev/vector)
+14. [katanemo / arch]:Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.(https://github.com/katanemo/arch)
+15. [tauri-apps / tauri]:Build smaller, faster, and more secure desktop and mobile applications with a web frontend.(https://github.com/tauri-apps/tauri)
+16. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+17. [ClementTsang / bottom]:Yet another cross-platform graphical process/system monitor.(https://github.com/ClementTsang/bottom)
+18. [neondatabase / neon]:Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.(https://github.com/neondatabase/neon)
+19. [GreptimeTeam / greptimedb]:An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.(https://github.com/GreptimeTeam/greptimedb)
+20. [prefix-dev / pixi]:Package management made easy(https://github.com/prefix-dev/pixi)
+21. [delta-io / delta-rs]:A native Rust library for Delta Lake, with bindings into Python(https://github.com/delta-io/delta-rs)
+22. [dandavison / delta]:A syntax-highlighting pager for git, diff, grep, and blame output(https://github.com/dandavison/delta)
+23. [rust-lang / rustlings]:🦀 Small exercises to get you used to reading and writing Rust code!(https://github.com/rust-lang/rustlings)
+
+ai ans is:
+ 1. [pola-rs / polars]:由多线程、向量查询引擎驱动的数据帧，使用Rust编写。(https://github.com/pola-rs/polars)
+2. [rolldown / rolldown]:使用Rollup兼容API的快速Rust打包器，适用于JavaScript/TypeScript。(https://github.com/rolldown/rolldown)
+3. [rust-lang / rust]:赋予每个人构建可靠和高效软件的能力。(https://github.com/rust-lang/rust)
+4. [awslabs / mountpoint-s3]:将Amazon S3存储桶挂载为本地文件系统的高吞吐量文件客户端。(https://github.com/awslabs/mountpoint-s3)
+5. [rustdesk / rustdesk]:一个开源的远程桌面应用程序，适用于自托管，是TeamViewer的替代品。(https://github.com/rustdesk/rustdesk)
+6. [casey / just]:🤖 Just是一个命令运行器。(https://github.com/casey/just)
+7. [flxzt / rnote]:绘制和记录手写笔记。(https://github.com/flxzt/rnote)
+8. [glzr-io / zebar]:Zebar是一个用于创建可定制和跨平台的任务栏、桌面小部件和弹出窗口的工具。(https://github.com/glzr-io/zebar)
+9. [GyulyVGC / sniffnet]:舒适地监控您的互联网流量 🕵️‍♂️(https://github.com/GyulyVGC/sniffnet)
+10. [libp2p / rust-libp2p]:libp2p网络堆栈的Rust实现。(https://github.com/libp2p/rust-libp2p)
+11. [dani-garcia / vaultwarden]:使用Rust编写的非官方Bitwarden兼容服务器，以前称为bitwarden_rs(https://github.com/dani-garcia/vaultwarden)
+12. [lancedb / lancedb]:为AI应用程序设计的开发者友好型、无服务器向量数据库。轻松为您的LLM应用程序添加长期记忆！(https://github.com/lancedb/lancedb)
+13. [vectordotdev / vector]:高性能的可观察性数据处理管道。(https://github.com/vectordotdev/vector)
+14. [katanemo / arch]:Arch是一个智能提示网关。使用(快速)LLM构建，用于安全处理、强大可观察性和与API的无缝集成，所有这些都位于业务逻辑之外。由Envoy代理的核心贡献者构建，基于Envoy。(https://github.com/katanemo/arch)
+15. [tauri-apps / tauri]:使用Web前端构建更小、更快、更安全的桌面和移动应用程序。(https://github.com/tauri-apps/tauri)
+16. [astral-sh / uv]:一个由Rust编写的非常快的Python包和项目管理器。(https://github.com/astral-sh/uv)
+17. [ClementTsang / bottom]:另一个跨平台的图形进程/系统监视器。(https://github.com/ClementTsang/bottom)
+18. [neondatabase / neon]:Neon：无服务器PostgreSQL。我们将存储和计算分离，以提供自动扩展、类似代码的数据库分支和零扩展。(https://github.com/neondatabase/neon)
+19. [GreptimeTeam / greptimedb]:支持SQL/PromQL的开源、云原生、统一的时间序列数据库，适用于指标、日志和事件。在GreptimeCloud上可用。(https://github.com/GreptimeTeam/greptimedb)
+20. [prefix-dev / pixi]:简化包管理的工具。(https://github.com/prefix-dev/pixi)
+21. [delta-io / delta-rs]:Delta Lake的本地Rust库，与Python绑定。(https://github.com/delta-io/delta-rs)
+22. [dandavison / delta]:用于git、diff、grep和blame输出的语法高亮分页器。(https://github.com/dandavison/delta)
+23. [rust-lang / rustlings]:🦀 小练习，让您习惯于阅读和编写Rust代码！(https://github.com/rust-lang/rustlings)
+
+惊艳项目安利：[lancedb / lancedb] - 为AI应用程序设计的开发者友好型、无服务器向量数据库。轻松为您的LLM应用程序添加长期记忆！
+
+今日趋势项目关注的领域和特点：今天的项目涵盖了从数据分析和处理到网络编程和系统监控的广泛领域，特点包括高性能、跨平台和开源社区的支持。产品联系: pxxhl@qq.com
+2024-11-09 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/vectordotdev/vector
+https://github.com/rust-lang/mdBook
+https://github.com/GyulyVGC/sniffnet
+https://github.com/rolldown/rolldown
+https://github.com/neondatabase/neon
+https://github.com/BoundaryML/baml
+https://github.com/libp2p/rust-libp2p
+https://github.com/web-infra-dev/rspack
+https://github.com/MaterializeInc/materialize
+https://github.com/pola-rs/polars
+https://github.com/prefix-dev/pixi
+https://github.com/apache/opendal
+https://github.com/casey/just
+https://github.com/paritytech/polkadot-sdk
+https://github.com/bottlerocket-os/bottlerocket
+https://github.com/martinvonz/jj
+https://github.com/dtolnay/thiserror
+https://github.com/awslabs/mountpoint-s3
+https://github.com/vadimcn/codelldb
+https://github.com/rust-lang/miri
+https://github.com/juspay/hyperswitch
+https://github.com/rust-lang/rust
+scape ends
+
+ai is reading, the info is:
+1. [vectordotdev / vector]:A high-performance observability data pipeline.(https://github.com/vectordotdev/vector)
+2. [rust-lang / mdBook]:Create book from markdown files. Like Gitbook but implemented in Rust(https://github.com/rust-lang/mdBook)
+3. [GyulyVGC / sniffnet]:Comfortably monitor your Internet traffic 🕵️‍♂️(https://github.com/GyulyVGC/sniffnet)
+4. [rolldown / rolldown]:Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.(https://github.com/rolldown/rolldown)
+5. [neondatabase / neon]:Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.(https://github.com/neondatabase/neon)
+6. [BoundaryML / baml]:BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground(https://github.com/BoundaryML/baml)
+7. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+8. [web-infra-dev / rspack]:The fast Rust-based web bundler with webpack-compatible API 🦀️(https://github.com/web-infra-dev/rspack)
+9. [MaterializeInc / materialize]:The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.(https://github.com/MaterializeInc/materialize)
+10. [pola-rs / polars]:Dataframes powered by a multithreaded, vectorized query engine, written in Rust(https://github.com/pola-rs/polars)
+11. [prefix-dev / pixi]:Package management made easy(https://github.com/prefix-dev/pixi)
+12. [apache / opendal]:Apache OpenDAL: access data freely.(https://github.com/apache/opendal)
+13. [casey / just]:🤖 Just a command runner(https://github.com/casey/just)
+14. [paritytech / polkadot-sdk]:The Parity Polkadot Blockchain SDK(https://github.com/paritytech/polkadot-sdk)
+15. [bottlerocket-os / bottlerocket]:An operating system designed for hosting containers(https://github.com/bottlerocket-os/bottlerocket)
+16. [martinvonz / jj]:A Git-compatible VCS that is both simple and powerful(https://github.com/martinvonz/jj)
+17. [dtolnay / thiserror]:derive(Error) for struct and enum error types(https://github.com/dtolnay/thiserror)
+18. [awslabs / mountpoint-s3]:A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.(https://github.com/awslabs/mountpoint-s3)
+19. [vadimcn / codelldb]:A native debugger extension for VSCode based on LLDB(https://github.com/vadimcn/codelldb)
+20. [rust-lang / miri]:An interpreter for Rust's mid-level intermediate representation(https://github.com/rust-lang/miri)
+21. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+22. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+
+ai ans is:
+ 1. [vectordotdev / vector]:一个高性能的可观测性数据管道。(https://github.com/vectordotdev/vector)
+2. [rust-lang / mdBook]:从 Markdown 文件创建书籍。类似于 Gitbook，但采用 Rust 实现。(https://github.com/rust-lang/mdBook)
+3. [GyulyVGC / sniffnet]:舒适地监控您的网络流量 🕵️‍♂️(https://github.com/GyulyVGC/sniffnet)
+4. [rolldown / rolldown]:快速的 Rust 打包器，具有与 Rollup 兼容的 API。(https://github.com/rolldown/rolldown)
+5. [neondatabase / neon]:Neon：无服务器 Postgres。我们分离存储和计算，以提供自动扩展、类似代码的数据库分支和零扩展能力。(https://github.com/neondatabase/neon)
+6. [BoundaryML / baml]:BAML 是一种帮助您从 LLM 获取结构化数据的语言，提供了最佳的 DX 体验。支持所有语言。查看 promptfiddle.com 游戏场。(https://github.com/BoundaryML/baml)
+7. [libp2p / rust-libp2p]:libp2p 网络栈的 Rust 实现。(https://github.com/libp2p/rust-libp2p)
+8. [web-infra-dev / rspack]:快速的基于 Rust 的 Web 打包器，具有与 webpack 兼容的 API 🦀️(https://github.com/web-infra-dev/rspack)
+9. [MaterializeInc / materialize]:云操作数据存储：使用 SQL 转换、交付和快速变化的数据采取行动。(https://github.com/MaterializeInc/materialize)
+10. [pola-rs / polars]:由多线程、向量化查询引擎驱动，用 Rust 编写的 DataFrame。(https://github.com/pola-rs/polars)
+11. [prefix-dev / pixi]:简化包管理的工具。(https://github.com/prefix-dev/pixi)
+12. [apache / opendal]:Apache OpenDAL：自由访问数据。(https://github.com/apache/opendal)
+13. [casey / just]:🤖 Just 是一个命令运行器(https://github.com/casey/just)
+14. [paritytech / polkadot-sdk]:Parity Polkadot 区块链 SDK(https://github.com/paritytech/polkadot-sdk)
+15. [bottlerocket-os / bottlerocket]:专为容器托管设计的操作系统(https://github.com/bottlerocket-os/bottlerocket)
+16. [martinvonz / jj]:一个简单而强大的 Git 兼容版本控制系统(https://github.com/martinvonz/jj)
+17. [dtolnay / thiserror]:为结构体和枚举错误类型 derive(Error)(https://github.com/dtolnay/thiserror)
+18. [awslabs / mountpoint-s3]:将 Amazon S3 存储桶挂载为本地文件系统的简单、高吞吐量文件客户端。(https://github.com/awslabs/mountpoint-s3)
+19. [vadimcn / codelldb]:基于 LLDB 的 VSCode 原生调试器扩展(https://github.com/vadimcn/codelldb)
+20. [rust-lang / miri]:Rust 中间表示的解析器(https://github.com/rust-lang/miri)
+21. [juspay / hyperswitch]:用 Rust 编写的开源支付交换机，旨在使支付快速、可靠和实惠(https://github.com/juspay/hyperswitch)
+22. [rust-lang / rust]:赋予每个人构建可靠和高效软件的能力。(https://github.com/rust-lang/rust)
+
+最惊艳的项目：[vectordotdev / vector] - 一个高性能的可观测性数据管道。
+
+今天的趋势项目关注领域和特点：主要集中在数据管理和处理，网络通信，以及软件开发工具和框架。特点是高性能、跨平台、开源且社区活跃。产品联系: pxxhl@qq.com
+2024-11-10 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/tauri-apps/tauri
+https://github.com/vectordotdev/vector
+https://github.com/astral-sh/uv
+https://github.com/astral-sh/ruff
+https://github.com/libp2p/rust-libp2p
+https://github.com/apache/opendal
+https://github.com/bytecodealliance/wasmtime
+https://github.com/rust-lang/rust
+https://github.com/raphamorim/rio
+https://github.com/juspay/hyperswitch
+https://github.com/denoland/deno
+https://github.com/casey/just
+https://github.com/paritytech/polkadot-sdk
+https://github.com/quickwit-oss/tantivy
+https://github.com/YaLTeR/niri
+https://github.com/sharkdp/hyperfine
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/hatoo/oha
+https://github.com/bheisler/criterion.rs
+https://github.com/kata-containers/kata-containers
+https://github.com/BoundaryML/baml
+https://github.com/bottlerocket-os/bottlerocket
+https://github.com/bevyengine/bevy
+scape ends
+
+ai is reading, the info is:
+1. [tauri-apps / tauri]:Build smaller, faster, and more secure desktop and mobile applications with a web frontend.(https://github.com/tauri-apps/tauri)
+2. [vectordotdev / vector]:A high-performance observability data pipeline.(https://github.com/vectordotdev/vector)
+3. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+4. [astral-sh / ruff]:An extremely fast Python linter and code formatter, written in Rust.(https://github.com/astral-sh/ruff)
+5. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+6. [apache / opendal]:Apache OpenDAL: access data freely.(https://github.com/apache/opendal)
+7. [bytecodealliance / wasmtime]:A fast and secure runtime for WebAssembly(https://github.com/bytecodealliance/wasmtime)
+8. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+9. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+10. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+11. [denoland / deno]:A modern runtime for JavaScript and TypeScript.(https://github.com/denoland/deno)
+12. [casey / just]:🤖 Just a command runner(https://github.com/casey/just)
+13. [paritytech / polkadot-sdk]:The Parity Polkadot Blockchain SDK(https://github.com/paritytech/polkadot-sdk)
+14. [quickwit-oss / tantivy]:Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust(https://github.com/quickwit-oss/tantivy)
+15. [YaLTeR / niri]:A scrollable-tiling Wayland compositor.(https://github.com/YaLTeR/niri)
+16. [sharkdp / hyperfine]:A command-line benchmarking tool(https://github.com/sharkdp/hyperfine)
+17. [gitbutlerapp / gitbutler]:The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte(https://github.com/gitbutlerapp/gitbutler)
+18. [hatoo / oha]:Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.(https://github.com/hatoo/oha)
+19. [bheisler / criterion.rs]:Statistics-driven benchmarking library for Rust(https://github.com/bheisler/criterion.rs)
+20. [kata-containers / kata-containers]:Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+21. [BoundaryML / baml]:BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground(https://github.com/BoundaryML/baml)
+22. [bottlerocket-os / bottlerocket]:An operating system designed for hosting containers(https://github.com/bottlerocket-os/bottlerocket)
+23. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+
+ai ans is:
+ 1. [tauri-apps / tauri]:使用Web前端构建更小、更快、更安全的桌面和移动应用程序。(https://github.com/tauri-apps/tauri)
+2. [vectordotdev / vector]:高性能的可观察性数据处理管道。(https://github.com/vectordotdev/vector)
+3. [astral-sh / uv]:一个极快的Python包和项目管理器，用Rust编写。(https://github.com/astral-sh/uv)
+4. [astral-sh / ruff]:一个极快的Python代码检查器和格式化工具，用Rust编写。(https://github.com/astral-sh/ruff)
+5. [libp2p / rust-libp2p]:libp2p网络栈的Rust实现。(https://github.com/libp2p/rust-libp2p)
+6. [apache / opendal]:Apache OpenDAL：自由访问数据。(https://github.com/apache/opendal)
+7. [bytecodealliance / wasmtime]:快速且安全的WebAssembly运行时。(https://github.com/bytecodealliance/wasmtime)
+8. [rust-lang / rust]:赋予每个人构建可靠和高效软件的能力。(https://github.com/rust-lang/rust)
+9. [raphamorim / rio]:一个专注于在桌面和浏览器中运行的硬件加速GPU终端模拟器。(https://github.com/raphamorim/rio)
+10. [juspay / hyperswitch]:一个用Rust编写的开源支付网关，旨在使支付快速、可靠和实惠。(https://github.com/juspay/hyperswitch)
+11. [denoland / deno]:JavaScript和TypeScript的现代运行时。(https://github.com/denoland/deno)
+12. [casey / just]:🤖 Just是一个命令行执行器。(https://github.com/casey/just)
+13. [paritytech / polkadot-sdk]:Parity Polkadot区块链软件开发工具包。(https://github.com/paritytech/polkadot-sdk)
+14. [quickwit-oss / tantivy]:Tantivy是一个受Apache Lucene启发的全文搜索引擎库，用Rust编写。(https://github.com/quickwit-oss/tantivy)
+15. [YaLTeR / niri]:一个可滚动的tiling Wayland窗口管理器。(https://github.com/YaLTeR/niri)
+16. [sharkdp / hyperfine]:一个命令行基准测试工具。(https://github.com/sharkdp/hyperfine)
+17. [gitbutlerapp / gitbutler]:GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte驱动。(https://github.com/gitbutlerapp/gitbutler)
+18. [hatoo / oha]:Ohayou(おはよう)，HTTP负载生成器，受rakyll/hey启发，带有tui动画。(https://github.com/hatoo/oha)
+19. [bheisler / criterion.rs]:为Rust提供的统计驱动的基准测试库。(https://github.com/bheisler/criterion.rs)
+20. [kata-containers / kata-containers]:Kata Containers是一个开源项目，旨在构建一个轻量级虚拟机（VM）的标准实现，其感觉和性能类似于容器，但提供了VM的工作负载隔离和安全优势。(https://katacontainers.io/)
+21. [BoundaryML / baml]:BAML是一种语言，可以帮助您从LLM（大型语言模型）中获取结构化数据，并提供最佳的开发体验。与所有语言兼容。查看promptfiddle.com的playground。(https://github.com/BoundaryML/baml)
+22. [bottlerocket-os / bottlerocket]:为容器托管设计的操作系统。(https://github.com/bottlerocket-os/bottlerocket)
+23. [bevyengine / bevy]:一个简洁的数据驱动游戏引擎，用Rust编写。(https://github.com/bevyengine/bevy)
+
+最惊艳的项目推荐：[bevyengine / bevy]: 一个简洁的数据驱动游戏引擎，用Rust编写，非常适合游戏开发。
+
+今日趋势项目关注的领域和特点：
+- 高性能和安全性：许多项目都在追求性能优化和安全性提升，如tauri-apps/tauri、vectordotdev/vector和bytecodealliance/wasmtime。
+- 跨平台开发：Rust在跨平台开发中的应用日益广泛，如astral-sh/uv、raphamorim/rio和denoland/deno。
+- 数据处理和分析：数据处理和分析领域也有不少Rust项目，如quickwit-oss/tantivy和sharkdp/hyperfine。
+- 区块链技术：区块链技术的开发也越来越多地采用Rust，如paritytech/polkadot-sdk。
+- 工具和库：Rust生态系统中涌现出大量高质量的工具和库，如astral-sh/ruff、bheisler/criterion.rs和kata-containers/kata-containers。
+
+产品联系: pxxhl@qq.com
+2024-11-11 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/rust-lang/rust
+https://github.com/tauri-apps/tauri
+https://github.com/rust-lang/book
+https://github.com/bevyengine/bevy
+https://github.com/mxsm/rocketmq-rust
+https://github.com/sharkdp/bat
+https://github.com/juspay/hyperswitch
+https://github.com/oxc-project/oxc
+https://github.com/paradigmxyz/solar
+https://github.com/meilisearch/meilisearch
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/raphamorim/rio
+https://github.com/libp2p/rust-libp2p
+https://github.com/tree-sitter/tree-sitter
+https://github.com/TabbyML/tabby
+https://github.com/tauri-apps/plugins-workspace
+https://github.com/slint-ui/slint
+https://github.com/solana-labs/solana
+https://github.com/dandavison/delta
+https://github.com/lencx/ChatGPT
+https://github.com/Wilfred/difftastic
+scape ends
+
+ai is reading, the info is:
+1. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+2. [tauri-apps / tauri]:Build smaller, faster, and more secure desktop and mobile applications with a web frontend.(https://github.com/tauri-apps/tauri)
+3. [rust-lang / book]:The Rust Programming Language(https://github.com/rust-lang/book)
+4. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+5. [mxsm / rocketmq-rust]:🚀Apache RocketMQ Rust implementation. Faster, safer, and with lower memory usage.(https://github.com/mxsm/rocketmq-rust)
+6. [sharkdp / bat]:A cat(1) clone with wings.(https://github.com/sharkdp/bat)
+7. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+8. [oxc-project / oxc]:⚓ A collection of JavaScript tools written in Rust.(https://github.com/oxc-project/oxc)
+9. [paradigmxyz / solar]:Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust(https://github.com/paradigmxyz/solar)
+10. [meilisearch / meilisearch]:A lightning-fast search API that fits effortlessly into your apps, websites, and workflow(https://github.com/meilisearch/meilisearch)
+11. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+12. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+13. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+14. [tree-sitter / tree-sitter]:An incremental parsing system for programming tools(https://github.com/tree-sitter/tree-sitter)
+15. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+16. [tauri-apps / plugins-workspace]:All of the official Tauri plugins in one place!(https://github.com/tauri-apps/plugins-workspace)
+17. [slint-ui / slint]:Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.(https://github.com/slint-ui/slint)
+18. [solana-labs / solana]:Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.(https://github.com/solana-labs/solana)
+19. [dandavison / delta]:A syntax-highlighting pager for git, diff, grep, and blame output(https://github.com/dandavison/delta)
+20. [lencx / ChatGPT]:🔮 ChatGPT Desktop Application (Mac, Windows and Linux)(https://github.com/lencx/ChatGPT)
+21. [Wilfred / difftastic]:a structural diff that understands syntax 🟥🟩(https://github.com/Wilfred/difftastic)
+
+ai ans is:
+ 1. [rust-lang / rust]:赋予每个人构建可靠和高效软件的能力。(https://github.com/rust-lang/rust)
+2. [tauri-apps / tauri]:使用网页前端构建更小、更快、更安全的桌面和移动应用程序。(https://github.com/tauri-apps/tauri)
+3. [rust-lang / book]:《Rust编程语言》
+4. [bevyengine / bevy]:用Rust编写的清新简单的数据驱动游戏引擎。(https://github.com/bevyengine/bevy)
+5. [mxsm / rocketmq-rust]:🚀Apache RocketMQ的Rust实现。更快、更安全，内存使用更低。(https://github.com/mxsm/rocketmq-rust)
+6. [sharkdp / bat]:一款拥有翅膀的cat(1)克隆版。(https://github.com/sharkdp/bat)
+7. [juspay / hyperswitch]:用Rust编写的开源支付交换机，使支付变得更快、更可靠、更实惠。(https://github.com/juspay/hyperswitch)
+8. [oxc-project / oxc]:⚓ 用Rust编写的JavaScript工具集合。(https://github.com/oxc-project/oxc)
+9. [paradigmxyz / solar]:一款快速、模块化且对贡献者友好的Solidity编译器，用Rust编写。(https://github.com/paradigmxyz/solar)
+10. [meilisearch / meilisearch]:一个闪电般快速的搜索API，无缝融入您的应用程序、网站和工作流程。(https://github.com/meilisearch/meilisearch)
+11. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | SQL的证明(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+12. [raphamorim / rio]:一个专注于在桌面和浏览器中运行的硬件加速GPU终端模拟器。(https://github.com/raphamorim/rio)
+13. [libp2p / rust-libp2p]:libp2p网络堆栈的Rust实现。(https://github.com/libp2p/rust-libp2p)
+14. [tree-sitter / tree-sitter]:一种用于编程工具的增量解析系统。(https://github.com/tree-sitter/tree-sitter)
+15. [TabbyML / tabby]:自托管的AI编码助手。(https://github.com/TabbyML/tabby)
+16. [tauri-apps / plugins-workspace]:所有官方Tauri插件集中在一个地方！(https://github.com/tauri-apps/plugins-workspace)
+17. [slint-ui / slint]:Slint是一个声明式GUI工具包，用于为Rust、C++或JavaScript应用程序构建原生用户界面。(https://github.com/slint-ui/slint)
+18. [solana-labs / solana]:适用于快速、安全、可扩展的去中心化应用程序和市场的Web规模区块链。(https://github.com/solana-labs/solana)
+19. [dandavison / delta]:一个语法高亮分页器，用于git、diff、grep和blame输出。(https://github.com/dandavison/delta)
+20. [lencx / ChatGPT]:🔮 ChatGPT桌面应用程序（Mac、Windows和Linux）(https://github.com/lencx/ChatGPT)
+21. [Wilfred / difftastic]:一个理解语法的结构化差异工具 🟥🟩(https://github.com/Wilfred/difftastic)
+
+今日趋势项目关注的领域和特点：Rust语言及其生态持续发展，涵盖游戏引擎、支付系统、数据库搜索、区块链技术等多个领域，特点为高效、安全、跨平台。
+
+产品联系: pxxhl@qq.com
+2024-11-12 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/rust (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7a39381b6840>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 2 failed with error: write() argument must be str, not None
+try at 2 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 3 failed with error: write() argument must be str, not None
+try at 3 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/rust (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7a3938207a40>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 4 failed with error: write() argument must be str, not None
+try at 4 to get trends~
+scrape() status_code: 200
+https://github.com/Snowiiii/Pumpkin
+https://github.com/paradigmxyz/solar
+https://github.com/juspay/hyperswitch
+https://github.com/tauri-apps/tauri
+https://github.com/raphamorim/rio
+https://github.com/MystenLabs/sui
+https://github.com/bevyengine/bevy
+https://github.com/YaLTeR/niri
+https://github.com/tree-sitter/tree-sitter
+https://github.com/typst/typst
+https://github.com/dandavison/delta
+https://github.com/mediar-ai/screenpipe
+https://github.com/TabbyML/tabby
+https://github.com/casey/just
+https://github.com/rust-lang/mdBook
+https://github.com/sxyazi/yazi
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/flxzt/rnote
+https://github.com/BurntSushi/ripgrep
+https://github.com/tokio-rs/axum
+scape ends
+
+ai is reading, the info is:
+1. [Snowiiii / Pumpkin]:Empowering everyone to host fast and efficient Minecraft servers.(https://github.com/Snowiiii/Pumpkin)
+2. [paradigmxyz / solar]:Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust(https://github.com/paradigmxyz/solar)
+3. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+4. [tauri-apps / tauri]:Build smaller, faster, and more secure desktop and mobile applications with a web frontend.(https://github.com/tauri-apps/tauri)
+5. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+6. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+7. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+8. [YaLTeR / niri]:A scrollable-tiling Wayland compositor.(https://github.com/YaLTeR/niri)
+9. [tree-sitter / tree-sitter]:An incremental parsing system for programming tools(https://github.com/tree-sitter/tree-sitter)
+10. [typst / typst]:A new markup-based typesetting system that is powerful and easy to learn.(https://github.com/typst/typst)
+11. [dandavison / delta]:A syntax-highlighting pager for git, diff, grep, and blame output(https://github.com/dandavison/delta)
+12. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+13. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+14. [casey / just]:🤖 Just a command runner(https://github.com/casey/just)
+15. [rust-lang / mdBook]:Create book from markdown files. Like Gitbook but implemented in Rust(https://github.com/rust-lang/mdBook)
+16. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+17. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+18. [flxzt / rnote]:Sketch and take handwritten notes.(https://github.com/flxzt/rnote)
+19. [BurntSushi / ripgrep]:ripgrep recursively searches directories for a regex pattern while respecting your gitignore(https://github.com/BurntSushi/ripgrep)
+20. [tokio-rs / axum]:Ergonomic and modular web framework built with Tokio, Tower, and Hyper(https://github.com/tokio-rs/axum)
+
+ai ans is:
+ [雪儿 / 南瓜]:让每个人都能快速高效地托管Minecraft服务器。(https://github.com/Snowiiii/Pumpkin)
+
+最惊艳的项目：[MystenLabs / sui]:Sui，一个基于Move编程语言的下一代智能合约平台，具有高吞吐量、低延迟和以资产为中心的编程模型。(https://github.com/MystenLabs/sui)
+
+今日趋势项目关注的领域和特点：涵盖了游戏服务器、区块链、桌面应用、游戏引擎、终端工具、文本处理、AI编程助手等多个领域，特点为高性能、安全性、模块化以及跨平台。产品联系: pxxhl@qq.com
+2024-11-13 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/rust (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7a3938207290>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 2 failed with error: write() argument must be str, not None
+try at 2 to get trends~
+scrape() status_code: 200
+https://github.com/dani-garcia/vaultwarden
+https://github.com/getzola/zola
+https://github.com/typst/typst
+https://github.com/rust-lang/mdBook
+https://github.com/bevyengine/bevy
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/MystenLabs/sui
+https://github.com/gfx-rs/wgpu
+https://github.com/rerun-io/rerun
+https://github.com/greenbone/openvas-scanner
+https://github.com/tauri-apps/tauri
+https://github.com/apache/datafusion
+https://github.com/juspay/hyperswitch
+https://github.com/servo/servo
+https://github.com/qdrant/qdrant
+https://github.com/tokio-rs/axum
+https://github.com/astral-sh/uv
+https://github.com/raphamorim/rio
+https://github.com/Snowiiii/Pumpkin
+https://github.com/stalwartlabs/mail-server
+https://github.com/YaLTeR/niri
+https://github.com/elijah-potter/harper
+scape ends
+
+ai is reading, the info is:
+1. [dani-garcia / vaultwarden]:Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs(https://github.com/dani-garcia/vaultwarden)
+2. [getzola / zola]:A fast static site generator in a single binary with everything built-in. https://www.getzola.org(https://github.com/getzola/zola)
+3. [typst / typst]:A new markup-based typesetting system that is powerful and easy to learn.(https://github.com/typst/typst)
+4. [rust-lang / mdBook]:Create book from markdown files. Like Gitbook but implemented in Rust(https://github.com/rust-lang/mdBook)
+5. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+6. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+7. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+8. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+9. [rerun-io / rerun]:Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.(https://github.com/rerun-io/rerun)
+10. [greenbone / openvas-scanner]:This repository contains the scanner component for Greenbone Community Edition.(https://github.com/greenbone/openvas-scanner)
+11. [tauri-apps / tauri]:Build smaller, faster, and more secure desktop and mobile applications with a web frontend.(https://github.com/tauri-apps/tauri)
+12. [apache / datafusion]:Apache DataFusion SQL Query Engine(https://github.com/apache/datafusion)
+13. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+14. [servo / servo]:Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine(https://github.com/servo/servo)
+15. [qdrant / qdrant]:Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/(https://github.com/qdrant/qdrant)
+16. [tokio-rs / axum]:Ergonomic and modular web framework built with Tokio, Tower, and Hyper(https://github.com/tokio-rs/axum)
+17. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+18. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+19. [Snowiiii / Pumpkin]:Empowering everyone to host fast and efficient Minecraft servers.(https://github.com/Snowiiii/Pumpkin)
+20. [stalwartlabs / mail-server]:Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)(https://github.com/stalwartlabs/mail-server)
+21. [YaLTeR / niri]:A scrollable-tiling Wayland compositor.(https://github.com/YaLTeR/niri)
+22. [elijah-potter / harper]:The Grammar Checker for Developers(https://github.com/elijah-potter/harper)
+
+ai ans is:
+ 1. [dani-garcia / vaultwarden]:一个与Bitwarden兼容的非官方服务器，以前称为bitwarden_rs（https://github.com/dani-garcia/vaultwarden）
+2. [getzola / zola]:一个内置所有功能的单二进制快速静态网站生成器。https://www.getzola.org（https://github.com/getzola/zola）
+3. [typst / typst]:一个功能强大且易于学习的基于标记的排版系统。（https://github.com/typst/typst）
+4. [rust-lang / mdBook]:从Markdown文件创建书籍。类似于Gitbook，但由Rust实现（https://github.com/rust-lang/mdBook）
+5. [bevyengine / bevy]:一个用Rust构建的清新简单的数据驱动游戏引擎（https://github.com/bevyengine/bevy）
+6. [spaceandtimelabs / sxt-proof-of-sql]:空间和时间 | SQL证明（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+7. [MystenLabs / sui]:Sui，一个由Move编程语言提供动力的下一代高性能、低延迟、以资产为中心的智能合约平台（https://github.com/MystenLabs/sui）
+8. [gfx-rs / wgpu]:一个跨平台、安全、纯Rust的图形API。（https://github.com/gfx-rs/wgpu）
+9. [rerun-io / rerun]:可视化多模态数据流。免费、快速、易于使用，简单集成。用Rust构建。（https://github.com/rerun-io/rerun）
+10. [greenbone / openvas-scanner]:此存储库包含Greenbone社区版扫描器组件。（https://github.com/greenbone/openvas-scanner）
+11. [tauri-apps / tauri]:使用Web前端构建更小、更快、更安全的桌面和移动应用程序。（https://github.com/tauri-apps/tauri）
+12. [apache / datafusion]:Apache DataFusion SQL查询引擎（https://github.com/apache/datafusion）
+13. [juspay / hyperswitch]:一个用Rust编写的开源支付交换机，旨在使支付快速、可靠且负担得起（https://github.com/juspay/hyperswitch）
+14. [servo / servo]:Servo，一个嵌入式、独立、内存安全的模块化、并行Web渲染引擎（https://github.com/servo/servo）
+15. [qdrant / qdrant]:Qdrant - 高性能、大规模向量数据库和向量搜索引擎，适用于下一代AI。云服务也提供支持 https://cloud.qdrant.io/（https://github.com/qdrant/qdrant）
+16. [tokio-rs / axum]:一个使用Tokio、Tower和Hyper构建的符合人体工程学且模块化的Web框架（https://github.com/tokio-rs/axum）
+17. [astral-sh / uv]:一个极快的Python包和项目管理器，用Rust编写。（https://github.com/astral-sh/uv）
+18. [raphamorim / rio]:一个专注于在桌面和浏览器中运行的硬件加速GPU终端模拟器。（https://github.com/raphamorim/rio）
+19. [Snowiiii / Pumpkin]:赋予每个人托管快速且高效的Minecraft服务器的能力。（https://github.com/Snowiiii/Pumpkin）
+20. [stalwartlabs / mail-server]:安全且现代的全能邮件服务器（IMAP、JMAP、POP3、SMTP）（https://github.com/stalwartlabs/mail-server）
+21. [YaLTeR / niri]:一个可滚动的tiling Wayland组合器。（https://github.com/YaLTeR/niri）
+22. [elijah-potter / harper]:开发者的语法检查器（https://github.com/elijah-potter/harper）
+
+最惊艳的项目：[dani-garcia / vaultwarden] - 一个与Bitwarden兼容的非官方服务器，以Rust编写，提供强大的密码管理功能。
+
+今天趋势项目关注的领域和特点：今天的趋势项目主要集中在密码管理、静态网站生成、游戏引擎、智能合约平台、图形API、数据可视化、支付解决方案和邮件服务器等方面，展现了Rust在构建安全、高性能和功能丰富的应用程序方面的强大能力。
+
+产品联系: pxxhl@qq.com
+2024-11-14 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/rust (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7a3938207500>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 2 failed with error: write() argument must be str, not None
+try at 2 to get trends~
+scrape() status_code: 200
+https://github.com/quickwit-oss/tantivy
+https://github.com/dani-garcia/vaultwarden
+https://github.com/jdx/mise
+https://github.com/rerun-io/rerun
+https://github.com/raphamorim/rio
+https://github.com/MystenLabs/sui
+https://github.com/chroma-core/chroma
+https://github.com/getzola/zola
+https://github.com/surrealdb/surrealdb
+https://github.com/denoland/deno
+https://github.com/cloudflare/pingora
+https://github.com/rustdesk/rustdesk
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/martinvonz/jj
+https://github.com/Snowiiii/Pumpkin
+https://github.com/tauri-apps/tauri
+https://github.com/rust-windowing/winit
+https://github.com/tree-sitter/tree-sitter
+https://github.com/gfx-rs/wgpu
+https://github.com/emilk/egui
+https://github.com/lapce/lapce
+scape ends
+
+ai is reading, the info is:
+1. [quickwit-oss / tantivy]:Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust(https://github.com/quickwit-oss/tantivy)
+2. [dani-garcia / vaultwarden]:Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs(https://github.com/dani-garcia/vaultwarden)
+3. [jdx / mise]:dev tools, env vars, task runner(https://github.com/jdx/mise)
+4. [rerun-io / rerun]:Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.(https://github.com/rerun-io/rerun)
+5. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+6. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+7. [chroma-core / chroma]:the AI-native open-source embedding database(https://github.com/chroma-core/chroma)
+8. [getzola / zola]:A fast static site generator in a single binary with everything built-in. https://www.getzola.org(https://github.com/getzola/zola)
+9. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+10. [denoland / deno]:A modern runtime for JavaScript and TypeScript.(https://github.com/denoland/deno)
+11. [cloudflare / pingora]:A library for building fast, reliable and evolvable network services.(https://github.com/cloudflare/pingora)
+12. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+13. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+14. [martinvonz / jj]:A Git-compatible VCS that is both simple and powerful(https://github.com/martinvonz/jj)
+15. [Snowiiii / Pumpkin]:Empowering everyone to host fast and efficient Minecraft servers.(https://github.com/Snowiiii/Pumpkin)
+16. [tauri-apps / tauri]:Build smaller, faster, and more secure desktop and mobile applications with a web frontend.(https://github.com/tauri-apps/tauri)
+17. [rust-windowing / winit]:Window handling library in pure Rust(https://github.com/rust-windowing/winit)
+18. [tree-sitter / tree-sitter]:An incremental parsing system for programming tools(https://github.com/tree-sitter/tree-sitter)
+19. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+20. [emilk / egui]:egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native(https://github.com/emilk/egui)
+21. [lapce / lapce]:Lightning-fast and Powerful Code Editor written in Rust(https://github.com/lapce/lapce)
+
+ai ans is:
+ 【每日Rust项目趋势分析】
+1. [quickwit-oss / tantivy]: Tantivy是一个受Apache Lucene启发的全文搜索引擎库，用Rust编写（https://github.com/quickwit-oss/tantivy）
+2. [dani-garcia / vaultwarden]:一个非官方的与Bitwarden兼容的服务器，用Rust编写，之前称为bitwarden_rs（https://github.com/dani-garcia/vaultwarden）
+3. [jdx / mise]: 开发工具、环境变量、任务运行器（https://github.com/jdx/mise）
+4. [rerun-io / rerun]: 可视化多模态数据流。免费、快速、易于使用，简单集成。用Rust构建（https://github.com/rerun-io/rerun）
+5. [raphamorim / rio]: 一个专注于在桌面和浏览器中运行的硬件加速GPU终端模拟器（https://github.com/raphamorim/rio）
+6. [MystenLabs / sui]: Sui，一个由Move编程语言提供动力的下一代智能合约平台，具有高吞吐量、低延迟和以资产为导向的编程模型（https://github.com/MystenLabs/sui）
+7. [chroma-core / chroma]: 人工智能原生开源嵌入数据库（https://github.com/chroma-core/chroma）
+8. [getzola / zola]: 一个内置所有功能的快速静态站点生成器（https://www.getzola.org）（https://github.com/getzola/zola）
+9. [surrealdb / surrealdb]: 一个可扩展的、分布式的、协作的文档图数据库，用于实时网络（https://github.com/surrealdb/surrealdb）
+10. [denoland / deno]: 一个现代的JavaScript和TypeScript运行时（https://github.com/denoland/deno）
+11. [cloudflare / pingora]: 用于构建快速、可靠和可扩展网络服务的库（https://github.com/cloudflare/pingora）
+12. [rustdesk / rustdesk]: 一个开源的远程桌面应用程序，旨在自托管，作为TeamViewer的替代品（https://github.com/rustdesk/rustdesk）
+13. [spaceandtimelabs / sxt-proof-of-sql]: 空间和时间 | SQL证明（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+14. [martinvonz / jj]: 一个既简单又强大的Git兼容版本控制系统（https://github.com/martinvonz/jj）
+15. [Snowiiii / Pumpkin]: 帮助每个人快速高效地托管Minecraft服务器（https://github.com/Snowiiii/Pumpkin）
+16. [tauri-apps / tauri]: 使用Web前端构建更小、更快、更安全的桌面和移动应用程序（https://github.com/tauri-apps/tauri）
+17. [rust-windowing / winit]: 纯Rust的窗口处理库（https://github.com/rust-windowing/winit）
+18. [tree-sitter / tree-sitter]: 一个用于编程工具的增量解析系统（https://github.com/tree-sitter/tree-sitter）
+19. [gfx-rs / wgpu]: 一个跨平台、安全、纯Rust的图形API（https://github.com/gfx-rs/wgpu）
+20. [emilk / egui]: egui：一个易于使用的即时模式GUI，在Rust上运行，既可在Web上运行，也可在本地运行（https://github.com/emilk/egui）
+21. [lapce / lapce]: 用Rust编写的闪电快且强大的代码编辑器（https://github.com/lapce/lapce）
+
+【最惊艳项目】
+[lapce / lapce]: 用Rust编写的闪电快且强大的代码编辑器
+
+【今日趋势项目关注的领域和特点】
+今日的趋势项目主要关注于构建高性能、安全、易于使用的工具和平台，包括全文搜索引擎库、密码管理器、开发工具、多模态数据可视化工具、智能合约平台、图形API、代码编辑器等。这些项目普遍采用Rust语言，体现了Rust在系统编程领域的强大能力和日益增长的应用范围。产品联系: pxxhl@qq.com
+2024-11-15 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/lapce/lapce
+https://github.com/denoland/deno
+https://github.com/getzola/zola
+https://github.com/postgresml/pgcat
+https://github.com/chroma-core/chroma
+https://github.com/DioxusLabs/dioxus
+https://github.com/databendlabs/databend
+https://github.com/kitao/pyxel
+https://github.com/Snowiiii/Pumpkin
+https://github.com/martinvonz/jj
+https://github.com/embassy-rs/embassy
+https://github.com/MystenLabs/sui
+https://github.com/astral-sh/uv
+https://github.com/rapiz1/rathole
+https://github.com/rust-lang/mdBook
+https://github.com/rerun-io/rerun
+https://github.com/starship/starship
+https://github.com/kata-containers/kata-containers
+https://github.com/rustdesk/rustdesk
+https://github.com/jdx/mise
+https://github.com/tensorzero/tensorzero
+https://github.com/sxyazi/yazi
+https://github.com/AppFlowy-IO/AppFlowy-Cloud
+https://github.com/ArthurBrussee/brush
+scape ends
+
+ai is reading, the info is:
+1. [lapce / lapce]:Lightning-fast and Powerful Code Editor written in Rust(https://github.com/lapce/lapce)
+2. [denoland / deno]:A modern runtime for JavaScript and TypeScript.(https://github.com/denoland/deno)
+3. [getzola / zola]:A fast static site generator in a single binary with everything built-in. https://www.getzola.org(https://github.com/getzola/zola)
+4. [postgresml / pgcat]:PostgreSQL pooler with sharding, load balancing and failover support.(https://github.com/postgresml/pgcat)
+5. [chroma-core / chroma]:the AI-native open-source embedding database(https://github.com/chroma-core/chroma)
+6. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+7. [databendlabs / databend]:𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com(https://github.com/databendlabs/databend)
+8. [kitao / pyxel]:A retro game engine for Python(https://github.com/kitao/pyxel)
+9. [Snowiiii / Pumpkin]:Empowering everyone to host fast and efficient Minecraft servers.(https://github.com/Snowiiii/Pumpkin)
+10. [martinvonz / jj]:A Git-compatible VCS that is both simple and powerful(https://github.com/martinvonz/jj)
+11. [embassy-rs / embassy]:Modern embedded framework, using Rust and async.(https://github.com/embassy-rs/embassy)
+12. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+13. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+14. [rapiz1 / rathole]:A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.(https://github.com/rapiz1/rathole)
+15. [rust-lang / mdBook]:Create book from markdown files. Like Gitbook but implemented in Rust(https://github.com/rust-lang/mdBook)
+16. [rerun-io / rerun]:Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.(https://github.com/rerun-io/rerun)
+17. [starship / starship]:☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!(https://github.com/starship/starship)
+18. [kata-containers / kata-containers]:Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+19. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+20. [jdx / mise]:dev tools, env vars, task runner(https://github.com/jdx/mise)
+21. [tensorzero / tensorzero]:TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.(https://github.com/tensorzero/tensorzero)
+22. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+23. [AppFlowy-IO / AppFlowy-Cloud]:AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.(https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+24. [ArthurBrussee / brush]:3D Reconstruction for all(https://github.com/ArthurBrussee/brush)
+
+ai ans is:
+ 1. [lapce / lapce]:用Rust编写的闪电般的强大代码编辑器(https://github.com/lapce/lapce)
+2. [denoland / deno]:现代的JavaScript和TypeScript运行时。(https://github.com/denoland/deno)
+3. [getzola / zola]:一个内置所有功能的单二进制文件快速静态站点生成器。https://www.getzola.org(https://github.com/getzola/zola)
+4. [postgresml / pgcat]:具有分片、负载均衡和故障转移支持的PostgreSQL池器。(https://github.com/postgresml/pgcat)
+5. [chroma-core / chroma]:AI原生开源嵌入数据库。(https://github.com/chroma-core/chroma)
+6. [DioxusLabs / dioxus]:全栈应用框架，适用于Web、桌面、移动等。(https://github.com/DioxusLabs/dioxus)
+7. [databendlabs / databend]:Databend，一个现代的替代Snowflake的解决方案，适用于大规模分析，成本低且简单。https://databend.com(https://github.com/databendlabs/databend)
+8. [kitao / pyxel]:Python的复古游戏引擎。(https://github.com/kitao/pyxel)
+9. [Snowiiii / Pumpkin]:赋予每个人托管快速高效的Minecraft服务器的能力。(https://github.com/Snowiiii/Pumpkin)
+10. [martinvonz / jj]:一个既简单又强大的Git兼容版本控制系统。(https://github.com/martinvonz/jj)
+11. [embassy-rs / embassy]:现代嵌入式框架，使用Rust和异步编程。(https://github.com/embassy-rs/embassy)
+12. [MystenLabs / sui]:Sui，一个由Move编程语言提供支持的下一代智能合约平台，具有高吞吐量、低延迟和面向资产的编程模型。(https://github.com/MystenLabs/sui)
+13. [astral-sh / uv]:一个极快的Python包和项目管理器，由Rust编写。(https://github.com/astral-sh/uv)
+14. [rapiz1 / rathole]:一个轻量级且高性能的用于NAT穿越的反向代理，由Rust编写。frp和ngrok的替代品。(https://github.com/rapiz1/rathole)
+15. [rust-lang / mdBook]:从Markdown文件创建书籍。类似于Gitbook，但由Rust实现。(https://github.com/rust-lang/mdBook)
+16. [rerun-io / rerun]:可视化多模态数据流。免费、快速、易于使用，简单集成。由Rust构建。(https://github.com/rerun-io/rerun)
+17. [starship / starship]:☄🌌️ 适用于任何shell的最小、快速且无限可定制的提示符！(https://github.com/starship/starship)
+18. [kata-containers / kata-containers]:Kata Containers是一个开源项目，旨在构建一个标准的轻量级虚拟机（VM）实现，其感觉和性能类似于容器，但提供工作负载隔离和虚拟机的安全优势。https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+19. [rustdesk / rustdesk]:一个开源的远程桌面应用程序，旨在自托管，作为TeamViewer的替代品。(https://github.com/rustdesk/rustdesk)
+20. [jdx / mise]:开发工具、环境变量、任务运行器。(https://github.com/jdx/mise)
+21. [tensorzero / tensorzero]:TensorZero创建用于优化LLM应用的反馈循环——将生产数据转化为更智能、更快、更便宜的模型。(https://github.com/tensorzero/tensorzero)
+22. [sxyazi / yazi]:💥 由Rust编写，基于异步I/O的快速终端文件管理器。(https://github.com/sxyazi/yazi)
+23. [AppFlowy-IO / AppFlowy-Cloud]:AppFlowy是一个开源的Notion替代品。您负责您自己的数据和定制。由Flutter和Rust构建。(https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+24. [ArthurBrussee / brush]:面向所有人的3D重建。(https://github.com/ArthurBrussee/brush)
+
+最惊艳的项目推荐：[lapce / lapce]:用Rust编写的闪电般的强大代码编辑器。
+
+今天趋势项目的关注领域和特点：项目涵盖了从代码编辑器、JavaScript运行时到嵌入式框架、数据库、游戏引擎、智能合约平台等广泛领域，特点包括使用Rust语言的高性能、安全性以及与多种平台和技术的集成。
+2024-11-16 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/kata-containers/kata-containers
+https://github.com/astral-sh/ruff
+https://github.com/katanemo/arch
+https://github.com/sxyazi/yazi
+https://github.com/qdrant/qdrant
+https://github.com/lapce/lapce
+https://github.com/solana-labs/solana
+https://github.com/tracel-ai/burn
+https://github.com/martinvonz/jj
+https://github.com/jdx/mise
+https://github.com/starship/starship
+https://github.com/helix-editor/helix
+https://github.com/paritytech/polkadot-sdk
+https://github.com/SeaQL/sea-orm
+https://github.com/MystenLabs/sui
+https://github.com/surrealdb/surrealdb
+https://github.com/chroma-core/chroma
+https://github.com/containers/bootc
+https://github.com/web-infra-dev/rspack
+https://github.com/denoland/deno
+https://github.com/raphamorim/rio
+https://github.com/DioxusLabs/dioxus
+https://github.com/ilya-zlobintsev/LACT
+https://github.com/quickwit-oss/tantivy
+https://github.com/Snowiiii/Pumpkin
+scape ends
+
+ai is reading, the info is:
+1. [kata-containers / kata-containers]:Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+2. [astral-sh / ruff]:An extremely fast Python linter and code formatter, written in Rust.(https://github.com/astral-sh/ruff)
+3. [katanemo / arch]:Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.(https://github.com/katanemo/arch)
+4. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+5. [qdrant / qdrant]:Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/(https://github.com/qdrant/qdrant)
+6. [lapce / lapce]:Lightning-fast and Powerful Code Editor written in Rust(https://github.com/lapce/lapce)
+7. [solana-labs / solana]:Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.(https://github.com/solana-labs/solana)
+8. [tracel-ai / burn]:Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.(https://github.com/tracel-ai/burn)
+9. [martinvonz / jj]:A Git-compatible VCS that is both simple and powerful(https://github.com/martinvonz/jj)
+10. [jdx / mise]:dev tools, env vars, task runner(https://github.com/jdx/mise)
+11. [starship / starship]:☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!(https://github.com/starship/starship)
+12. [helix-editor / helix]:A post-modern modal text editor.(https://github.com/helix-editor/helix)
+13. [paritytech / polkadot-sdk]:The Parity Polkadot Blockchain SDK(https://github.com/paritytech/polkadot-sdk)
+14. [SeaQL / sea-orm]:🐚 An async & dynamic ORM for Rust(https://github.com/SeaQL/sea-orm)
+15. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+16. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+17. [chroma-core / chroma]:the AI-native open-source embedding database(https://github.com/chroma-core/chroma)
+18. [containers / bootc]:Boot and upgrade via container images(https://github.com/containers/bootc)
+19. [web-infra-dev / rspack]:The fast Rust-based web bundler with webpack-compatible API 🦀️(https://github.com/web-infra-dev/rspack)
+20. [denoland / deno]:A modern runtime for JavaScript and TypeScript.(https://github.com/denoland/deno)
+21. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+22. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+23. [ilya-zlobintsev / LACT]:Linux GPU Configuration Tool(https://github.com/ilya-zlobintsev/LACT)
+24. [quickwit-oss / tantivy]:Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust(https://github.com/quickwit-oss/tantivy)
+25. [Snowiiii / Pumpkin]:Empowering everyone to host fast and efficient Minecraft servers.(https://github.com/Snowiiii/Pumpkin)
+
+ai ans is:
+ 1. [kata-containers / kata-containers]：Kata Containers是一个开源项目和社区，致力于构建标准轻量级虚拟机（VMs）的实现，它们的感觉和性能就像容器一样，但提供了工作负载隔离和虚拟机的安全优势。https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+
+2. [astral-sh / ruff]：一个极快的Python代码检查器和代码格式化工具，使用Rust编写。(https://github.com/astral-sh/ruff)
+
+3. [katanemo / arch]：Arch是一个智能提示网关。使用（快速）LLMs进行提示的安全处理、强大可观察性和与API的无缝集成，所有这些都在业务逻辑之外。由Envoy代理的核心贡献者构建，基于Envoy。(https://github.com/katanemo/arch)
+
+4. [sxyazi / yazi]：💥 使用异步I/O编写的闪电般的终端文件管理器，用Rust编写。(https://github.com/sxyazi/yazi)
+
+最惊艳的项目：[katanemo / arch] - Arch是一个使用（快速）LLMs进行提示的安全处理、强大可观察性和与API的无缝集成的智能提示网关。
+
+今天趋势项目关注的领域和特点：今天的趋势项目主要集中在人工智能、Web开发、系统工具和数据库技术等领域，特点是使用Rust语言实现的高性能、可扩展性和安全性。
+
+产品联系: pxxhl@qq.com
+2024-11-17 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/XAMPPRocky/tokei
+https://github.com/SeaQL/sea-orm
+https://github.com/zed-industries/zed
+https://github.com/martinvonz/jj
+https://github.com/vosen/ZLUDA
+https://github.com/tracel-ai/burn
+https://github.com/YaLTeR/niri
+https://github.com/DioxusLabs/dioxus
+https://github.com/tensorzero/tensorzero
+https://github.com/containers/bootc
+https://github.com/astral-sh/ruff
+https://github.com/ArthurBrussee/brush
+https://github.com/AppFlowy-IO/AppFlowy-Cloud
+https://github.com/leptos-rs/leptos
+https://github.com/awslabs/mountpoint-s3
+https://github.com/lapce/lapce
+https://github.com/pola-rs/polars
+https://github.com/openobserve/openobserve
+https://github.com/raphamorim/rio
+https://github.com/MystenLabs/sui
+https://github.com/shadowsocks/shadowsocks-rust
+https://github.com/rerun-io/rerun
+https://github.com/surrealdb/surrealdb
+scape ends
+
+ai is reading, the info is:
+1. [XAMPPRocky / tokei]:Count your code, quickly.(https://github.com/XAMPPRocky/tokei)
+2. [SeaQL / sea-orm]:🐚 An async & dynamic ORM for Rust(https://github.com/SeaQL/sea-orm)
+3. [zed-industries / zed]:Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.(https://github.com/zed-industries/zed)
+4. [martinvonz / jj]:A Git-compatible VCS that is both simple and powerful(https://github.com/martinvonz/jj)
+5. [vosen / ZLUDA]:CUDA on non-NVIDIA GPUs(https://github.com/vosen/ZLUDA)
+6. [tracel-ai / burn]:Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.(https://github.com/tracel-ai/burn)
+7. [YaLTeR / niri]:A scrollable-tiling Wayland compositor.(https://github.com/YaLTeR/niri)
+8. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+9. [tensorzero / tensorzero]:TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.(https://github.com/tensorzero/tensorzero)
+10. [containers / bootc]:Boot and upgrade via container images(https://github.com/containers/bootc)
+11. [astral-sh / ruff]:An extremely fast Python linter and code formatter, written in Rust.(https://github.com/astral-sh/ruff)
+12. [ArthurBrussee / brush]:3D Reconstruction for all(https://github.com/ArthurBrussee/brush)
+13. [AppFlowy-IO / AppFlowy-Cloud]:AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.(https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+14. [leptos-rs / leptos]:Build fast web applications with Rust.(https://github.com/leptos-rs/leptos)
+15. [awslabs / mountpoint-s3]:A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.(https://github.com/awslabs/mountpoint-s3)
+16. [lapce / lapce]:Lightning-fast and Powerful Code Editor written in Rust(https://github.com/lapce/lapce)
+17. [pola-rs / polars]:Dataframes powered by a multithreaded, vectorized query engine, written in Rust(https://github.com/pola-rs/polars)
+18. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+19. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+20. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+21. [shadowsocks / shadowsocks-rust]:A Rust port of shadowsocks(https://github.com/shadowsocks/shadowsocks-rust)
+22. [rerun-io / rerun]:Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.(https://github.com/rerun-io/rerun)
+23. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+
+ai ans is:
+ 1. [XAMPPRocky / tokei]:快速统计你的代码。（https://github.com/XAMPPRocky/tokei）
+2. [SeaQL / sea-orm]:🐚 一个异步且动态的Rust ORM。（https://github.com/SeaQL/sea-orm）
+3. [zed-industries / zed]:以思维速度编写代码——Zed 是一个由 Atom 和 Tree-sitter 的创造者开发的高性能、多人代码编辑器。（https://github.com/zed-industries/zed）
+4. [martinvonz / jj]:一个简单且强大的 Git 兼容版本控制系统。（https://github.com/martinvonz/jj）
+5. [vosen / ZLUDA]:在非 NVIDIA GPU 上运行 CUDA。（https://github.com/vosen/ZLUDA）
+6. [tracel-ai / burn]:Burn 是一个使用 Rust 构建、以极端灵活性、计算效率和可移植性为主要目标的全新综合动态深度学习框架。（https://github.com/tracel-ai/burn）
+7. [YaLTeR / niri]:一个可滚动的堆叠式 Wayland 合成器。（https://github.com/YaLTeR/niri）
+8. [DioxusLabs / dioxus]:适用于 Web、桌面、移动和更多场景的全栈应用程序框架。（https://github.com/DioxusLabs/dioxus）
+9. [tensorzero / tensorzero]:TensorZero 为优化 LLM 应用创建了一个反馈循环——将生产数据转化为更智能、更快、更经济的模型。（https://github.com/tensorzero/tensorzero）
+10. [containers / bootc]:通过容器镜像启动和升级。（https://github.com/containers/bootc）
+11. [astral-sh / ruff]:一个极快的 Python 代码检查器和代码格式化工具，用 Rust 编写。（https://github.com/astral-sh/ruff）
+12. [ArthurBrussee / brush]:为所有人提供 3D 重建。（https://github.com/ArthurBrussee/brush）
+13. [AppFlowy-IO / AppFlowy-Cloud]:AppFlowy 是一个开源的 Notion 替代品。你负责你的数据和定制。使用 Flutter 和 Rust 构建。（https://github.com/AppFlowy-IO/AppFlowy-Cloud）
+14. [leptos-rs / leptos]:使用 Rust 构建快速 Web 应用程序。（https://github.com/leptos-rs/leptos）
+15. [awslabs / mountpoint-s3]:一个简单、高吞吐量的文件客户端，可以将 Amazon S3 存储桶挂载为本地文件系统。（https://github.com/awslabs/mountpoint-s3）
+16. [lapce / lapce]:由 Rust 编写的闪电般快速且功能强大的代码编辑器。（https://github.com/lapce/lapce）
+17. [pola-rs / polars]:由多线程、向量查询引擎驱动的数据框，用 Rust 编写。（https://github.com/pola-rs/polars）
+18. [openobserve / openobserve]:🚀 10 倍更简单，🚀 140 倍更低的存储成本，🚀 高性能，🚀 宇节级扩展 - 用于（日志、指标、跟踪、RUM、错误跟踪、会话回放）的 Elasticsearch/Splunk/Datadog 替代品。（https://github.com/openobserve/openobserve）
+19. [raphamorim / rio]:一个专注于在桌面和浏览器中运行的硬件加速 GPU 终端模拟器。（https://github.com/raphamorim/rio）
+20. [MystenLabs / sui]:Sui，一个由 Move 编程语言支持的高吞吐量、低延迟、面向资产的下一代智能合约平台。（https://github.com/MystenLabs/sui）
+21. [shadowsocks / shadowsocks-rust]:shadowsocks 的 Rust 版本。（https://github.com/shadowsocks/shadowsocks-rust）
+22. [rerun-io / rerun]:可视化多模态数据流。免费、快速、易于使用、简单集成。用 Rust 构建。（https://github.com/rerun-io/rerun）
+23. [surrealdb / surrealdb]:一个可扩展、分布式、协作的文档-图数据库，适用于实时 Web。（https://github.com/surrealdb/surrealdb）
+
+最惊艳的项目：[MystenLabs / sui]: Sui，一个由 Move 编程语言支持的高吞吐量、低延迟、面向资产的下一代智能合约平台。
+
+今天的趋势项目关注领域和特点：主要包括代码编辑器、数据库、深度学习框架、Web 应用程序框架、网络编程、数据可视化工具等，特点是高效、可扩展、跨平台和开源。产品联系: pxxhl@qq.com
+2024-11-18 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/leptos-rs/leptos
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/ilya-zlobintsev/LACT
+https://github.com/DioxusLabs/dioxus
+https://github.com/uutils/coreutils
+https://github.com/ReFirmLabs/binwalk
+https://github.com/lapce/floem
+https://github.com/XAMPPRocky/tokei
+https://github.com/wasmerio/wasmer
+https://github.com/tracel-ai/burn
+https://github.com/libnyanpasu/clash-nyanpasu
+https://github.com/lencx/ChatGPT
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/pola-rs/polars
+https://github.com/surrealdb/surrealdb
+https://github.com/rust-lang/rustlings
+https://github.com/openobserve/openobserve
+https://github.com/YaLTeR/niri
+https://github.com/AppFlowy-IO/AppFlowy-Cloud
+https://github.com/helix-editor/helix
+https://github.com/librespot-org/librespot
+https://github.com/coral-xyz/anchor
+scape ends
+
+ai is reading, the info is:
+1. [leptos-rs / leptos]:Build fast web applications with Rust.(https://github.com/leptos-rs/leptos)
+2. [gitbutlerapp / gitbutler]:The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte(https://github.com/gitbutlerapp/gitbutler)
+3. [ilya-zlobintsev / LACT]:Linux GPU Configuration Tool(https://github.com/ilya-zlobintsev/LACT)
+4. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+5. [uutils / coreutils]:Cross-platform Rust rewrite of the GNU coreutils(https://github.com/uutils/coreutils)
+6. [ReFirmLabs / binwalk]:Firmware Analysis Tool(https://github.com/ReFirmLabs/binwalk)
+7. [lapce / floem]:A native Rust UI library with fine-grained reactivity(https://github.com/lapce/floem)
+8. [XAMPPRocky / tokei]:Count your code, quickly.(https://github.com/XAMPPRocky/tokei)
+9. [wasmerio / wasmer]:🚀 The leading Wasm Runtime supporting WASIX and WASI(https://github.com/wasmerio/wasmer)
+10. [tracel-ai / burn]:Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.(https://github.com/tracel-ai/burn)
+11. [libnyanpasu / clash-nyanpasu]:Clash Nyanpasu～(∠・ω< )⌒☆(https://github.com/libnyanpasu/clash-nyanpasu)
+12. [lencx / ChatGPT]:🔮 ChatGPT Desktop Application (Mac, Windows and Linux)(https://github.com/lencx/ChatGPT)
+13. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+14. [pola-rs / polars]:Dataframes powered by a multithreaded, vectorized query engine, written in Rust(https://github.com/pola-rs/polars)
+15. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+16. [rust-lang / rustlings]:🦀 Small exercises to get you used to reading and writing Rust code!(https://github.com/rust-lang/rustlings)
+17. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+18. [YaLTeR / niri]:A scrollable-tiling Wayland compositor.(https://github.com/YaLTeR/niri)
+19. [AppFlowy-IO / AppFlowy-Cloud]:AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.(https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+20. [helix-editor / helix]:A post-modern modal text editor.(https://github.com/helix-editor/helix)
+21. [librespot-org / librespot]:Open Source Spotify client library(https://github.com/librespot-org/librespot)
+22. [coral-xyz / anchor]:⚓ Solana Sealevel Framework(https://github.com/coral-xyz/anchor)
+
+ai ans is:
+ 1. [leptos-rs / leptos]: 使用Rust构建快速Web应用程序。(https://github.com/leptos-rs/leptos)
+2. [gitbutlerapp / gitbutler]: 由Git支持、Tauri/Rust/Svelte驱动的GitButler版本控制客户端。(https://github.com/gitbutlerapp/gitbutler)
+3. [ilya-zlobintsev / LACT]: Linux GPU配置工具。(https://github.com/ilya-zlobintsev/LACT)
+4. [DioxusLabs / dioxus]: 用于Web、桌面、移动等全栈应用程序框架。(https://github.com/DioxusLabs/dioxus)
+5. [uutils / coreutils]: GNU核心工具的跨平台Rust重写。(https://github.com/uutils/coreutils)
+6. [ReFirmLabs / binwalk]: 固件分析工具。(https://github.com/ReFirmLabs/binwalk)
+7. [lapce / floem]: 一个具有细粒度反应性的本地Rust UI库。(https://github.com/lapce/floem)
+8. [XAMPPRocky / tokei]: 快速统计代码的工具。(https://github.com/XAMPPRocky/tokei)
+9. [wasmerio / wasmer]: 🚀 支持WASIX和WASI的领先Wasm运行时。(https://github.com/wasmerio/wasmer)
+10. [tracel-ai / burn]: 使用Rust构建的全新综合动态深度学习框架，以极端灵活性、计算效率和可移植性为主要目标。(https://github.com/tracel-ai/burn)
+11. [libnyanpasu / clash-nyanpasu]: Clash Nyanpasu～(∠・ω< )⌒☆(https://github.com/libnyanpasu/clash-nyanpasu)
+12. [lencx / ChatGPT]: 🔮 ChatGPT桌面应用程序（Mac、Windows和Linux）(https://github.com/lencx/ChatGPT)
+13. [spaceandtimelabs / sxt-proof-of-sql]: 空间和时间 | SQL证明(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+14. [pola-rs / polars]: 由多线程、向量查询引擎提供动力的数据帧，用Rust编写。(https://github.com/pola-rs/polars)
+15. [surrealdb / surrealdb]: 可扩展、分布式、协作的文档-图数据库，适用于实时Web。(https://github.com/surrealdb/surrealdb)
+16. [rust-lang / rustlings]: 🦀 一些小练习，帮助你熟悉阅读和编写Rust代码！(https://github.com/rust-lang/rustlings)
+17. [openobserve / openobserve]: 🚀 10倍更简单，🚀 140倍更低的存储成本，🚀 高性能，🚀 宇节级扩展 - Elasticsearch/Splunk/Datadog替代品，适用于🚀 (日志、指标、跟踪、RUM、错误跟踪、会话回放)。(https://github.com/openobserve/openobserve)
+18. [YaLTeR / niri]: 可滚动的平铺Wayland组合器。(https://github.com/YaLTeR/niri)
+19. [AppFlowy-IO / AppFlowy-Cloud]: AppFlowy是一个开源的Notion替代品。你可以控制自己的数据和定制。使用Flutter和Rust构建。(https://github.com/AppFlowy-IO/AppFlowy-Cloud)
+20. [helix-editor / helix]: 一个后现代模式文本编辑器。(https://github.com/helix-editor/helix)
+21. [librespot-org / librespot]: 开源Spotify客户端库(https://github.com/librespot-org/librespot)
+22. [coral-xyz / anchor]:⚓ Solana Sealevel框架(https://github.com/coral-xyz/anchor)
+
+最惊艳的项目：[DioxusLabs / dioxus]: 用于Web、桌面、移动等全栈应用程序框架。
+
+今天趋势项目关注的领域和特点：涵盖了从Web开发到深度学习框架，再到系统工具和数据库等多个领域。特点是Rust语言的跨平台能力、高性能和安全性被广泛应用，同时也有许多项目关注于易用性和用户体验的改进。
+
+产品联系: pxxhl@qq.com
+2024-11-19 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/uutils/coreutils
+https://github.com/lencx/ChatGPT
+https://github.com/glzr-io/glazewm
+https://github.com/typst/typst
+https://github.com/helix-editor/helix
+https://github.com/zellij-org/zellij
+https://github.com/solana-labs/solana-program-library
+https://github.com/rust-lang/book
+https://github.com/DioxusLabs/dioxus
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/rust-lang/rustlings
+https://github.com/librespot-org/librespot
+https://github.com/leptos-rs/leptos
+https://github.com/emilk/egui
+https://github.com/openobserve/openobserve
+https://github.com/sunface/rust-by-practice
+https://github.com/lapce/lapce
+https://github.com/tsukinaha/tsukimi
+https://github.com/MystenLabs/sui
+https://github.com/tracel-ai/burn
+https://github.com/mediar-ai/screenpipe
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/solana-labs/solana
+https://github.com/bevyengine/bevy
+scape ends
+
+ai is reading, the info is:
+1. [uutils / coreutils]:Cross-platform Rust rewrite of the GNU coreutils(https://github.com/uutils/coreutils)
+2. [lencx / ChatGPT]:🔮 ChatGPT Desktop Application (Mac, Windows and Linux)(https://github.com/lencx/ChatGPT)
+3. [glzr-io / glazewm]:GlazeWM is a tiling window manager for Windows inspired by i3wm.(https://github.com/glzr-io/glazewm)
+4. [typst / typst]:A new markup-based typesetting system that is powerful and easy to learn.(https://github.com/typst/typst)
+5. [helix-editor / helix]:A post-modern modal text editor.(https://github.com/helix-editor/helix)
+6. [zellij-org / zellij]:A terminal workspace with batteries included(https://github.com/zellij-org/zellij)
+7. [solana-labs / solana-program-library]:A collection of Solana programs maintained by Solana Labs(https://github.com/solana-labs/solana-program-library)
+8. [rust-lang / book]:The Rust Programming Language(https://github.com/rust-lang/book)
+9. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+10. [gitbutlerapp / gitbutler]:The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte(https://github.com/gitbutlerapp/gitbutler)
+11. [rust-lang / rustlings]:🦀 Small exercises to get you used to reading and writing Rust code!(https://github.com/rust-lang/rustlings)
+12. [librespot-org / librespot]:Open Source Spotify client library(https://github.com/librespot-org/librespot)
+13. [leptos-rs / leptos]:Build fast web applications with Rust.(https://github.com/leptos-rs/leptos)
+14. [emilk / egui]:egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native(https://github.com/emilk/egui)
+15. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+16. [sunface / rust-by-practice]:Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.(https://github.com/sunface/rust-by-practice)
+17. [lapce / lapce]:Lightning-fast and Powerful Code Editor written in Rust(https://github.com/lapce/lapce)
+18. [tsukinaha / tsukimi]:A simple third-party Emby client(https://github.com/tsukinaha/tsukimi)
+19. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+20. [tracel-ai / burn]:Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.(https://github.com/tracel-ai/burn)
+21. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+22. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+23. [solana-labs / solana]:Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.(https://github.com/solana-labs/solana)
+24. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+
+ai ans is:
+ 1. [uutils / coreutils]:跨平台重写的GNU coreutils（https://github.com/uutils/coreutils）
+2. [lencx / ChatGPT]:🔮 ChatGPT桌面应用程序（Mac、Windows和Linux）（https://github.com/lencx/ChatGPT）
+3. [glzr-io / glazewm]:受i3wm启发的Windows平铺窗口管理器GlazeWM（https://github.com/glzr-io/glazewm）
+4. [typst / typst]:一种强大且易于学习的基于标记的排版系统（https://github.com/typst/typst）
+5. [helix-editor / helix]:后现代模式文本编辑器（https://github.com/helix-editor/helix）
+6. [zellij-org / zellij]:包含电池的终端工作区（https://github.com/zellij-org/zellij）
+7. [solana-labs / solana-program-library]:由Solana Labs维护的Solana程序集合（https://github.com/solana-labs/solana-program-library）
+8. [rust-lang / book]:Rust编程语言（https://github.com/rust-lang/book）
+9. [DioxusLabs / dioxus]:适用于Web、桌面、移动等全栈应用程序框架（https://github.com/DioxusLabs/dioxus）
+10. [gitbutlerapp / gitbutler]:由Git支持、由Tauri/Rust/Svelte驱动的GitButler版本控制客户端（https://github.com/gitbutlerapp/gitbutler）
+11. [rust-lang / rustlings]:🦀 小练习，帮助你习惯阅读和编写Rust代码！（https://github.com/rust-lang/rustlings）
+12. [librespot-org / librespot]:开源Spotify客户端库（https://github.com/librespot-org/librespot）
+13. [leptos-rs / leptos]:用Rust构建快速Web应用程序（https://github.com/leptos-rs/leptos）
+14. [emilk / egui]:egui：一个易于使用的即时模式GUI，在Rust上运行，既适用于Web也适用于原生（https://github.com/emilk/egui）
+15. [openobserve / openobserve]:🚀 10倍更容易，🚀 140倍更低的存储成本，🚀 高性能，🚀 宇节级——Elasticsearch/Splunk/Datadog替代品，适用于🚀（日志、指标、跟踪、RUM、错误跟踪、会话回放）（https://github.com/openobserve/openobserve）
+16. [sunface / rust-by-practice]:通过具有挑战性的示例、练习和项目，学习Rust，缩小初学者和熟练开发者之间的差距（https://github.com/sunface/rust-by-practice）
+17. [lapce / lapce]:用Rust编写的快速且功能强大的代码编辑器（https://github.com/lapce/lapce）
+18. [tsukinaha / tsukimi]:一个简单的第三方Emby客户端（https://github.com/tsukinaha/tsukimi）
+19. [MystenLabs / sui]:Sui，一个由Move编程语言提供动力的下一代智能合约平台，具有高吞吐量、低延迟和面向资产的编程模型（https://github.com/MystenLabs/sui）
+20. [tracel-ai / burn]:Burn是一个新的综合动态深度学习框架，使用Rust构建，以极致的灵活性、计算效率和可移植性为主要目标（https://github.com/tracel-ai/burn）
+21. [mediar-ai / screenpipe]:rewind.ai x cursor.com = 你的AI助手，拥有所有上下文。24/7屏幕和语音录制，为超级智能时代做好准备。或被抛在后面（https://github.com/mediar-ai/screenpipe）
+22. [spaceandtimelabs / sxt-proof-of-sql]:时间和空间 | SQL证明（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+23. [solana-labs / solana]:适用于快速、安全、可扩展、去中心化应用程序和市场的Web级区块链（https://github.com/solana-labs/solana）
+24. [bevyengine / bevy]:一个由Rust构建的简洁数据驱动游戏引擎（https://github.com/bevyengine/bevy）
+
+最惊艳的项目：[lencx / ChatGPT]:🔮 ChatGPT桌面应用程序（Mac、Windows和Linux）
+
+今天趋势项目关注的领域和特点：今天的项目涵盖了从工具到游戏引擎的广泛领域，其中许多项目强调了性能、可扩展性和用户友好性。Rust作为编程语言因其高效性和安全性而受到青睐，被用于构建各种类型的应用程序，从桌面应用和游戏引擎到数据分析和智能合约平台。
+2024-11-20 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /trending/rust (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7a39380395b0>, 'Connection to github.com timed out. (connect timeout=10)')) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 2 failed with error: write() argument must be str, not None
+try at 2 to get trends~
+scrape() status_code: 200
+https://github.com/glzr-io/glazewm
+https://github.com/solana-labs/solana-program-library
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/nushell/nushell
+https://github.com/rustls/rustls
+https://github.com/lapce/floem
+https://github.com/rpcpool/yellowstone-grpc
+https://github.com/openobserve/openobserve
+https://github.com/qdrant/qdrant
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/rust-lang/rust-analyzer
+https://github.com/sunface/rust-by-practice
+https://github.com/typst/typst
+https://github.com/rustdesk/rustdesk
+https://github.com/influxdata/influxdb
+https://github.com/uutils/coreutils
+https://github.com/helix-editor/helix
+https://github.com/cloudflare/quiche
+https://github.com/solana-labs/solana
+https://github.com/zellij-org/zellij
+https://github.com/paradigmxyz/reth
+https://github.com/coral-xyz/anchor
+https://github.com/dani-garcia/vaultwarden
+scape ends
+
+ai is reading, the info is:
+1. [glzr-io / glazewm]:GlazeWM is a tiling window manager for Windows inspired by i3wm.(https://github.com/glzr-io/glazewm)
+2. [solana-labs / solana-program-library]:A collection of Solana programs maintained by Solana Labs(https://github.com/solana-labs/solana-program-library)
+3. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+4. [nushell / nushell]:A new type of shell(https://github.com/nushell/nushell)
+5. [rustls / rustls]:A modern TLS library in Rust(https://github.com/rustls/rustls)
+6. [lapce / floem]:A native Rust UI library with fine-grained reactivity(https://github.com/lapce/floem)
+7. [rpcpool / yellowstone-grpc]:solana geyser grpc service(https://github.com/rpcpool/yellowstone-grpc)
+8. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+9. [qdrant / qdrant]:Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/(https://github.com/qdrant/qdrant)
+10. [gitbutlerapp / gitbutler]:The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte(https://github.com/gitbutlerapp/gitbutler)
+11. [rust-lang / rust-analyzer]:A Rust compiler front-end for IDEs(https://github.com/rust-lang/rust-analyzer)
+12. [sunface / rust-by-practice]:Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.(https://github.com/sunface/rust-by-practice)
+13. [typst / typst]:A new markup-based typesetting system that is powerful and easy to learn.(https://github.com/typst/typst)
+14. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+15. [influxdata / influxdb]:Scalable datastore for metrics, events, and real-time analytics(https://github.com/influxdata/influxdb)
+16. [uutils / coreutils]:Cross-platform Rust rewrite of the GNU coreutils(https://github.com/uutils/coreutils)
+17. [helix-editor / helix]:A post-modern modal text editor.(https://github.com/helix-editor/helix)
+18. [cloudflare / quiche]:🥧 Savoury implementation of the QUIC transport protocol and HTTP/3(https://github.com/cloudflare/quiche)
+19. [solana-labs / solana]:Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.(https://github.com/solana-labs/solana)
+20. [zellij-org / zellij]:A terminal workspace with batteries included(https://github.com/zellij-org/zellij)
+21. [paradigmxyz / reth]:Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust(https://github.com/paradigmxyz/reth)
+22. [coral-xyz / anchor]:⚓ Solana Sealevel Framework(https://github.com/coral-xyz/anchor)
+23. [dani-garcia / vaultwarden]:Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs(https://github.com/dani-garcia/vaultwarden)
+
+ai ans is:
+ 1. [glzr-io / glazewm]: GlazeWM 是受 i3wm 启发的 Windows 面板式窗口管理器。(https://github.com/glzr-io/glazewm)
+2. [solana-labs / solana-program-library]: 由 Solana Labs 维护的 Solana 程序集合。(https://github.com/solana-labs/solana-program-library)
+3. [spaceandtimelabs / sxt-proof-of-sql]: 空间和时间 | 证明 SQL。(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+4. [nushell / nushell]: 一种新型shell。(https://github.com/nushell/nushell)
+5. [rustls / rustls]: Rust 中的现代 TLS 库。(https://github.com/rustls/rustls)
+6. [lapce / floem]: 带有细粒度反应性的本地 Rust UI 库。(https://github.com/lapce/floem)
+7. [rpcpool / yellowstone-grpc]: Solana Geyser gRPC 服务。(https://github.com/rpcpool/yellowstone-grpc)
+8. [openobserve / openobserve]: 🚀 10 倍更易用，🚀 140 倍更低存储成本，🚀 高性能，🚀 宇节规模 - Elasticsearch/Splunk/Datadog 替代品，用于 🚀 (日志、指标、跟踪、RUM、错误跟踪、会话回放)。(https://github.com/openobserve/openobserve)
+9. [qdrant / qdrant]: Qdrant - 高性能、大规模向量数据库和向量搜索引擎，适用于下一代 AI。还可在云中使用 https://cloud.qdrant.io/(https://github.com/qdrant/qdrant)
+10. [gitbutlerapp / gitbutler]: 基于 Git、由 Tauri/Rust/Svelte 驱动的 Git 版本控制客户端。(https://github.com/gitbutlerapp/gitbutler)
+11. [rust-lang / rust-analyzer]: Rust 编译器前端，用于 IDE。(https://github.com/rust-lang/rust-analyzer)
+12. [sunface / rust-by-practice]: 通过挑战性示例、练习和项目学习 Rust，缩小初学者与熟练开发者之间的差距。(https://github.com/sunface/rust-by-practice)
+13. [typst / typst]: 一种强大的、易于学习的基于标记的排版系统。(https://github.com/typst/typst)
+14. [rustdesk / rustdesk]: 一个开源的远程桌面应用程序，适用于自托管，是 TeamViewer 的替代品。(https://github.com/rustdesk/rustdesk)
+15. [influxdata / influxdb]: 指标、事件和实时分析的可伸缩数据存储。(https://github.com/influxdata/influxdb)
+16. [uutils / coreutils]: GNU coreutils 的跨平台 Rust 重写。(https://github.com/uutils/coreutils)
+17. [helix-editor / helix]: 一个后现代模式文本编辑器。(https://github.com/helix-editor/helix)
+18. [cloudflare / quiche]: 🥧 QUIC 传输协议和 HTTP/3 的美味实现。(https://github.com/cloudflare/quiche)
+19. [solana-labs / solana]: 用于快速、安全、可扩展的分布式应用程序和市场的 Web 规模区块链。(https://github.com/solana-labs/solana)
+20. [zellij-org / zellij]: 内置电池的终端工作区。(https://github.com/zellij-org/zellij)
+21. [paradigmxyz / reth]: 以 Rust 实现的模块化、贡献友好且速度极快的 Ethereum 协议实现。(https://github.com/paradigmxyz/reth)
+22. [coral-xyz / anchor]: ⚓ Solana Sealevel 框架。(https://github.com/coral-xyz/anchor)
+23. [dani-garcia / vaultwarden]: 使用 Rust 编写的非官方 Bitwarden 兼容服务器，以前称为 bitwarden_rs。(https://github.com/dani-garcia/vaultwarden)
+
+最惊艳的项目：[solana-labs / solana-program-library]
+
+今天趋势项目关注的领域和特点：涵盖了区块链、数据库、工具库、IDE 插件、文本编辑器等多个领域，特点为功能强大、性能卓越、开源社区活跃。
+
+产品联系: pxxhl@qq.com
+2024-11-21 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/sharkdp/hyperfine
+https://github.com/getzola/zola
+https://github.com/astral-sh/uv
+https://github.com/influxdata/influxdb
+https://github.com/gleam-lang/gleam
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/MystenLabs/sui
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/apache/iceberg-rust
+https://github.com/loco-rs/loco
+https://github.com/epi052/feroxbuster
+https://github.com/paritytech/polkadot-sdk
+https://github.com/zed-industries/zed
+https://github.com/rust-lang/rustlings
+https://github.com/paradigmxyz/reth
+https://github.com/mxsm/rocketmq-rust
+https://github.com/trynova/nova
+https://github.com/wez/wezterm
+https://github.com/RustScan/RustScan
+https://github.com/tikv/tikv
+https://github.com/databendlabs/databend
+https://github.com/helix-editor/helix
+https://github.com/hyperium/hyper
+https://github.com/nix-rust/nix
+https://github.com/openobserve/openobserve
+scape ends
+
+ai is reading, the info is:
+1. [sharkdp / hyperfine]:A command-line benchmarking tool(https://github.com/sharkdp/hyperfine)
+2. [getzola / zola]:A fast static site generator in a single binary with everything built-in. https://www.getzola.org(https://github.com/getzola/zola)
+3. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+4. [influxdata / influxdb]:Scalable datastore for metrics, events, and real-time analytics(https://github.com/influxdata/influxdb)
+5. [gleam-lang / gleam]:⭐️ A friendly language for building type-safe, scalable systems!(https://github.com/gleam-lang/gleam)
+6. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+7. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+8. [gitbutlerapp / gitbutler]:The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte(https://github.com/gitbutlerapp/gitbutler)
+9. [apache / iceberg-rust]:Apache Iceberg(https://github.com/apache/iceberg-rust)
+10. [loco-rs / loco]:🚂 🦀 The one-person framework for Rust for side-projects and startups(https://github.com/loco-rs/loco)
+11. [epi052 / feroxbuster]:A fast, simple, recursive content discovery tool written in Rust.(https://github.com/epi052/feroxbuster)
+12. [paritytech / polkadot-sdk]:The Parity Polkadot Blockchain SDK(https://github.com/paritytech/polkadot-sdk)
+13. [zed-industries / zed]:Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.(https://github.com/zed-industries/zed)
+14. [rust-lang / rustlings]:🦀 Small exercises to get you used to reading and writing Rust code!(https://github.com/rust-lang/rustlings)
+15. [paradigmxyz / reth]:Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust(https://github.com/paradigmxyz/reth)
+16. [mxsm / rocketmq-rust]:🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.(https://github.com/mxsm/rocketmq-rust)
+17. [trynova / nova]:JS engine lolz(https://github.com/trynova/nova)
+18. [wez / wezterm]:A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust(https://github.com/wez/wezterm)
+19. [RustScan / RustScan]:🤖 The Modern Port Scanner 🤖(https://github.com/RustScan/RustScan)
+20. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+21. [databendlabs / databend]:𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com(https://github.com/databendlabs/databend)
+22. [helix-editor / helix]:A post-modern modal text editor.(https://github.com/helix-editor/helix)
+23. [hyperium / hyper]:An HTTP library for Rust(https://github.com/hyperium/hyper)
+24. [nix-rust / nix]:Rust friendly bindings to *nix APIs(https://github.com/nix-rust/nix)
+25. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+
+ai ans is:
+ 1. [sharkdp / hyperfine]:一个命令行基准测试工具（https://github.com/sharkdp/hyperfine）
+2. [getzola / zola]:一个内置所有功能的单二进制文件快速静态网站生成器。https://www.getzola.org（https://github.com/getzola/zola）
+3. [astral-sh / uv]:一个用Rust编写的极快Python包和项目管理器。（https://github.com/astral-sh/uv）
+4. [influxdata / influxdb]:用于指标、事件和实时分析的可扩展数据存储。（https://github.com/influxdata/influxdb）
+5. [gleam-lang / gleam]:⭐️一个用于构建类型安全、可扩展系统的友好语言！（https://github.com/gleam-lang/gleam）
+6. [spaceandtimelabs / sxt-proof-of-sql]:空间和时间 | SQL的证明（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+7. [MystenLabs / sui]:Sui，一个由Move编程语言提供动力的下一代智能合约平台，具有高吞吐量、低延迟和面向资产的编程模型。（https://github.com/MystenLabs/sui）
+8. [gitbutlerapp / gitbutler]:GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供动力。（https://github.com/gitbutlerapp/gitbutler）
+9. [apache / iceberg-rust]:Apache Iceberg（https://github.com/apache/iceberg-rust）
+10. [loco-rs / loco]:🚂 🦀 一个用于Rust的侧项目和企业级项目的单兵框架。（https://github.com/loco-rs/loco）
+11. [epi052 / feroxbuster]:一个用Rust编写的快速、简单、递归内容发现工具。（https://github.com/epi052/feroxbuster）
+12. [paritytech / polkadot-sdk]:Parity Polkadot区块链SDK（https://github.com/paritytech/polkadot-sdk）
+13. [zed-industries / zed]:思维速度的代码——Zed是一个由Atom和Tree-sitter的创造者开发的高性能、多人代码编辑器。（https://github.com/zed-industries/zed）
+14. [rust-lang / rustlings]:🦀 一些小练习，让你习惯于阅读和编写Rust代码！（https://github.com/rust-lang/rustlings）
+15. [paradigmxyz / reth]:模块化、贡献者友好且速度极快的以太坊协议实现，用Rust编写。（https://github.com/paradigmxyz/reth）
+16. [mxsm / rocketmq-rust]:🚀 Apache RocketMQ Rust🦀 实现。更快、更安全、内存使用更低。（https://github.com/mxsm/rocketmq-rust）
+17. [trynova / nova]:JS引擎lolz（https://github.com/trynova/nova）
+18. [wez / wezterm]:一个由@wez编写并使用Rust实现的GPU加速跨平台终端模拟器和多路复用器。（https://github.com/wez/wezterm）
+19. [RustScan / RustScan]:🤖 现代端口扫描器 🤖（https://github.com/RustScan/RustScan）
+20. [tikv / tikv]:分布式事务键值数据库，最初创建是为了补充TiDB。（https://github.com/tikv/tikv）
+21. [databendlabs / databend]:Databend，一个现代化的替代Snowflake的解决方案。成本效益高，易于大规模分析。https://databend.com（https://github.com/databendlabs/databend）
+22. [helix-editor / helix]:一个后现代模式文本编辑器。（https://github.com/helix-editor/helix）
+23. [hyperium / hyper]:一个Rust的HTTP库。（https://github.com/hyperium/hyper）
+24. [nix-rust / nix]:Rust友好的*nix API绑定。（https://github.com/nix-rust/nix）
+25. [openobserve / openobserve]:🚀 10倍更容易，🚀 140倍更低的存储成本，🚀 高性能，🚀 宇节规模——Elasticsearch/Splunk/Datadog的替代品，用于🚀（日志、指标、跟踪、RUM、错误跟踪、会话回放）。（https://github.com/openobserve/openobserve）
+
+最惊艳的项目：[MystenLabs / sui]: Sui，一个由Move编程语言提供动力的下一代智能合约平台，具有高吞吐量、低延迟和面向资产的编程模型。
+
+今天趋势项目关注的领域和特点：今天的趋势项目主要集中在开发工具、数据库、区块链技术、网络库和编程语言实现等方面，特点包括高性能、跨平台、易于使用和模块化设计。产品联系: pxxhl@qq.com
+2024-11-22 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+scrape() status_code: 200
+https://github.com/mediar-ai/screenpipe
+https://github.com/astral-sh/uv
+https://github.com/loco-rs/loco
+https://github.com/tw93/Pake
+https://github.com/cloudflare/pingora
+https://github.com/openobserve/openobserve
+https://github.com/vectordotdev/vector
+https://github.com/sxyazi/yazi
+https://github.com/qdrant/qdrant
+https://github.com/cloudflare/quiche
+https://github.com/apache/arrow-rs
+https://github.com/rustdesk/rustdesk
+https://github.com/aptos-labs/aptos-core
+https://github.com/ankitects/anki
+https://github.com/kata-containers/kata-containers
+https://github.com/BurntSushi/ripgrep
+https://github.com/actix/actix-web
+https://github.com/MystenLabs/sui
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/rolldown/rolldown
+https://github.com/eythaann/Seelen-UI
+https://github.com/Schniz/fnm
+https://github.com/tikv/tikv
+https://github.com/apache/datafusion
+scape ends
+
+ai is reading, the info is:
+1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+2. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+3. [loco-rs / loco]:🚂 🦀 The one-person framework for Rust for side-projects and startups(https://github.com/loco-rs/loco)
+4. [tw93 / Pake]:🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用(https://github.com/tw93/Pake)
+5. [cloudflare / pingora]:A library for building fast, reliable and evolvable network services.(https://github.com/cloudflare/pingora)
+6. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+7. [vectordotdev / vector]:A high-performance observability data pipeline.(https://github.com/vectordotdev/vector)
+8. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+9. [qdrant / qdrant]:Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/(https://github.com/qdrant/qdrant)
+10. [cloudflare / quiche]:🥧 Savoury implementation of the QUIC transport protocol and HTTP/3(https://github.com/cloudflare/quiche)
+11. [apache / arrow-rs]:Official Rust implementation of Apache Arrow(https://github.com/apache/arrow-rs)
+12. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+13. [aptos-labs / aptos-core]:Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.(https://github.com/aptos-labs/aptos-core)
+14. [ankitects / anki]:Anki's shared backend and web components, and the Qt frontend(https://github.com/ankitects/anki)
+15. [kata-containers / kata-containers]:Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+16. [BurntSushi / ripgrep]:ripgrep recursively searches directories for a regex pattern while respecting your gitignore(https://github.com/BurntSushi/ripgrep)
+17. [actix / actix-web]:Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.(https://github.com/actix/actix-web)
+18. [MystenLabs / sui]:Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language(https://github.com/MystenLabs/sui)
+19. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+20. [rolldown / rolldown]:Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.(https://github.com/rolldown/rolldown)
+21. [eythaann / Seelen-UI]:The Fully Customizable Desktop Environment for Windows 10/11.(https://github.com/eythaann/Seelen-UI)
+22. [Schniz / fnm]:🚀 Fast and simple Node.js version manager, built in Rust(https://github.com/Schniz/fnm)
+23. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+24. [apache / datafusion]:Apache DataFusion SQL Query Engine(https://github.com/apache/datafusion)
+
+ai ans is:
+ 1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind（https://github.com/mediar-ai/screenpipe）
+2. [astral-sh / uv]:一个用Rust编写的极快Python包和项目管理器。（https://github.com/astral-sh/uv）
+3. [loco-rs / loco]:🚂 🦀 Rust的轻量级框架，适用于个人项目和初创公司。（https://github.com/loco-rs/loco）
+4. [tw93 / Pake]:🤱🏻 用Rust将任何网页转换为桌面应用。🤱🏻 利用Rust轻松构建轻量级多端桌面应用（https://github.com/tw93/Pake）
+5. [cloudflare / pingora]:构建快速、可靠且可扩展的网络服务的库。（https://github.com/cloudflare/pingora）
+6. [openobserve / openobserve]:🚀 10倍易用，🚀 140倍降低存储成本，🚀 高性能，🚀 宇节级规模 - 用于（日志、指标、跟踪、RUM、错误跟踪、会话回放）的Elasticsearch/Splunk/Datadog替代品。（https://github.com/openobserve/openobserve）
+7. [vectordotdev / vector]:高性能的可观察性数据管道。（https://github.com/vectordotdev/vector）
+8. [sxyazi / yazi]:💥 基于异步I/O的闪电般的终端文件管理器，用Rust编写。（https://github.com/sxyazi/yazi）
+9. [qdrant / qdrant]:Qdrant - 高性能、大规模的向量数据库和向量搜索引擎，适用于下一代AI。云服务也提供支持 https://cloud.qdrant.io/（https://github.com/qdrant/qdrant）
+10. [cloudflare / quiche]:🥧 QUIC传输协议和HTTP/3的香浓实现。（https://github.com/cloudflare/quiche）
+11. [apache / arrow-rs]:Apache Arrow的官方Rust实现。（https://github.com/apache/arrow-rs）
+12. [rustdesk / rustdesk]:一个开源的远程桌面应用程序，旨在自托管，是TeamViewer的替代品。（https://github.com/rustdesk/rustdesk）
+13. [aptos-labs / aptos-core]:Aptos是一个通过更好的技术和用户体验支持区块链广泛使用的第1层区块链。（https://github.com/aptos-labs/aptos-core）
+14. [ankitects / anki]:Anki的共享后端和Web组件，以及Qt前端。（https://github.com/ankitects/anki）
+15. [kata-containers / kata-containers]:Kata Containers是一个开源项目，致力于构建轻量级虚拟机（VM）的标准实现，其感觉和性能如同容器，但提供了虚拟机的作业隔离和安全优势。（https://katacontainers.io/）（https://github.com/kata-containers/kata-containers）
+16. [BurntSushi / ripgrep]:ripgrep递归搜索目录以查找正则表达式模式，同时尊重您的gitignore。（https://github.com/BurntSushi/ripgrep）
+17. [actix / actix-web]:Actix Web是一个强大、务实且极快的Rust Web框架。（https://github.com/actix/actix-web）
+18. [MystenLabs / sui]:Sui，一个下一代智能合约平台，具有高吞吐量、低延迟，并由Move编程语言驱动的面向资产的编程模型。（https://github.com/MystenLabs/sui）
+19. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+20. [rolldown / rolldown]:Rust的快速打包器，用于JavaScript/TypeScript，具有与Rollup兼容的API。（https://github.com/rolldown/rolldown）
+21. [eythaann / Seelen-UI]:适用于Windows 10/11的完全可定制的桌面环境。（https://github.com/eythaann/Seelen-UI）
+22. [Schniz / fnm]:🚀 快速且简单的Node.js版本管理器，用Rust构建。（https://github.com/Schniz/fnm）
+23. [tikv / tikv]:分布式事务键值数据库，最初是为了补充TiDB而创建的。（https://github.com/tikv/tikv）
+24. [apache / datafusion]:Apache DataFusion SQL查询引擎。（https://github.com/apache/datafusion）
+
+最惊艳的项目：[mediar-ai / screenpipe] - 一个结合了rewind.ai和cursor.com的AI助手，提供全天候的屏幕和语音录制，为超级智能时代做准备。
+
+今天趋势项目的关注领域和特点：主要集中在AI辅助、网络服务、数据管理、性能优化和跨平台应用开发。这些项目展示了Rust在构建高性能、可靠和创新的解决方案方面的强大能力。
+
+产品联系: pxxhl@qq.com
+2024-11-23 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/delta-io/delta-rs
+https://github.com/meilisearch/meilisearch
+https://github.com/spaceandtimelabs/sxt-proof-of-sql
+https://github.com/RustScan/RustScan
+https://github.com/mediar-ai/screenpipe
+https://github.com/eythaann/Seelen-UI
+https://github.com/apache/datafusion
+https://github.com/cloudflare/pingora
+https://github.com/casey/just
+https://github.com/astral-sh/uv
+https://github.com/rustdesk/rustdesk
+https://github.com/sxyazi/yazi
+https://github.com/apache/arrow-rs
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/bottlerocket-os/bottlerocket
+https://github.com/AleoNet/snarkOS
+https://github.com/quickwit-oss/quickwit
+https://github.com/zed-industries/zed
+https://github.com/embassy-rs/embassy
+https://github.com/qarmin/czkawka
+https://github.com/lancedb/lancedb
+https://github.com/lakehq/sail
+https://github.com/vectordotdev/vector
+https://github.com/loco-rs/loco
+scape ends
+
+ai is reading, the info is:
+1. [delta-io / delta-rs]:A native Rust library for Delta Lake, with bindings into Python(https://github.com/delta-io/delta-rs)
+2. [meilisearch / meilisearch]:A lightning-fast search API that fits effortlessly into your apps, websites, and workflow(https://github.com/meilisearch/meilisearch)
+3. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | Proof of SQL(https://github.com/spaceandtimelabs/sxt-proof-of-sql)
+4. [RustScan / RustScan]:🤖 The Modern Port Scanner 🤖(https://github.com/RustScan/RustScan)
+5. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+6. [eythaann / Seelen-UI]:The Fully Customizable Desktop Environment for Windows 10/11.(https://github.com/eythaann/Seelen-UI)
+7. [apache / datafusion]:Apache DataFusion SQL Query Engine(https://github.com/apache/datafusion)
+8. [cloudflare / pingora]:A library for building fast, reliable and evolvable network services.(https://github.com/cloudflare/pingora)
+9. [casey / just]:🤖 Just a command runner(https://github.com/casey/just)
+10. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+11. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+12. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+13. [apache / arrow-rs]:Official Rust implementation of Apache Arrow(https://github.com/apache/arrow-rs)
+14. [gitbutlerapp / gitbutler]:The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte(https://github.com/gitbutlerapp/gitbutler)
+15. [bottlerocket-os / bottlerocket]:An operating system designed for hosting containers(https://github.com/bottlerocket-os/bottlerocket)
+16. [AleoNet / snarkOS]:A Decentralized Operating System for ZK Applications(https://github.com/AleoNet/snarkOS)
+17. [quickwit-oss / quickwit]:Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.(https://github.com/quickwit-oss/quickwit)
+18. [zed-industries / zed]:Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.(https://github.com/zed-industries/zed)
+19. [embassy-rs / embassy]:Modern embedded framework, using Rust and async.(https://github.com/embassy-rs/embassy)
+20. [qarmin / czkawka]:Multi functional app to find duplicates, empty folders, similar images etc.(https://github.com/qarmin/czkawka)
+21. [lancedb / lancedb]:Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!(https://github.com/lancedb/lancedb)
+22. [lakehq / sail]:LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute-intensive (AI) workloads.(https://github.com/lakehq/sail)
+23. [vectordotdev / vector]:A high-performance observability data pipeline.(https://github.com/vectordotdev/vector)
+24. [loco-rs / loco]:🚂 🦀 The one-person framework for Rust for side-projects and startups(https://github.com/loco-rs/loco)
+
+ai ans is:
+ 1. [delta-io / delta-rs]:一个针对Delta Lake的本地Rust库，具有Python绑定（https://github.com/delta-io/delta-rs）
+2. [meilisearch / meilisearch]:一个闪电般的搜索API，无缝融入您的应用程序、网站和工作流程（https://github.com/meilisearch/meilisearch）
+3. [spaceandtimelabs / sxt-proof-of-sql]:Space and Time | SQL证明（https://github.com/spaceandtimelabs/sxt-proof-of-sql）
+4. [RustScan / RustScan]:🤖 现代端口扫描器 🤖（https://github.com/RustScan/RustScan）
+5. [mediar-ai / screenpipe]:rewind.ai x cursor.com = 您的AI助手，拥有所有上下文。全天候屏幕和语音录制，为超级智能时代做准备。准备好您的数据，否则将被淘汰（https://github.com/mediar-ai/screenpipe）
+6. [eythaann / Seelen-UI]:适用于Windows 10/11的完全可定制的桌面环境。（https://github.com/eythaann/Seelen-UI）
+7. [apache / datafusion]:Apache DataFusion SQL查询引擎（https://github.com/apache/datafusion）
+8. [cloudflare / pingora]:构建快速、可靠和可扩展网络服务的库。（https://github.com/cloudflare/pingora）
+9. [casey / just]:🤖 Just命令运行器（https://github.com/casey/just）
+10. [astral-sh / uv]:一个极快的Python包和项目管理器，用Rust编写。（https://github.com/astral-sh/uv）
+11. [rustdesk / rustdesk]:一个开源的远程桌面应用程序，设计用于自托管，作为TeamViewer的替代品。（https://github.com/rustdesk/rustdesk）
+12. [sxyazi / yazi]:💥 基于异步I/O的Rust编写的闪电般的终端文件管理器。（https://github.com/sxyazi/yazi）
+13. [apache / arrow-rs]:Apache Arrow的官方Rust实现（https://github.com/apache/arrow-rs）
+14. [gitbutlerapp / gitbutler]:GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte驱动（https://github.com/gitbutlerapp/gitbutler）
+15. [bottlerocket-os / bottlerocket]:为容器设计的操作系统（https://github.com/bottlerocket-os/bottlerocket）
+16. [AleoNet / snarkOS]:为ZK应用程序设计的去中心化操作系统（https://github.com/AleoNet/snarkOS）
+17. [quickwit-oss / quickwit]:云原生搜索引擎，用于可观察性。Datadog、Elasticsearch、Loki和Tempo的开源替代品。（https://github.com/quickwit-oss/quickwit）
+18. [zed-industries / zed]:思维速度的代码 – Zed是从Atom和Tree-sitter的创造者那里来的高性能、多人代码编辑器。（https://github.com/zed-industries/zed）
+19. [embassy-rs / embassy]:使用Rust和异步的现代嵌入式框架。（https://github.com/embassy-rs/embassy）
+20. [qarmin / czkawka]:一个多功能的查找重复文件、空文件夹、相似图像等的程序。（https://github.com/qarmin/czkawka）
+21. [lancedb / lancedb]:面向AI应用程序的开发者友好型、无服务器向量数据库。轻松为您的LLM应用程序添加长期记忆！（https://github.com/lancedb/lancedb）
+22. [lakehq / sail]:LakeSail的计算框架，旨在统一流处理、批量处理和计算密集型（AI）工作负载。（https://github.com/lakehq/sail）
+23. [vectordotdev / vector]:高性能的可观察性数据管道。（https://github.com/vectordotdev/vector）
+24. [loco-rs / loco]:🚂 🦀 Rust的一个人框架，适用于侧项目和初创公司（https://github.com/loco-rs/loco）
+
+惊艳项目推荐：[mediar-ai / screenpipe] - rewind.ai x cursor.com = 您的AI助手，拥有所有上下文。全天候屏幕和语音录制，为超级智能时代做准备。
+
+今天趋势项目关注的领域和特点：数据存储与处理、网络服务、AI应用、代码编辑器、版本控制、操作系统、搜索技术、嵌入式开发等。项目特点包括高性能、开源、跨平台、易用性、创新技术等。
+
+产品联系: pxxhl@qq.com
+2024-11-24 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/mediar-ai/screenpipe
+https://github.com/rust-lang/rustlings
+https://github.com/apache/datafusion
+https://github.com/LGUG2Z/komorebi
+https://github.com/loco-rs/loco
+https://github.com/meilisearch/meilisearch
+https://github.com/microsoft/windows-rs
+https://github.com/solana-labs/solana-program-library
+https://github.com/tw93/Pake
+https://github.com/rustdesk/rustdesk
+https://github.com/sxyazi/yazi
+https://github.com/solana-labs/solana
+https://github.com/rust-unofficial/awesome-rust
+https://github.com/quickwit-oss/tantivy
+https://github.com/web-infra-dev/rspack
+https://github.com/astral-sh/ruff
+https://github.com/TabbyML/tabby
+https://github.com/paradigmxyz/reth
+https://github.com/rolldown/rolldown
+https://github.com/openobserve/openobserve
+https://github.com/quickwit-oss/quickwit
+https://github.com/vectordotdev/vector
+https://github.com/ratatui/ratatui
+https://github.com/bevyengine/bevy
+https://github.com/delta-io/delta-rs
+scape ends
+
+ai is reading, the info is:
+1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+2. [rust-lang / rustlings]:🦀 Small exercises to get you used to reading and writing Rust code!(https://github.com/rust-lang/rustlings)
+3. [apache / datafusion]:Apache DataFusion SQL Query Engine(https://github.com/apache/datafusion)
+4. [LGUG2Z / komorebi]:A tiling window manager for Windows 🍉(https://github.com/LGUG2Z/komorebi)
+5. [loco-rs / loco]:🚂 🦀 The one-person framework for Rust for side-projects and startups(https://github.com/loco-rs/loco)
+6. [meilisearch / meilisearch]:A lightning-fast search API that fits effortlessly into your apps, websites, and workflow(https://github.com/meilisearch/meilisearch)
+7. [microsoft / windows-rs]:Rust for Windows(https://github.com/microsoft/windows-rs)
+8. [solana-labs / solana-program-library]:A collection of Solana programs maintained by Solana Labs(https://github.com/solana-labs/solana-program-library)
+9. [tw93 / Pake]:🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用(https://github.com/tw93/Pake)
+10. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+11. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+12. [solana-labs / solana]:Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.(https://github.com/solana-labs/solana)
+13. [rust-unofficial / awesome-rust]:A curated list of Rust code and resources.(https://github.com/rust-unofficial/awesome-rust)
+14. [quickwit-oss / tantivy]:Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust(https://github.com/quickwit-oss/tantivy)
+15. [web-infra-dev / rspack]:The fast Rust-based web bundler with webpack-compatible API 🦀️(https://github.com/web-infra-dev/rspack)
+16. [astral-sh / ruff]:An extremely fast Python linter and code formatter, written in Rust.(https://github.com/astral-sh/ruff)
+17. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+18. [paradigmxyz / reth]:Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust(https://github.com/paradigmxyz/reth)
+19. [rolldown / rolldown]:Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.(https://github.com/rolldown/rolldown)
+20. [openobserve / openobserve]:🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).(https://github.com/openobserve/openobserve)
+21. [quickwit-oss / quickwit]:Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.(https://github.com/quickwit-oss/quickwit)
+22. [vectordotdev / vector]:A high-performance observability data pipeline.(https://github.com/vectordotdev/vector)
+23. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+24. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+25. [delta-io / delta-rs]:A native Rust library for Delta Lake, with bindings into Python(https://github.com/delta-io/delta-rs)
+
+ai ans is:
+ 1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = 你的AI助手，拥有所有上下文。为超级智能时代提供24/7屏幕和语音录制。准备好你的数据，否则就会被淘汰。(https://github.com/mediar-ai/screenpipe)
+2. [rust-lang / rustlings]:🦀 小练习，让你熟悉阅读和编写Rust代码！(https://github.com/rust-lang/rustlings)
+3. [apache / datafusion]:Apache DataFusion SQL查询引擎(https://github.com/apache/datafusion)
+4. [LGUG2Z / komorebi]:Windows上的拼贴窗口管理器 🍉(https://github.com/LGUG2Z/komorebi)
+5. [loco-rs / loco]:🚂 🦀 Rust的个人框架，适用于侧项目和初创公司(https://github.com/loco-rs/loco)
+6. [meilisearch / meilisearch]:一个闪电般的搜索API，无缝集成到你的应用程序、网站和工作流程中(https://github.com/meilisearch/meilisearch)
+7. [microsoft / windows-rs]:Rust for Windows(https://github.com/microsoft/windows-rs)
+8. [solana-labs / solana-program-library]:Solana Labs维护的Solana程序集合(https://github.com/solana-labs/solana-program-library)
+9. [tw93 / Pake]:🤱🏻 使用Rust将任何网页转换为桌面应用。🤱🏻 利用Rust轻松构建轻量级多端桌面应用(https://github.com/tw93/Pake)
+10. [rustdesk / rustdesk]:一个开源的远程桌面应用程序，专为自托管设计，是TeamViewer的替代品。(https://github.com/rustdesk/rustdesk)
+11. [sxyazi / yazi]:💥 基于异步I/O的闪电般快速的终端文件管理器，用Rust编写。(https://github.com/sxyazi/yazi)
+12. [solana-labs / solana]:适用于快速、安全、可扩展、去中心化应用程序和市场的Web规模区块链。(https://github.com/solana-labs/solana)
+13. [rust-unofficial / awesome-rust]:Rust代码和资源的精选列表。(https://github.com/rust-unofficial/awesome-rust)
+14. [quickwit-oss / tantivy]:受Apache Lucene启发的全文本搜索引擎库，用Rust编写(https://github.com/quickwit-oss/tantivy)
+15. [web-infra-dev / rspack]:快速基于Rust的Web打包器，具有webpack兼容API 🦀️(https://github.com/web-infra-dev/rspack)
+16. [astral-sh / ruff]:一个极快的Python代码检查器和代码格式化工具，用Rust编写。(https://github.com/astral-sh/ruff)
+17. [TabbyML / tabby]:自托管的AI代码助手(https://github.com/TabbyML/tabby)
+18. [paradigmxyz / reth]:模块化、贡献友好且速度极快的Ethereum协议实现，用Rust编写(https://github.com/paradigmxyz/reth)
+19. [rolldown / rolldown]:快速Rust打包器，具有Rollup兼容API，用于JavaScript/TypeScript。(https://github.com/rolldown/rolldown)
+20. [openobserve / openobserve]:🚀 10倍更容易，🚀 140倍更低的存储成本，🚀 高性能，🚀 容量级——Elasticsearch/Splunk/Datadog的替代品，用于🚀（日志、指标、跟踪、RUM、错误跟踪、会话回放）。(https://github.com/openobserve/openobserve)
+21. [quickwit-oss / quickwit]:用于可观测性的云原生搜索引擎。Datadog、Elasticsearch、Loki和Tempo的开源替代品。(https://github.com/quickwit-oss/quickwit)
+22. [vectordotdev / vector]:高性能的可观测性数据管道。(https://github.com/vectordotdev/vector)
+23. [ratatui / ratatui]:用于制作终端用户界面（TUI）的Rust包 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+24. [bevyengine / bevy]:一个令人耳目一新的简单数据驱动游戏引擎，用Rust编写(https://github.com/bevyengine/bevy)
+25. [delta-io / delta-rs]:用于Delta Lake的本地Rust库，具有Python绑定(https://github.com/delta-io/delta-rs)
+
+最惊艳项目：[mediar-ai / screenpipe]——rewind.ai x cursor.com = 你的AI助手，拥有所有上下文。为超级智能时代提供24/7屏幕和语音录制。
+
+今日趋势项目关注的领域和特点：今日趋势项目集中在AI辅助、数据管理、游戏开发、可观测性工具和Web打包器等方面，特点为技术创新和性能优化。
+
+产品联系: pxxhl@qq.com
+2024-11-25 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/surrealdb/surrealdb
+https://github.com/mediar-ai/screenpipe
+https://github.com/Snowiiii/Pumpkin
+https://github.com/rust-lang/rust
+https://github.com/meilisearch/meilisearch
+https://github.com/GitoxideLabs/gitoxide
+https://github.com/tauri-apps/wry
+https://github.com/sxyazi/yazi
+https://github.com/gleam-lang/gleam
+https://github.com/rust-lang/book
+https://github.com/tokio-rs/axum
+https://github.com/ratatui/ratatui
+https://github.com/yobix-ai/extractous
+https://github.com/hyperium/tonic
+https://github.com/influxdata/influxdb
+https://github.com/gfx-rs/wgpu
+https://github.com/Orange-OpenSource/hurl
+https://github.com/bevyengine/bevy
+https://github.com/qarmin/czkawka
+https://github.com/tikv/tikv
+https://github.com/dani-garcia/vaultwarden
+https://github.com/LGUG2Z/komorebi
+scape ends
+
+ai is reading, the info is:
+1. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+2. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+3. [Snowiiii / Pumpkin]:Empowering everyone to host fast and efficient Minecraft servers.(https://github.com/Snowiiii/Pumpkin)
+4. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+5. [meilisearch / meilisearch]:A lightning-fast search API that fits effortlessly into your apps, websites, and workflow(https://github.com/meilisearch/meilisearch)
+6. [GitoxideLabs / gitoxide]:An idiomatic, lean, fast & safe pure Rust implementation of Git(https://github.com/GitoxideLabs/gitoxide)
+7. [tauri-apps / wry]:Cross-platform WebView library in Rust for Tauri.(https://github.com/tauri-apps/wry)
+8. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+9. [gleam-lang / gleam]:⭐️ A friendly language for building type-safe, scalable systems!(https://github.com/gleam-lang/gleam)
+10. [rust-lang / book]:The Rust Programming Language(https://github.com/rust-lang/book)
+11. [tokio-rs / axum]:Ergonomic and modular web framework built with Tokio, Tower, and Hyper(https://github.com/tokio-rs/axum)
+12. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+13. [yobix-ai / extractous]:Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.(https://github.com/yobix-ai/extractous)
+14. [hyperium / tonic]:A native gRPC client & server implementation with async/await support.(https://github.com/hyperium/tonic)
+15. [influxdata / influxdb]:Scalable datastore for metrics, events, and real-time analytics(https://github.com/influxdata/influxdb)
+16. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+17. [Orange-OpenSource / hurl]:Hurl, run and test HTTP requests with plain text.(https://github.com/Orange-OpenSource/hurl)
+18. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+19. [qarmin / czkawka]:Multi functional app to find duplicates, empty folders, similar images etc.(https://github.com/qarmin/czkawka)
+20. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+21. [dani-garcia / vaultwarden]:Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs(https://github.com/dani-garcia/vaultwarden)
+22. [LGUG2Z / komorebi]:A tiling window manager for Windows 🍉(https://github.com/LGUG2Z/komorebi)
+
+ai ans is:
+ 1. [surrealdb / surrealdb]:一个可扩展、分布式、协作的文档图数据库，适用于实时网络（https://github.com/surrealdb/surrealdb）
+2. [mediar-ai / screenpipe]:rewind.ai x cursor.com = 你的AI助手，拥有所有上下文。全天候屏幕与语音录制，为超级智能时代做准备。让你的数据准备好，否则就会被淘汰（https://github.com/mediar-ai/screenpipe）
+3. [Snowiiii / Pumpkin]:赋予每个人快速高效地托管Minecraft服务器的能力。（https://github.com/Snowiiii/Pumpkin）
+4. [rust-lang / rust]:赋予每个人构建可靠和高效软件的能力。（https://github.com/rust-lang/rust）
+5. [meilisearch / meilisearch]:一个闪电般的搜索API，无缝融入你的应用、网站和工作流程。（https://github.com/meilisearch/meilisearch）
+6. [GitoxideLabs / gitoxide]:一个符合Rust风格的、精简的、快速且安全的纯Rust Git实现。（https://github.com/GitoxideLabs/gitoxide）
+7. [tauri-apps / wry]:Tauri的跨平台WebView库。（https://github.com/tauri-apps/wry）
+8. [sxyazi / yazi]:💥 使用异步I/O编写的闪电般的终端文件管理器，用Rust编写。（https://github.com/sxyazi/yazi）
+9. [gleam-lang / gleam]:⭐️ 一个用于构建类型安全、可扩展系统的友好语言！（https://github.com/gleam-lang/gleam）
+10. [rust-lang / book]:《Rust编程语言》（https://github.com/rust-lang/book）
+11. [tokio-rs / axum]:使用Tokio、Tower和Hyper构建的易于使用且模块化的Web框架。（https://github.com/tokio-rs/axum）
+12. [ratatui / ratatui]:一个用于制作终端用户界面（TUIs）的Rust crate 👨‍🍳🐀 https://ratatui.rs（https://github.com/ratatui/ratatui）
+13. [yobix-ai / extractous]:快速高效的无结构数据提取。用Rust编写，并为许多语言提供绑定。（https://github.com/yobix-ai/extractous）
+14. [hyperium / tonic]:支持async/await的原生gRPC客户端和服务器实现。（https://github.com/hyperium/tonic）
+15. [influxdata / influxdb]:可扩展的数据存储，用于指标、事件和实时分析。（https://github.com/influxdata/influxdb）
+16. [gfx-rs / wgpu]:一个跨平台、安全、纯Rust的图形API。（https://github.com/gfx-rs/wgpu）
+17. [Orange-OpenSource / hurl]:Hurl，用纯文本运行和测试HTTP请求。（https://github.com/Orange-OpenSource/hurl）
+18. [bevyengine / bevy]:一个简单、基于数据的游戏引擎，用Rust编写。（https://github.com/bevyengine/bevy）
+19. [qarmin / czkawka]:一个多功能的程序，用于查找重复文件、空文件夹、相似图像等。（https://github.com/qarmin/czkawka）
+20. [tikv / tikv]:分布式事务键值数据库，最初是为了与TiDB配合创建的。（https://github.com/tikv/tikv）
+21. [dani-garcia / vaultwarden]:非官方的Bitwarden兼容服务器，用Rust编写，之前被称为bitwarden_rs。（https://github.com/dani-garcia/vaultwarden）
+22. [LGUG2Z / komorebi]:一个Windows的平铺窗口管理器 🍉（https://github.com/LGUG2Z/komorebi）
+
+最惊艳的项目：[mediar-ai / screenpipe] - 一个拥有所有上下文的AI助手，提供全天候屏幕与语音录制，为超级智能时代的数据准备。
+
+今日趋势项目关注的领域和特点：项目主要关注实时网络、AI助手、游戏服务器、Rust编程语言、搜索API、图形API、Web框架、数据存储和游戏引擎等领域。特点包括可扩展性、性能、跨平台支持和Rust语言的运用。产品联系: pxxhl@qq.com
+2024-11-26 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/mediar-ai/screenpipe
+https://github.com/surrealdb/surrealdb
+https://github.com/ratatui/ratatui
+https://github.com/foundry-rs/foundry
+https://github.com/rust-lang/rust
+https://github.com/bevyengine/bevy
+https://github.com/mainmatter/100-exercises-to-learn-rust
+https://github.com/eza-community/eza
+https://github.com/awslabs/aws-lambda-web-adapter
+https://github.com/tokio-rs/mio
+https://github.com/juspay/hyperswitch
+https://github.com/TabbyML/tabby
+https://github.com/ajeetdsouza/zoxide
+https://github.com/shadowsocks/shadowsocks-rust
+https://github.com/libp2p/rust-libp2p
+https://github.com/qarmin/czkawka
+https://github.com/tikv/tikv
+https://github.com/trumank/repak
+https://github.com/TeamFlos/phira
+https://github.com/DioxusLabs/dioxus
+https://github.com/LGUG2Z/komorebi
+https://github.com/rust-unofficial/awesome-rust
+https://github.com/gfx-rs/wgpu
+scape ends
+
+ai is reading, the info is:
+1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+2. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+3. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+4. [foundry-rs / foundry]:Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.(https://github.com/foundry-rs/foundry)
+5. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+6. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+7. [mainmatter / 100-exercises-to-learn-rust]:A self-paced course to learn Rust, one exercise at a time.(https://github.com/mainmatter/100-exercises-to-learn-rust)
+8. [eza-community / eza]:A modern alternative to ls(https://github.com/eza-community/eza)
+9. [awslabs / aws-lambda-web-adapter]:Run web applications on AWS Lambda(https://github.com/awslabs/aws-lambda-web-adapter)
+10. [tokio-rs / mio]:Metal I/O library for Rust.(https://github.com/tokio-rs/mio)
+11. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+12. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+13. [ajeetdsouza / zoxide]:A smarter cd command. Supports all major shells.(https://github.com/ajeetdsouza/zoxide)
+14. [shadowsocks / shadowsocks-rust]:A Rust port of shadowsocks(https://github.com/shadowsocks/shadowsocks-rust)
+15. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+16. [qarmin / czkawka]:Multi functional app to find duplicates, empty folders, similar images etc.(https://github.com/qarmin/czkawka)
+17. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+18. [trumank / repak]:Unreal Engine .pak file library and CLI in rust(https://github.com/trumank/repak)
+19. [TeamFlos / phira]:(https://github.com/TeamFlos/phira)
+20. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+21. [LGUG2Z / komorebi]:A tiling window manager for Windows 🍉(https://github.com/LGUG2Z/komorebi)
+22. [rust-unofficial / awesome-rust]:A curated list of Rust code and resources.(https://github.com/rust-unofficial/awesome-rust)
+23. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+
+when ai analyze, Error code: 400, with error text {"contentFilter":[{"level":1,"role":"user"}],"error":{"code":"1301","message":"系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 2 failed with error: write() argument must be str, not None
+try at 2 to get trends~
+scrape() status_code: 200
+https://github.com/mediar-ai/screenpipe
+https://github.com/surrealdb/surrealdb
+https://github.com/ratatui/ratatui
+https://github.com/foundry-rs/foundry
+https://github.com/rust-lang/rust
+https://github.com/bevyengine/bevy
+https://github.com/mainmatter/100-exercises-to-learn-rust
+https://github.com/eza-community/eza
+https://github.com/awslabs/aws-lambda-web-adapter
+https://github.com/tokio-rs/mio
+https://github.com/juspay/hyperswitch
+https://github.com/TabbyML/tabby
+https://github.com/ajeetdsouza/zoxide
+https://github.com/shadowsocks/shadowsocks-rust
+https://github.com/libp2p/rust-libp2p
+https://github.com/qarmin/czkawka
+https://github.com/tikv/tikv
+https://github.com/trumank/repak
+https://github.com/TeamFlos/phira
+https://github.com/DioxusLabs/dioxus
+https://github.com/LGUG2Z/komorebi
+https://github.com/rust-unofficial/awesome-rust
+https://github.com/gfx-rs/wgpu
+scape ends
+
+ai is reading, the info is:
+1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+2. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+3. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+4. [foundry-rs / foundry]:Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.(https://github.com/foundry-rs/foundry)
+5. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+6. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+7. [mainmatter / 100-exercises-to-learn-rust]:A self-paced course to learn Rust, one exercise at a time.(https://github.com/mainmatter/100-exercises-to-learn-rust)
+8. [eza-community / eza]:A modern alternative to ls(https://github.com/eza-community/eza)
+9. [awslabs / aws-lambda-web-adapter]:Run web applications on AWS Lambda(https://github.com/awslabs/aws-lambda-web-adapter)
+10. [tokio-rs / mio]:Metal I/O library for Rust.(https://github.com/tokio-rs/mio)
+11. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+12. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+13. [ajeetdsouza / zoxide]:A smarter cd command. Supports all major shells.(https://github.com/ajeetdsouza/zoxide)
+14. [shadowsocks / shadowsocks-rust]:A Rust port of shadowsocks(https://github.com/shadowsocks/shadowsocks-rust)
+15. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+16. [qarmin / czkawka]:Multi functional app to find duplicates, empty folders, similar images etc.(https://github.com/qarmin/czkawka)
+17. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+18. [trumank / repak]:Unreal Engine .pak file library and CLI in rust(https://github.com/trumank/repak)
+19. [TeamFlos / phira]:(https://github.com/TeamFlos/phira)
+20. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+21. [LGUG2Z / komorebi]:A tiling window manager for Windows 🍉(https://github.com/LGUG2Z/komorebi)
+22. [rust-unofficial / awesome-rust]:A curated list of Rust code and resources.(https://github.com/rust-unofficial/awesome-rust)
+23. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+
+when ai analyze, Error code: 400, with error text {"contentFilter":[{"level":1,"role":"user"}],"error":{"code":"1301","message":"系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。"}} occurs...
+ai ans is:
+ None
+Attempt 3 failed with error: write() argument must be str, not None
+try at 3 to get trends~
+scrape() status_code: 200
+https://github.com/mediar-ai/screenpipe
+https://github.com/surrealdb/surrealdb
+https://github.com/ratatui/ratatui
+https://github.com/foundry-rs/foundry
+https://github.com/rust-lang/rust
+https://github.com/bevyengine/bevy
+https://github.com/mainmatter/100-exercises-to-learn-rust
+https://github.com/eza-community/eza
+https://github.com/awslabs/aws-lambda-web-adapter
+https://github.com/tokio-rs/mio
+https://github.com/juspay/hyperswitch
+https://github.com/TabbyML/tabby
+https://github.com/ajeetdsouza/zoxide
+https://github.com/shadowsocks/shadowsocks-rust
+https://github.com/libp2p/rust-libp2p
+https://github.com/qarmin/czkawka
+https://github.com/tikv/tikv
+https://github.com/trumank/repak
+https://github.com/TeamFlos/phira
+https://github.com/DioxusLabs/dioxus
+https://github.com/LGUG2Z/komorebi
+https://github.com/rust-unofficial/awesome-rust
+https://github.com/gfx-rs/wgpu
+scape ends
+
+ai is reading, the info is:
+1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+2. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+3. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+4. [foundry-rs / foundry]:Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.(https://github.com/foundry-rs/foundry)
+5. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+6. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+7. [mainmatter / 100-exercises-to-learn-rust]:A self-paced course to learn Rust, one exercise at a time.(https://github.com/mainmatter/100-exercises-to-learn-rust)
+8. [eza-community / eza]:A modern alternative to ls(https://github.com/eza-community/eza)
+9. [awslabs / aws-lambda-web-adapter]:Run web applications on AWS Lambda(https://github.com/awslabs/aws-lambda-web-adapter)
+10. [tokio-rs / mio]:Metal I/O library for Rust.(https://github.com/tokio-rs/mio)
+11. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+12. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+13. [ajeetdsouza / zoxide]:A smarter cd command. Supports all major shells.(https://github.com/ajeetdsouza/zoxide)
+14. [shadowsocks / shadowsocks-rust]:A Rust port of shadowsocks(https://github.com/shadowsocks/shadowsocks-rust)
+15. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+16. [qarmin / czkawka]:Multi functional app to find duplicates, empty folders, similar images etc.(https://github.com/qarmin/czkawka)
+17. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+18. [trumank / repak]:Unreal Engine .pak file library and CLI in rust(https://github.com/trumank/repak)
+19. [TeamFlos / phira]:(https://github.com/TeamFlos/phira)
+20. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+21. [LGUG2Z / komorebi]:A tiling window manager for Windows 🍉(https://github.com/LGUG2Z/komorebi)
+22. [rust-unofficial / awesome-rust]:A curated list of Rust code and resources.(https://github.com/rust-unofficial/awesome-rust)
+23. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+
+when ai analyze, Error code: 400, with error text {"contentFilter":[{"level":1,"role":"user"}],"error":{"code":"1301","message":"系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。"}} occurs...
+ai ans is:
+ None
+Attempt 4 failed with error: write() argument must be str, not None
+try at 4 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 5 failed with error: write() argument must be str, not None
+try at 5 to get trends~
+scrape() status_code: 200
+https://github.com/mediar-ai/screenpipe
+https://github.com/surrealdb/surrealdb
+https://github.com/ratatui/ratatui
+https://github.com/foundry-rs/foundry
+https://github.com/rust-lang/rust
+https://github.com/bevyengine/bevy
+https://github.com/mainmatter/100-exercises-to-learn-rust
+https://github.com/eza-community/eza
+https://github.com/awslabs/aws-lambda-web-adapter
+https://github.com/tokio-rs/mio
+https://github.com/juspay/hyperswitch
+https://github.com/TabbyML/tabby
+https://github.com/ajeetdsouza/zoxide
+https://github.com/shadowsocks/shadowsocks-rust
+https://github.com/libp2p/rust-libp2p
+https://github.com/qarmin/czkawka
+https://github.com/tikv/tikv
+https://github.com/trumank/repak
+https://github.com/TeamFlos/phira
+https://github.com/DioxusLabs/dioxus
+https://github.com/LGUG2Z/komorebi
+https://github.com/rust-unofficial/awesome-rust
+https://github.com/gfx-rs/wgpu
+scape ends
+
+ai is reading, the info is:
+1. [mediar-ai / screenpipe]:rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind(https://github.com/mediar-ai/screenpipe)
+2. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+3. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+4. [foundry-rs / foundry]:Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.(https://github.com/foundry-rs/foundry)
+5. [rust-lang / rust]:Empowering everyone to build reliable and efficient software.(https://github.com/rust-lang/rust)
+6. [bevyengine / bevy]:A refreshingly simple data-driven game engine built in Rust(https://github.com/bevyengine/bevy)
+7. [mainmatter / 100-exercises-to-learn-rust]:A self-paced course to learn Rust, one exercise at a time.(https://github.com/mainmatter/100-exercises-to-learn-rust)
+8. [eza-community / eza]:A modern alternative to ls(https://github.com/eza-community/eza)
+9. [awslabs / aws-lambda-web-adapter]:Run web applications on AWS Lambda(https://github.com/awslabs/aws-lambda-web-adapter)
+10. [tokio-rs / mio]:Metal I/O library for Rust.(https://github.com/tokio-rs/mio)
+11. [juspay / hyperswitch]:An open source payments switch written in Rust to make payments fast, reliable and affordable(https://github.com/juspay/hyperswitch)
+12. [TabbyML / tabby]:Self-hosted AI coding assistant(https://github.com/TabbyML/tabby)
+13. [ajeetdsouza / zoxide]:A smarter cd command. Supports all major shells.(https://github.com/ajeetdsouza/zoxide)
+14. [shadowsocks / shadowsocks-rust]:A Rust port of shadowsocks(https://github.com/shadowsocks/shadowsocks-rust)
+15. [libp2p / rust-libp2p]:The Rust Implementation of the libp2p networking stack.(https://github.com/libp2p/rust-libp2p)
+16. [qarmin / czkawka]:Multi functional app to find duplicates, empty folders, similar images etc.(https://github.com/qarmin/czkawka)
+17. [tikv / tikv]:Distributed transactional key-value database, originally created to complement TiDB(https://github.com/tikv/tikv)
+18. [trumank / repak]:Unreal Engine .pak file library and CLI in rust(https://github.com/trumank/repak)
+19. [TeamFlos / phira]:(https://github.com/TeamFlos/phira)
+20. [DioxusLabs / dioxus]:Fullstack app framework for web, desktop, mobile, and more.(https://github.com/DioxusLabs/dioxus)
+21. [LGUG2Z / komorebi]:A tiling window manager for Windows 🍉(https://github.com/LGUG2Z/komorebi)
+22. [rust-unofficial / awesome-rust]:A curated list of Rust code and resources.(https://github.com/rust-unofficial/awesome-rust)
+23. [gfx-rs / wgpu]:A cross-platform, safe, pure-Rust graphics API.(https://github.com/gfx-rs/wgpu)
+
+when ai analyze, Error code: 400, with error text {"contentFilter":[{"level":1,"role":"user"}],"error":{"code":"1301","message":"系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。"}} occurs...
+ai ans is:
+ None
+Attempt 6 failed with error: write() argument must be str, not None
+All attempts to scrape data have failed. occured in daily_task
+2024-11-27 start the job...
+try at 0 to get trends~
+when scrape HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10) occurs
+scape ends
+
+ai is reading, the info is:
+
+when ai analyze, Error code: 400, with error text {"error":{"code":"1213","message":"未正常接收到prompt参数。"}} occurs...
+ai ans is:
+ None
+Attempt 1 failed with error: write() argument must be str, not None
+try at 1 to get trends~
+scrape() status_code: 200
+https://github.com/surrealdb/surrealdb
+https://github.com/sxyazi/yazi
+https://github.com/qdrant/qdrant
+https://github.com/mainmatter/100-exercises-to-learn-rust
+https://github.com/jdx/mise
+https://github.com/ratatui/ratatui
+https://github.com/tokio-rs/mio
+https://github.com/kata-containers/kata-containers
+https://github.com/tree-sitter/tree-sitter
+https://github.com/trumank/repak
+https://github.com/apache/datafusion
+https://github.com/cube-js/cube
+https://github.com/wasmerio/wasmer
+https://github.com/ajeetdsouza/zoxide
+https://github.com/awslabs/aws-lambda-web-adapter
+https://github.com/sigp/lighthouse
+https://github.com/raphamorim/rio
+https://github.com/rustdesk/rustdesk-server
+https://github.com/GitoxideLabs/gitoxide
+https://github.com/iced-rs/iced
+https://github.com/clap-rs/clap
+scape ends
+
+ai is reading, the info is:
+1. [surrealdb / surrealdb]:A scalable, distributed, collaborative, document-graph database, for the realtime web(https://github.com/surrealdb/surrealdb)
+2. [sxyazi / yazi]:💥 Blazing fast terminal file manager written in Rust, based on async I/O.(https://github.com/sxyazi/yazi)
+3. [qdrant / qdrant]:Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/(https://github.com/qdrant/qdrant)
+4. [mainmatter / 100-exercises-to-learn-rust]:A self-paced course to learn Rust, one exercise at a time.(https://github.com/mainmatter/100-exercises-to-learn-rust)
+5. [jdx / mise]:dev tools, env vars, task runner(https://github.com/jdx/mise)
+6. [ratatui / ratatui]:A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs(https://github.com/ratatui/ratatui)
+7. [tokio-rs / mio]:Metal I/O library for Rust.(https://github.com/tokio-rs/mio)
+8. [kata-containers / kata-containers]:Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+9. [tree-sitter / tree-sitter]:An incremental parsing system for programming tools(https://github.com/tree-sitter/tree-sitter)
+10. [trumank / repak]:Unreal Engine .pak file library and CLI in rust(https://github.com/trumank/repak)
+11. [apache / datafusion]:Apache DataFusion SQL Query Engine(https://github.com/apache/datafusion)
+12. [cube-js / cube]:📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics(https://github.com/cube-js/cube)
+13. [wasmerio / wasmer]:🚀 The leading Wasm Runtime supporting WASIX and WASI(https://github.com/wasmerio/wasmer)
+14. [ajeetdsouza / zoxide]:A smarter cd command. Supports all major shells.(https://github.com/ajeetdsouza/zoxide)
+15. [awslabs / aws-lambda-web-adapter]:Run web applications on AWS Lambda(https://github.com/awslabs/aws-lambda-web-adapter)
+16. [sigp / lighthouse]:Ethereum consensus client in Rust(https://github.com/sigp/lighthouse)
+17. [raphamorim / rio]:A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.(https://github.com/raphamorim/rio)
+18. [rustdesk / rustdesk-server]:RustDesk Server Program(https://github.com/rustdesk/rustdesk-server)
+19. [GitoxideLabs / gitoxide]:An idiomatic, lean, fast & safe pure Rust implementation of Git(https://github.com/GitoxideLabs/gitoxide)
+20. [iced-rs / iced]:A cross-platform GUI library for Rust, inspired by Elm(https://github.com/iced-rs/iced)
+21. [clap-rs / clap]:A full featured, fast Command Line Argument Parser for Rust(https://github.com/clap-rs/clap)
+
+ai ans is:
+ 1. [surrealdb / surrealdb]:可扩展、分布式、协作式、文档图数据库，适用于实时网络（https://github.com/surrealdb/surrealdb）
+2. [sxyazi / yazi]:💥 使用 Rust 编写的闪电般的终端文件管理器，基于异步 I/O。（https://github.com/sxyazi/yazi）
+3. [qdrant / qdrant]:Qdrant - 高性能、大规模向量数据库和向量搜索引擎，适用于下一代 AI。同时也在云端可用 https://cloud.qdrant.io/（https://github.com/qdrant/qdrant）
+4. [mainmatter / 100-exercises-to-learn-rust]:通过一次练习学习 Rust 的自学课程。（https://github.com/mainmatter/100-exercises-to-learn-rust）
+5. [jdx / mise]:开发工具、环境变量、任务运行器（https://github.com/jdx/mise）
+6. [ratatui / ratatui]:Rust 的 crate，用于制作终端用户界面 (TUI) 👨‍🍳🐀 https://ratatui.rs（https://github.com/ratatui/ratatui）
+7. [tokio-rs / mio]:Rust 的金属 I/O 库。（https://github.com/tokio-rs/mio）
+8. [kata-containers / kata-containers]:Kata Containers 是一个开源项目和社区，致力于构建标准轻量级虚拟机 (VM) 的实现，它们感觉和性能就像容器一样，但提供了 VM 的作业隔离和安全优势。https://katacontainers.io/（https://github.com/kata-containers/kata-containers）
+9. [tree-sitter / tree-sitter]:编程工具的增量解析系统。（https://github.com/tree-sitter/tree-sitter）
+10. [trumank / repak]:Unreal Engine .pak 文件库和 CLI，用 Rust 实现。（https://github.com/trumank/repak）
+11. [apache / datafusion]:Apache DataFusion SQL 查询引擎。（https://github.com/apache/datafusion）
+12. [cube-js / cube]:📊 Cube — 适用于 AI、BI、电子表格和嵌入式分析的通用语义层平台。（https://github.com/cube-js/cube）
+13. [wasmerio / wasmer]:🚀 支持 WASIX 和 WASI 的领先 Wasm 运行时。（https://github.com/wasmerio/wasmer）
+14. [ajeetdsouza / zoxide]:一个更智能的 cd 命令。支持所有主要 Shell。（https://github.com/ajeetdsouza/zoxide）
+15. [awslabs / aws-lambda-web-adapter]:在 AWS Lambda 上运行 Web 应用程序。（https://github.com/awslabs/aws-lambda-web-adapter）
+16. [sigp / lighthouse]:Rust 编写的 Ethereum 共识客户端。（https://github.com/sigp/lighthouse）
+17. [raphamorim / rio]:一个专注于在桌面和浏览器中运行的硬件加速 GPU 终端模拟器。（https://github.com/raphamorim/rio）
+18. [rustdesk / rustdesk-server]:RustDesk 服务器程序。（https://github.com/rustdesk/rustdesk-server）
+19. [GitoxideLabs / gitoxide]:Git 的纯 Rust 实现的轻量级、快速、安全且符合 Rust 风格的库。（https://github.com/GitoxideLabs/gitoxide）
+20. [iced-rs / iced]:受 Elm 启发的跨平台 GUI 库，用于 Rust。（https://github.com/iced-rs/iced）
+21. [clap-rs / clap]:Rust 的全功能、快速命令行参数解析器。（https://github.com/clap-rs/clap）
+
+最惊艳的项目：[qdrant / qdrant](https://github.com/qdrant/qdrant) - Qdrant 是一个高性能、大规模的向量数据库和搜索引擎，适用于下一代 AI。
+
+今日趋势项目关注的领域和特点：
+- 分布式数据库和搜索引擎
+- Rust 编写的终端工具和文件管理器
+- 轻量级虚拟机（VM）和容器技术
+- Wasm 运行时和跨平台 GUI 库
+- 语义层平台和数据分析工具
+
+产品联系: pxxhl@qq.com
+2024-11-28 start the job...
+try at 0 to get trends~
+scrape() status_code: 200
+https://github.com/rustdesk/rustdesk
+https://github.com/astral-sh/ruff
+https://github.com/kata-containers/kata-containers
+https://github.com/cube-js/cube
+https://github.com/typst/typst
+https://github.com/astral-sh/uv
+https://github.com/solana-labs/solana-program-library
+https://github.com/tensorzero/tensorzero
+https://github.com/PyO3/maturin
+https://github.com/fathyb/carbonyl
+https://github.com/GuillaumeGomez/sysinfo
+https://github.com/mainmatter/100-exercises-to-learn-rust
+https://github.com/redis-rs/redis-rs
+https://github.com/awslabs/aws-lambda-web-adapter
+https://github.com/Eventual-Inc/Daft
+https://github.com/cloud-hypervisor/cloud-hypervisor
+https://github.com/trumank/repak
+https://github.com/sigp/lighthouse
+https://github.com/rolldown/rolldown
+https://github.com/rust-lang/libc
+https://github.com/rpcpool/yellowstone-grpc
+https://github.com/getsentry/sentry-cli
+scape ends
+
+ai is reading, the info is:
+1. [rustdesk / rustdesk]:An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.(https://github.com/rustdesk/rustdesk)
+2. [astral-sh / ruff]:An extremely fast Python linter and code formatter, written in Rust.(https://github.com/astral-sh/ruff)
+3. [kata-containers / kata-containers]:Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/(https://github.com/kata-containers/kata-containers)
+4. [cube-js / cube]:📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics(https://github.com/cube-js/cube)
+5. [typst / typst]:A new markup-based typesetting system that is powerful and easy to learn.(https://github.com/typst/typst)
+6. [astral-sh / uv]:An extremely fast Python package and project manager, written in Rust.(https://github.com/astral-sh/uv)
+7. [solana-labs / solana-program-library]:A collection of Solana programs maintained by Solana Labs(https://github.com/solana-labs/solana-program-library)
+8. [tensorzero / tensorzero]:TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.(https://github.com/tensorzero/tensorzero)
+9. [PyO3 / maturin]:Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages(https://github.com/PyO3/maturin)
+10. [fathyb / carbonyl]:Chromium running inside your terminal(https://github.com/fathyb/carbonyl)
+11. [GuillaumeGomez / sysinfo]:Cross-platform library to fetch system information(https://github.com/GuillaumeGomez/sysinfo)
+12. [mainmatter / 100-exercises-to-learn-rust]:A self-paced course to learn Rust, one exercise at a time.(https://github.com/mainmatter/100-exercises-to-learn-rust)
+13. [redis-rs / redis-rs]:Redis library for rust(https://github.com/redis-rs/redis-rs)
+14. [awslabs / aws-lambda-web-adapter]:Run web applications on AWS Lambda(https://github.com/awslabs/aws-lambda-web-adapter)
+15. [Eventual-Inc / Daft]:Distributed data engine for Python/SQL designed for the cloud, powered by Rust(https://github.com/Eventual-Inc/Daft)
+16. [cloud-hypervisor / cloud-hypervisor]:A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.(https://github.com/cloud-hypervisor/cloud-hypervisor)
+17. [trumank / repak]:Unreal Engine .pak file library and CLI in rust(https://github.com/trumank/repak)
+18. [sigp / lighthouse]:Ethereum consensus client in Rust(https://github.com/sigp/lighthouse)
+19. [rolldown / rolldown]:Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.(https://github.com/rolldown/rolldown)
+20. [rust-lang / libc]:Raw bindings to platform APIs for Rust(https://github.com/rust-lang/libc)
+21. [rpcpool / yellowstone-grpc]:solana geyser grpc service(https://github.com/rpcpool/yellowstone-grpc)
+22. [getsentry / sentry-cli]:A command line utility to work with Sentry.(https://github.com/getsentry/sentry-cli)
+
+ai ans is:
+ 1. [rustdesk / rustdesk]:一个开源的远程桌面应用，支持自托管，作为TeamViewer的替代品。(https://github.com/rustdesk/rustdesk)
+2. [astral-sh / ruff]:一个极快的Python代码检查器和格式化工具，用Rust编写。(https://github.com/astral-sh/ruff)
+3. [kata-containers / kata-containers]:Kata Containers是一个开源项目，致力于构建一个标准轻量级虚拟机（VM）的实现，这些虚拟机感觉和性能就像容器一样，但提供了虚拟机的作业隔离和安全优势。(https://katacontainers.io/(https://github.com/kata-containers/kata-containers))
+4. [cube-js / cube]:📊 Cube — 一个适用于AI、BI、电子表格和嵌入式分析的全能语义层平台。(https://github.com/cube-js/cube)
+5. [typst / typst]:一个强大且易于学习的基于标记的排版系统。(https://github.com/typst/typst)
+6. [astral-sh / uv]:一个极快的Python包和项目管理器，用Rust编写。(https://github.com/astral-sh/uv)
+7. [solana-labs / solana-program-library]:由Solana Labs维护的Solana程序集合。(https://github.com/solana-labs/solana-program-library)
+8. [tensorzero / tensorzero]:TensorZero为优化LLM应用创建了一个反馈循环，将生产数据转化为更智能、更快、更便宜的模型。(https://github.com/tensorzero/tensorzero)
+9. [PyO3 / maturin]:使用pyo3、cffi和uniffi绑定以及Rust二进制文件作为Python包构建和发布crate。(https://github.com/PyO3/maturin)
+10. [fathyb / carbonyl]:在终端内运行Chromium。(https://github.com/fathyb/carbonyl)
+11. [GuillaumeGomez / sysinfo]:一个跨平台库，用于获取系统信息。(https://github.com/GuillaumeGomez/sysinfo)
+12. [mainmatter / 100-exercises-to-learn-rust]:一个逐步学习Rust的课程，一次一个练习。(https://github.com/mainmatter/100-exercises-to-learn-rust)
+13. [redis-rs / redis-rs]:Rust的Redis库。(https://github.com/redis-rs/redis-rs)
+14. [awslabs / aws-lambda-web-adapter]:在AWS Lambda上运行Web应用。(https://github.com/awslabs/aws-lambda-web-adapter)
+15. [Eventual-Inc / Daft]:一个为云设计的Python/SQL分布式数据引擎，由Rust驱动。(https://github.com/Eventual-Inc/Daft)
+16. [cloud-hypervisor / cloud-hypervisor]:现代云工作负载的虚拟机监控程序。功能包括CPU、内存和设备热插拔，支持运行Windows和Linux虚拟机，设备卸载使用vhost-user，具有最小的紧凑型足迹。用Rust编写，强烈关注安全性。(https://github.com/cloud-hypervisor/cloud-hypervisor)
+17. [trumank / repak]:Unreal Engine .pak文件库和CLI，用Rust编写。(https://github.com/trumank/repak)
+18. [sigp / lighthouse]:Rust编写的以太坊共识客户端。(https://github.com/sigp/lighthouse)
+19. [rolldown / rolldown]:一个快速的Rust打包器，适用于JavaScript/TypeScript，具有与Rollup兼容的API。(https://github.com/rolldown/rolldown)
+20. [rust-lang / libc]:Rust到平台API的原始绑定。(https://github.com/rust-lang/libc)
+21. [rpcpool / yellowstone-grpc]:Solana geyser gRPC服务。(https://github.com/rpcpool/yellowstone-grpc)
+22. [getsentry / sentry-cli]:一个用于Sentry的命令行工具。(https://github.com/getsentry/sentry-cli)
+
+最惊艳的项目：[cube-js / cube](https://github.com/cube-js/cube) —— 一个全能的语义层平台，适用于AI、BI、电子表格和嵌入式分析。
+
+今天的趋势项目关注的领域和特点：主要关注在开源软件工具、云服务和数据分析工具的开发，特点包括高性能、跨平台、安全性以及与Rust语言的结合。
+
+产品联系: pxxhl@qq.com
